@@ -1,6 +1,6 @@
 import requests
 import json
-import base64
+
 
 
 # send api request
@@ -12,7 +12,12 @@ data = json.loads(response.content)
  #decode data using base64
 # decoded_content = base64.b64decode(data["commit"])
 
-print data[7]['commit']['message']
+def commitList(user):
+    commList= []
+    for x in data:
+        if x['commit']['author']['email'] == user:
+            commList.append(x['commit']['message'])
 
-for x in data:
-    print x['commit']['message']
+    return commList
+
+print commitList('madushajg@gmail.com')
