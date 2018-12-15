@@ -20,4 +20,3 @@ def commitList(user):
 
     return commList
 
-print commitList('madushajg@gmail.com')

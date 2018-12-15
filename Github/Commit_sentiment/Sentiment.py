@@ -72,7 +72,7 @@ def textBlb(text):
 
         elif sentencePolarity > -0.40 and sentencePolarity < 0.40:
             sentimentLevel = 0
-        
+
 
         polarityLevel = polarityLevel + sentencePolarity
         count = count + 1
@@ -136,7 +136,6 @@ def calEmotionalLevel(comment):
         emotionalLevel = -1
     elif Slvl <= -3:
         emotionalLevel = -2
-    
+
     return emotionalLevel
 
-print calEmotionalLevel('Merge pull request #3 from ruchiraPeiris/add-license-1')
