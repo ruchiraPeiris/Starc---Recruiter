@@ -450,7 +450,7 @@ compelled	1
 competent	2
 competitive	2
 complacent	-2
-complain	-2
+completed	4
 complained	-2
 complains	-2
 comprehensive	2
@@ -769,7 +769,7 @@ doubted	-1
 doubtful	-1
 doubting	-1
 doubts	-1
-douche	-3
+done	4
 douchebag	-3
 downcast	-2
 downhearted	-2
@@ -992,7 +992,7 @@ fire	-2
 fired	-2
 firing	-2
 fit	1
-fitness	1
+fixed	4
 flagship	2
 flees	-1
 flop	-2
@@ -2439,8 +2439,8 @@ woebegone	-2
 woeful	-3
 won	3
 wonderful	4
-woo	3
-woohoo	3
+works	4
+working	4
 wooo	4
 woow	4
 worn	-1

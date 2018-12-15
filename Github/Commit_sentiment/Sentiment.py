@@ -139,3 +139,4 @@ def calEmotionalLevel(comment):
 
     return emotionalLevel
 
+
