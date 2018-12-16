@@ -8,7 +8,7 @@ for user in users:
     list = []
     list = commitList(user)
     for commit in list:
-        score = 0;
+        score = 0
         score+=calEmotionalLevel(commit.lower())
     print user+": "+score.__str__()
 
