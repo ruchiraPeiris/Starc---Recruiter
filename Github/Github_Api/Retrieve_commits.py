@@ -13,7 +13,7 @@ data = json.loads(response.content)
 # decoded_content = base64.b64decode(data["commit"])
 
 def commitList(user):
-    commList= []
+    commList = []
     for x in data:
         if x['commit']['author']['email'] == user:
             commList.append(x['commit']['message'])
