@@ -1,10 +1,11 @@
 import requests
 import json
 
+from Github.Github_Api.commit_count import findmax
 
-
+max_commit_repo = findmax()
 # send api request
-response = requests.get('https://api.github.com/repos/ruchirapeiris/ontology/commits')
+response = requests.get('https://api.github.com/repos/ruchirapeiris/'+max_commit_repo+'/commits')
 
 print response.headers['content-type']
 # load response as a json object
@@ -17,7 +18,6 @@ def commitList(user):
     for x in data:
         if x['commit']['author']['email'] == user:
             commList.append(x['commit']['message'])
-
+    print commList
     return commList
 
-commitList('ruchirapeiris7@gmail.com')
