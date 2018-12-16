@@ -762,7 +762,7 @@ dodgy	-2
 does not work	-3
 dolorous	-2
 dont like	-2
-doom	-2
+done	4
 doomed	-2
 doubt	-1
 doubted	-1
