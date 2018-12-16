@@ -25,11 +25,12 @@ def findmax():
 
     max_commits = 0
     for item in repo_data:
-        count2 = count(item['name'])
+        test = item['name']
+        count2 = count(test)
         if count2 > max_commits:
             max_commits = count2
             max_repo = item['name']
-
+    print max_commits
 
 
     return max_repo
