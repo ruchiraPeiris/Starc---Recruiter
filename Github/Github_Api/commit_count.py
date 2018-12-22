@@ -2,9 +2,10 @@ import requests
 import json
 
 
-users = ['ruchirapeiris']
+userName = 'milankarunarathne'
+email = 'mhkarunarathne@gmail.com'
 
-request_url = "https://api.github.com/users/"+users[0]+"/repos"
+request_url = "https://api.github.com/users/"+userName+"/repos?client_id=2b010a4d4fce9da34253&client_secret=6ba2777c7086b32f9187ceeb8a2d43aeb5eded34"
 
 result = requests.get(request_url)
 repo_data = json.loads(result.content)
@@ -12,11 +13,11 @@ max_commits = 0
 
 def count(repo):
 
-    comm_result = requests.get('https://api.github.com/repos/'+users[0]+'/'+repo+'/commits')
+    comm_result = requests.get('https://api.github.com/repos/'+userName+'/'+repo+'/commits?client_id=2b010a4d4fce9da34253&client_secret=6ba2777c7086b32f9187ceeb8a2d43aeb5eded34')
     comm_data = json.loads(comm_result.content)
     count = 0
     for value in comm_data:
-        if value['commit']['author']['email'] == 'ruchirapeiris7@gmail.com':
+        if value['commit']['author']['email'] == email:
             count+=1
 
     return count
@@ -30,9 +31,9 @@ def findmax():
         if count2 > max_commits:
             max_commits = count2
             max_repo = item['name']
-    print max_commits
+    print 'Maximum number of commits: '+max_commits.__str__()
 
 
     return max_repo
 
-print findmax()
+print 'Repository which has maximum commits: '+findmax()

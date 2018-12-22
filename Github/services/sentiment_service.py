@@ -1,7 +1,7 @@
 from Github.Commit_sentiment.Sentiment import calEmotionalLevel
 from Github.Github_Api.Retrieve_commits import commitList
 
-users = ["ruchirapeiris7@gmail.com",'madushajg@gmail.com']
+users = ['mhkarunarathne@gmail.com']
 
 
 for user in users:
@@ -10,6 +10,6 @@ for user in users:
     score = 0
     for commit in list:
         score+=calEmotionalLevel(commit.lower())
-    print user+": "+score.__str__()
+    print 'Score of '+user+": "+score.__str__()
 
 
