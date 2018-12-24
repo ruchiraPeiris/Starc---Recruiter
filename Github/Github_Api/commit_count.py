@@ -20,7 +20,7 @@ def findmax(email,userName):
 
     result = requests.get(request_url)
     repo_data = json.loads(result.content)
-
+    max_repo = ' '
     max_commits = 0
     for item in repo_data:
         test = item['name']
@@ -33,4 +33,4 @@ def findmax(email,userName):
 
     return max_repo
 
-print 'Repository which has maximum commits: '+findmax('mohomedarshad1@gmail.com','ArshadFauzil')
+print 'Repository which has maximum commits: '+findmax('lahkarunarathne@gmail.com ','Harith93uom')
