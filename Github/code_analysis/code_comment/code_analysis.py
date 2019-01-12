@@ -1,5 +1,7 @@
 import re
+from pylint.lint import Run
 
+# test comment
 def lineCount(fileName):
     file = open(fileName,'r')
     content= file.read()
@@ -21,4 +23,12 @@ def lineCount(fileName):
     print 'code line count: '+codeCount.__str__()
 
 
-lineCount('code')
+#lineCount('code')
+
+
+def pylintScore():
+
+    Run(['warnings', '../../Github_Api/commit_count.py'])
+
+
+pylintScore()

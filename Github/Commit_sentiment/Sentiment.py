@@ -137,6 +137,5 @@ def calEmotionalLevel(comment):
     elif Slvl <= -3:
         emotionalLevel = -2
 
-    return emotionalLevel
-
+    return Slvl
 
