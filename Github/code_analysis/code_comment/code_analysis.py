@@ -1,5 +1,6 @@
+import os
 import re
-
+import csv
 from pylint import lint
 from pylint.lint import Run
 
@@ -23,12 +24,15 @@ def run_pylint(filename):
     pylint_output = WritableObject()
     lint.Run([filename], reporter=TextReporter(pylint_output), exit=False)
     for l in pylint_output.read():
+        if l.split(' ', 1)[0] == 'Your':
+            return l
 
-            print l
 
-
-# test comment
-run_pylint('../../Github_Api/retrieve_commits.py')
+with open('../../../Github_repos.csv','r') as csv_file:
+    csv_reader = csv.reader(csv_file)
+    for user in csv_reader:
+        if os.path.isfile('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py'):
+            print user[0]+', '+run_pylint('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py')
 
 
 def pylintScore():
