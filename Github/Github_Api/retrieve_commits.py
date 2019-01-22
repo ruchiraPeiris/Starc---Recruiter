@@ -12,8 +12,11 @@ def commit_list(email, user_name, max_commit_repo):
     data = json.loads(response.content)
     comm_list = []
     for x in data:
-        if x['commit']['author']['email'] == email:
-            comm_list.append(x['commit']['message'])
+        try:
+            if x['commit']['author']['email'] == email:
+                comm_list.append(x['commit']['message'])
+        except:
+            continue
 
     return comm_list
 
