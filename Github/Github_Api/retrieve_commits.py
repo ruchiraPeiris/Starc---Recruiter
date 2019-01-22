@@ -4,6 +4,8 @@ import requests
 
 
 def commit_list(email, user_name, max_commit_repo):
+
+
     # send api request
     response = requests.get(
         'https://api.github.com/repos/'+user_name+'/'+ max_commit_repo + '/commits?client_id=2b010a4d4fce9da34253&client_secret=6ba2777c7086b32f9187ceeb8a2d43aeb5eded34')
@@ -19,6 +21,7 @@ def commit_list(email, user_name, max_commit_repo):
             continue
 
     return comm_list
+
 
 
 

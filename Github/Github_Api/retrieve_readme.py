@@ -5,6 +5,7 @@ import base64
 import nltk
 from nltk.tokenize import word_tokenize
 
+punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
 def words_list(userName):
 
@@ -24,8 +25,17 @@ def words_list(userName):
 
     filtered_sentence = []
     for w in word_tokens:
-        filtered_sentence.append(w)
+
+        filtered_sentence.append(remove_punctuations(w))
 
 
     return filtered_sentence
 
+
+def remove_punctuations(str):
+    no_punct = ""
+    for char in str:
+        if char not in punctuations:
+            no_punct = no_punct + char
+
+    return no_punct

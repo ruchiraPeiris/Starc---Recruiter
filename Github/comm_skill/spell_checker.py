@@ -57,7 +57,7 @@ def edits2(word):
 
 
 list = []
-list = retrieve_readme.words_list('milankarunarathne')
+list = retrieve_readme.words_list('ruchirapeiris')
 
 if list:
     for word in list:
