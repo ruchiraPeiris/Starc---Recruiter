@@ -1,14 +1,11 @@
 import re
 from collections import Counter
 
-from Github.Github_Api import retrieve_readme
-
-
 def words(text): return re.findall(r'\w+', text.lower())
 
 
-WORDS = Counter(words(open('Comments.xml').read()))
-incorrect_word_list = []
+WORDS = Counter(words(open('big.txt').read()))
+
 
 def P(word, N=sum(WORDS.values())):
     "Probability of `word`."
@@ -17,17 +14,8 @@ def P(word, N=sum(WORDS.values())):
 
 def correction(word):
     "Most probable spelling correction for word."
-    corrected_word = max(candidates(word), key=P)
-    if corrected_word != word:
-       if corrected_word != 'a':
-            incorrect_word_list.append(word)
-            return 'incorrect word: '+word+', '+corrected_word
 
-       else:
-           return 'correct word: '+word
-    else:
-        return 'correct word: '+word
-
+    return max(candidates(word), key=P)
 
 
 def candidates(word):
@@ -56,14 +44,4 @@ def edits2(word):
     return (e2 for e1 in edits1(word) for e2 in edits1(e1))
 
 
-list = []
-list = retrieve_readme.words_list('milankarunarathne')
-
-if list:
-    for word in list:
-        if word:
-            print(correction(word.lower()))
-
-print 'Length of incorrect word list: '+str(len(incorrect_word_list))
-
-# print correction('User')
+print(correction('Ruchira'))
