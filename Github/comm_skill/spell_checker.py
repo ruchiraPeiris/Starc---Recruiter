@@ -56,13 +56,12 @@ def edits2(word):
     return (e2 for e1 in edits1(word) for e2 in edits1(e1))
 
 
-list = []
-list = retrieve_readme.words_list('ruchirapeiris')
+
+list, tw = retrieve_readme.words_list('ruchirapeiris')
 
 if list:
     for word in list:
-        if word:
-            print(correction(word.lower()))
+        print(correction(word.lower()))
 
 print 'Length of incorrect word list: '+str(len(incorrect_word_list))
 

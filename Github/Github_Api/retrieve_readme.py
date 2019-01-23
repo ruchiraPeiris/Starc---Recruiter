@@ -6,7 +6,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
-
+total_words = 0
 def words_list(userName):
 
     repo_name = ''
@@ -17,19 +17,26 @@ def words_list(userName):
             if raw[2] == userName:
                 repo_name = raw[3]
                 print repo_name
-    response = requests.get('https://api.github.com/repos/'+userName+'/'+repo_name+'/readme')
-    data = json.loads(response.content)
-    decoded_content = base64.b64decode(data["content"])
-    words = decoded_content.decode('utf-8')
-    word_tokens = word_tokenize(words)
+    word_tokens = ''
+    try:
+        response = requests.get('https://api.github.com/repos/'+userName+'/'+repo_name+'/readme')
+        data = json.loads(response.content)
+        decoded_content = base64.b64decode(data["content"])
+        words = decoded_content.decode('utf-8')
+        word_tokens = word_tokenize(words)
+    except Exception, ex:
+        print 'Readme file not found'
+        return [], 0
+
 
     filtered_sentence = []
     for w in word_tokens:
+        filtered_word = remove_punctuations(w)
+        if filtered_word:
+            filtered_sentence.append(filtered_word)
 
-        filtered_sentence.append(remove_punctuations(w))
-
-
-    return filtered_sentence
+    total_words = len(filtered_sentence)
+    return filtered_sentence, total_words
 
 
 def remove_punctuations(str):
