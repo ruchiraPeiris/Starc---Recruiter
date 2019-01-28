@@ -17,6 +17,7 @@ def words_list(userName):
             if raw[2] == userName:
                 repo_name = raw[3]
                 print repo_name
+                break
     word_tokens = ''
     try:
         response = requests.get('https://api.github.com/repos/'+userName+'/'+repo_name+'/readme')
@@ -31,9 +32,10 @@ def words_list(userName):
 
     filtered_sentence = []
     for w in word_tokens:
-        filtered_word = remove_punctuations(w)
-        if filtered_word:
-            filtered_sentence.append(filtered_word)
+        if w != '``':
+            filtered_word = remove_punctuations(w)
+            if filtered_word:
+                filtered_sentence.append(filtered_word)
 
     total_words = len(filtered_sentence)
     return filtered_sentence, total_words
@@ -46,3 +48,5 @@ def remove_punctuations(str):
             no_punct = no_punct + char
 
     return no_punct
+
+# words_list('ThisaruGuruge')

@@ -8,7 +8,7 @@ with open('../../Github_repos.csv','r') as csv_file:
         fs, tot_words = words_list(raw[2])
         incorrect_words = raw[4]
         try:
-            print 'Normalized spelling score of(correctness per word) '+raw[0]+': '+str(1 - float(incorrect_words)/float(tot_words))
+            print 'Normalized spelling score of '+raw[0]+': '+str((1 - float(incorrect_words)/float(tot_words))*10)
         except Exception, e:
             print raw[0]+': '+str(e)
 

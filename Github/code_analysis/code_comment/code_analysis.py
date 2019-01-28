@@ -3,6 +3,7 @@ import re
 import csv
 from pylint import lint
 from pylint.lint import Run
+import invoke_sonar as sonar
 
 
 class WritableObject(object):
@@ -27,12 +28,16 @@ def run_pylint(filename):
         if l.split(' ', 1)[0] == 'Your':
             return l
 
-
-with open('../../../Github_repos.csv','r') as csv_file:
-    csv_reader = csv.reader(csv_file)
-    for user in csv_reader:
-        if os.path.isfile('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py'):
-            print user[0]+', '+run_pylint('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py')
+def invoke():
+    try:
+        with open('../../../Github_repos.csv','r') as csv_file:
+            csv_reader = csv.reader(csv_file)
+            for user in csv_reader:
+                if os.path.isfile('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py'):
+                    print user[0]+', '+run_pylint('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py')
+                    return
+    except Exception, ex:
+        print ex
 
 
 def pylintScore():
@@ -42,3 +47,5 @@ def pylintScore():
 
 
 # print +pylintScore()
+
+invoke()

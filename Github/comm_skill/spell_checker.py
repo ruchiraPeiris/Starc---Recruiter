@@ -21,12 +21,16 @@ def correction(word):
     if corrected_word != word:
        if corrected_word != 'a':
             incorrect_word_list.append(word)
-            return 'incorrect word: '+word+', '+corrected_word
+            print 'incorrect word: '+word+', '+corrected_word
+            return False
 
        else:
-           return 'correct word: '+word
+           print 'correct word: '+word
+           return True
     else:
-        return 'correct word: '+word
+        print 'correct word: '+word
+        return True
+
 
 
 
@@ -57,12 +61,12 @@ def edits2(word):
 
 
 
-list, tw = retrieve_readme.words_list('ruchirapeiris')
+list, tw = retrieve_readme.words_list('salindalakmal')
 
 if list:
     for word in list:
-        print(correction(word.lower()))
+        correction(word.lower())
 
 print 'Length of incorrect word list: '+str(len(incorrect_word_list))
 
-# print correction('User')
+# print correction('pylint')

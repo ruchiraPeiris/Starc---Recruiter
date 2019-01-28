@@ -8,16 +8,17 @@ with open('../../Github_repos.csv','r') as csv_file:
     csv_reader = csv.reader(csv_file)
 
     for user in csv_reader:
-        list = []
-        list = commit_list(user[1],user[2],user[3])
-        score = 0
-        for commit in list:
-            if len(list) >= 5:
-                score += calEmotionalLevel(commit.lower())
         try:
-            test = float(score)/float(len(list))
-        except:
-            print 'no commits in the repository'
+            list = []
+            list = commit_list(user[1],user[2],user[3])
+            score = 0
+            for commit in list:
+                if len(list) >= 5:
+                    score += calEmotionalLevel(commit.lower())
+
+                test = float(score)/float(len(list))
+        except Exception, e:
+            print e
         print 'Score of ' + user[0] + ": " + str(test)
 
 
