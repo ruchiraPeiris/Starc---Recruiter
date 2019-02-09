@@ -2,7 +2,7 @@
     background-color: #ffff00;
     background : #00000f;
     border-bottom: solid;
-    border-bottom-color: #ff820e;
+    border-bottom-color: #00bfff;
     height: 60px;
 }
 
@@ -43,7 +43,7 @@ html{
 
 footer{
     border-top: solid;
-    border-top-color: #ff820e;
+    border-top-color: #00bfff;
 
     position: absolute;
     min-height: 2px;

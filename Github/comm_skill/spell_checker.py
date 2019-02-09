@@ -4,10 +4,11 @@ from collections import Counter
 from Github.Github_Api import retrieve_readme
 
 
+
+
 def words(text): return re.findall(r'\w+', text.lower())
 
-
-WORDS = Counter(words(open('Comments.xml').read()))
+WORDS = Counter(words(open('big.txt').read()))
 incorrect_word_list = []
 
 def P(word, N=sum(WORDS.values())):
@@ -15,20 +16,22 @@ def P(word, N=sum(WORDS.values())):
     return WORDS[word] / N
 
 
+
 def correction(word):
     "Most probable spelling correction for word."
-    corrected_word = max(candidates(word), key=P)
-    if corrected_word != word:
-       if corrected_word != 'a':
-            incorrect_word_list.append(word)
-            print 'incorrect word: '+word+', '+corrected_word
-            return False
 
-       else:
-           print 'correct word: '+word
-           return True
+    most_probable_word = max(candidates(word), key=P)
+    #print(P(word))
+    if most_probable_word != word:
+        if most_probable_word != 'a':
+            incorrect_word_list.append(word)
+            print(('incorrect word: '+word+', Most probable word in the dictionary: '+most_probable_word))
+            return False
+        else:
+            print('correct word')
+
     else:
-        print 'correct word: '+word
+        print(('correct word: '+word))
         return True
 
 
@@ -61,12 +64,12 @@ def edits2(word):
 
 
 
-list, tw = retrieve_readme.words_list('salindalakmal')
+list, tw = retrieve_readme.words_list('nsaumini')
 
 if list:
     for word in list:
         correction(word.lower())
 
-print 'Length of incorrect word list: '+str(len(incorrect_word_list))
+print(('Length of incorrect word list: '+str(len(incorrect_word_list))))
 
 # print correction('pylint')

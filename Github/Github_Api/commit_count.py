@@ -13,24 +13,27 @@ def count(repo,email,userName):
         for value in comm_data:
             if value['commit']['author']['email'] == email:
                 count+=1
-    except Exception, e:
-        print 'error occurred while finding user commits: '+str(e)
+    except Exception as e:
+        print('error occurred while finding user commits: '+str(e))
     return count
 
 def findmax(email,userName):
-    request_url = "https://api.github.com/users/" + userName + "/repos?client_id=2b010a4d4fce9da34253&client_secret=6ba2777c7086b32f9187ceeb8a2d43aeb5eded34"
+    try:
+        request_url = "https://api.github.com/users/" + userName + "/repos?client_id=2b010a4d4fce9da34253&client_secret=6ba2777c7086b32f9187ceeb8a2d43aeb5eded34"
 
-    result = requests.get(request_url)
-    repo_data = json.loads(result.content)
-    max_repo = ' '
-    max_commits = 0
-    for item in repo_data:
-        test = item['name']
-        count2 = count(test,email,userName)
-        if count2 > max_commits:
-            max_commits = count2
-            max_repo = item['name']
-    print 'Maximum number of commits: '+max_commits.__str__()
+        result = requests.get(request_url)
+        repo_data = json.loads(result.content)
+        max_repo = ' '
+        max_commits = 0
+        for item in repo_data:
+            test = item['name']
+            count2 = count(test,email,userName)
+            if count2 > max_commits:
+                max_commits = count2
+                max_repo = item['name']
+        print('Maximum number of commits: '+max_commits.__str__())
+    except Exception as ex:
+        print(ex)
 
 
     return max_repo
@@ -38,7 +41,7 @@ def findmax(email,userName):
 with open('../../Github_repos.csv','r') as csv_file:
     csv_reader = csv.reader(csv_file)
     for raw in csv_reader:
-        print 'Repository which has maximum commits for '+raw[0]+': ' + findmax(raw[1], raw[2])+'\n'
+        print('Repository which has maximum commits for '+raw[0]+': ' + findmax(raw[1], raw[2])+'\n')
 
 
-# print 'Repository which has maximum commits: '+findmax('jdeen-solutions@outlook.com','ziyan-junaideen')
+#print 'Repository which has maximum commits: '+findmax('dinusha9999@gmail.com','Dinusha9999')

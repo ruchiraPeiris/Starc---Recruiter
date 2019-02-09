@@ -34,11 +34,10 @@ def invoke():
             csv_reader = csv.reader(csv_file)
             for user in csv_reader:
                 if os.path.isfile('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py'):
-                    print user[0]+', '+run_pylint('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py')
+                    print(user[0]+', '+run_pylint('../../files/code_snippets/'+user[0]+'/'+user[0]+'.py'))
                     return
-    except Exception, ex:
-        print ex
-
+    except Exception as ex:
+        print(ex)
 
 def pylintScore():
 

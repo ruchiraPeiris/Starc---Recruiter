@@ -1,5 +1,6 @@
 import json
 import requests
+import csv
 
 
 
@@ -25,3 +26,24 @@ def commit_list(email, user_name, max_commit_repo):
 
 
 
+
+def load_users():
+    x =0
+    paragraph = ''
+    try:
+        with open('../../Github_repos.csv','r') as csv_file:
+            csv_reader = csv.reader(csv_file)
+            for raw in csv_reader:
+                list2 = []
+                list2 = commit_list(raw[1], raw[2], raw[3])
+
+                for x in range(0,5):
+                    paragraph+=' '+list2[x]
+
+
+                print(raw[0]+': '+paragraph)
+    except Exception as ex:
+        print('Error: '+str(ex))
+
+
+load_users()

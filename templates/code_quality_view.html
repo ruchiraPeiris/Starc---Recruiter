@@ -7,51 +7,121 @@
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 50%;
+    width: 100%;
     counter-reset: tableCount;
+    alignment: center;
+
+
+}
+.left-block{
+      margin-left: 30px;
+    margin-right: 30px;
 }
 
+.right-block{
+      margin-left: 30px;
+    margin-right: 30px;
+}
 .counterCell:before {
     content: counter(tableCount);
     counter-increment: tableCount;
 }
 
 td, th {
-    border: 1px solid #dddddd;
+    border: 0px solid #dddddd;
     text-align: left;
     padding: 8px;
+}
+image {
+    height: 7px;
+  width: 5px;
 }
 
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 </style>
-<div class="block1">
-<h1>User Ranking for Code Quality</h1>
-  <h2>Found these users according to the quality of the code</h2>
-</br><br/>
+
 {#<img src="https://www.google.lk/imgres?imgurl=https%3A%2F%2Frietveld-ict.nl%2Fwp-content%2Fuploads%2F2014%2F01%2Fusers.png&imgrefurl=https%3A%2F%2Frietveld-ict.nl%2Fhow-to-get-a-list-of-specified-users-and-their-group-membership-from-active-directory%2F&docid=a97KqOsyi6fA4M&tbnid=PcQgPOYqVFGugM%3A&vet=10ahUKEwil19CsoujcAhXVfysKHY2tDiwQMwiyASgIMAg..i&w=500&h=240&bih=698&biw=1456&q=users&ved=0ahUKEwil19CsoujcAhXVfysKHY2tDiwQMwiyASgIMAg&iact=mrc&uact=8"/>#}
-<img src="{{ url_for('static', filename='images/users.png') }}">
-    <table align="center">
+{# <img src="{{ url_for('static', filename='images/github_logo.png') }} "> #}
+    <div class="row">
+  <div class="column">
+ <div class="left-block">
+<h3 align="middle">Ranking for Software Engineers</h3>
+  <h4 align="middle">Found these users according to the job requirements</h4>
+</br><br/>
+
+     <table align="left">
    <thead>
       <tr>
         <th>Image</th>
-        <th>Score</th>
+        <th>Name</th>
         <th>Rank</th>
       </tr>
    </thead>
 
   <tbody>
-    {% for user in users_list %}
+  {% for user in se_list %}
         <tr>
-          <td class="counterCell"></td>
+
+          <td><img src="https://avatars3.githubusercontent.com/u/+{{ user[1] }}" height="40px" width="40px" alt="N/A"></td>
           <td>{{user[0]}}</td>
-          <td>{{user[1]}}</td>
+            <td>{{user[7]}}</td>
         </tr>
-    {% endfor %}
+  {% endfor %}
   </tbody>
 
 </table>
+  </div>
+  </div>
+
+  <div class="column">
+  <div class="right-block">
+   <h3 align="middle">Ranking for Senior Software Engineers</h3>
+  <h4 align="middle">Found these users according to the job requirements</h4>
+</br><br/>
+
+     <table align="left">
+   <thead>
+      <tr>
+        <th>Image</th>
+        <th>Name</th>
+        <th>Rank</th>
+      </tr>
+   </thead>
+
+  <tbody>
+  {% for user in sse_list %}
+        <tr>
+
+          <td><img src="https://avatars3.githubusercontent.com/u/+{{ user[8] }}" height="40px" width="40px" alt="N/A"></td>
+          <td>{{user[0]}}</td>
+            <td></td>
+        </tr>
+  {% endfor %}
+  </tbody>
+
+</table>
+  </div>
+  </div>
+  </div>
+</div>
+
 
 
 <br/><br/><br/><br/>

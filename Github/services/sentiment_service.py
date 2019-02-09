@@ -17,9 +17,9 @@ with open('../../Github_repos.csv','r') as csv_file:
                     score += calEmotionalLevel(commit.lower())
 
                 test = float(score)/float(len(list))
-        except Exception, e:
-            print e
-        print 'Score of ' + user[0] + ": " + str(test)
+        except Exception as e:
+            print(e)
+        print('Score of ' + user[0] + ": " + str(test))
 
 
 
