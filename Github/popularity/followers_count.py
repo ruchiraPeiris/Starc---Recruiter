@@ -1,7 +1,7 @@
 import requests
 import json
 import csv
-
+from collections import OrderedDict
 
 def get_followers_per_user(user_name):
 
@@ -41,9 +41,9 @@ def get_max_follwers():
 
 def avg_score():
     min_val = 0
-    dict_follow_count = {}
+    dict_follow_count = OrderedDict()
     try:
-        with open('../../Github_repos.csv','r') as csv_file:
+        with open('../../Github_repos_SSE.csv','r') as csv_file:
             csv_reader = csv.reader(csv_file)
             max = get_max_follwers()
             #print max
@@ -80,8 +80,8 @@ def normalize(dict_name_score):
     print('////////////////////////////////////')
     print('Normalized scores')
     for key,val in dict_name_score.items():
-        final_score = 1 + float((val - dict_name_score[minimum])*9)/float(dict_name_score[maximum]-dict_name_score[minimum])
-        print(key+', '+str(round(final_score,3)))
+        final_score = 0 + float((val - dict_name_score[minimum])*1)/float(dict_name_score[maximum]-dict_name_score[minimum])
+        print(key+', '+str(round(final_score,4)))
 
 
 avg_score()

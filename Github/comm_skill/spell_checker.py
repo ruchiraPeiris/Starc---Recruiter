@@ -8,17 +8,16 @@ from Github.Github_Api import retrieve_readme
 
 def words(text): return re.findall(r'\w+', text.lower())
 
-WORDS = Counter(words(open('big.txt').read()))
+WORDS = Counter(words(open('Comments.xml',encoding='UTF8').read()))
 incorrect_word_list = []
 
 def P(word, N=sum(WORDS.values())):
     "Probability of `word`."
     return WORDS[word] / N
 
-
+print (WORDS.most_common(10))
 
 def correction(word):
-    "Most probable spelling correction for word."
 
     most_probable_word = max(candidates(word), key=P)
     #print(P(word))
@@ -64,12 +63,5 @@ def edits2(word):
 
 
 
-list, tw = retrieve_readme.words_list('nsaumini')
 
-if list:
-    for word in list:
-        correction(word.lower())
-
-print(('Length of incorrect word list: '+str(len(incorrect_word_list))))
-
-# print correction('pylint')
+print (correction('managment'))

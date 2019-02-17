@@ -11,6 +11,8 @@ with open('../../Github_repos.csv','r') as csv_file:
         try:
             list = []
             list = commit_list(user[1],user[2],user[3])
+
+
             score = 0
             for commit in list:
                 if len(list) >= 5:

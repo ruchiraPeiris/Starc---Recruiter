@@ -10,7 +10,7 @@ import operator
 
 def individual_score():
     dict_normalized_score = OrderedDict()
-    with open('../../Github_repos.csv','r') as csv_file:
+    with open('../../Github_repos_SSE.csv','r') as csv_file:
         csv_reader = csv.reader(csv_file)
 
         for user2 in csv_reader:
@@ -47,8 +47,8 @@ def normalize(dict_name_score):
     print('////////////////////////////////////')
     print('Normalized Scores')
     for key,val in dict_name_score.items():
-        final_score = 1 + float((val - dict_name_score[minimum])*9)/float(dict_name_score[maximum]-dict_name_score[minimum])
-        print(key+', '+str(round(final_score,3)))
+        final_score = 0 + float((val - dict_name_score[minimum])*1)/float(dict_name_score[maximum]-dict_name_score[minimum])
+        print(key+', '+str(round(final_score,4)))
 
 
 
