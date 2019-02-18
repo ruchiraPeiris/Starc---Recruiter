@@ -72,7 +72,7 @@ def final_rank_SSE(list):
 
 
 def github_rank_SE(list):
-    max = int(len(get_features_github()))
+    max = int(len(get_features_github())) + 1
     dict_name_score = {}
     sorted_list = []
     print(max)
@@ -83,7 +83,7 @@ def github_rank_SE(list):
             for raw in csv_reader:
                 N = 0
                 D = 0
-                for x in range(1, 6):
+                for x in range(1, 7):
                     N = N + (max - int(list[x - 1])) * float(raw[x])
                     D = D + (max - int(list[x - 1]))
                 final_score = float(N) / float(D)

@@ -7,10 +7,10 @@ import operator
 weights_per_feature = {
 'code_comment_percentage': 2,
 'code_quality': 2,
-'comment_sentiment': 4,
-'spelling': 3,
-'popularity': 5,
-'useof_popular_technologies': 1,
+'comment_sentiment': 5,
+'spelling': 4,
+'popularity': 6,
+'useof_popular_technologies': 3,
 }
 
 
