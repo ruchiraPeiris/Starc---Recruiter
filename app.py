@@ -9,28 +9,11 @@ from stack_finalrank_csv import se_sorted_list_stack, sse_sorted_list_stack
 
 app = Flask(__name__)
 
-#app.config['MONGO_DBNAME'] = 'starc_db'
-#app.config['MONGO_URI'] = 'mongodb://ruchira:welcome123@ds161804.mlab.com:61804/starc_db'
-
-client = MongoClient("mongodb://ruchira:welcome123@ds161804.mlab.com:61804/starc_db") #host uri
-db = client.starc_db #Select the database
 
 @app.route('/')
 def hello_world():
     list = get_features()
     return render_template('index.html',feature_list = list)
-
-
-@app.route('/add')
-def  add():
-    name = 'sahan'
-    all_users = db.users
-    user = all_users.find_one({'name':name})
-    if user:
-        return 'existing user'
-    else:
-        all_users.insert({'name':name})
-        return 'user added'
 
 
 @app.route('/GithubRank', methods=['GET'])
