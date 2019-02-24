@@ -5,4 +5,7 @@ User Ranking System Based on Social Networking Sites and Code Repositories
 * commit sentiment
 * comment/code ratio
 * code quality(pylint)
+* spelling
+* Use of popular technologies
+* popularity in Github
 
