@@ -2,7 +2,7 @@ import os
 from textblob import TextBlob
 import math
 import re
-import sys
+#import sys
 #sys.setdefaultencoding('utf-8')
 
 
@@ -149,3 +149,4 @@ def calEmotionalLevel(comment):
 
     return Slvl
 
+print (calEmotionalLevel('great'))

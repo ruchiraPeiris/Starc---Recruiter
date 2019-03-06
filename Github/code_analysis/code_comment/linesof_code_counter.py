@@ -4,7 +4,6 @@ import os, os.path
 import csv
 from collections import OrderedDict
 
-
 # comment symbol
 acceptableFileExtensions = ['.java','.php','.cpp','.py','.rb','.swift','.ts','.js']
 dict_normalized_score = OrderedDict()
@@ -130,7 +129,7 @@ def normalize(dict_name_score):
     print(minimum + ',' + str(dict_name_score[minimum]))
     print('////////////////////////////////////')
     for key,val in dict_name_score.items():
-        final_score = 1 + float((val - dict_name_score[minimum])*9)/float(dict_name_score[maximum]-dict_name_score[minimum])
-        print(key+', '+str(round(final_score,3)))
+        final_score = 0 + float((val - dict_name_score[minimum])*1)/float(dict_name_score[maximum]-dict_name_score[minimum])
+        print(key+', '+str(round(final_score,4)))
 
 load_users()

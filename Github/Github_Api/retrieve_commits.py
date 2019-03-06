@@ -46,4 +46,5 @@ def load_users():
         print('Error: '+str(ex))
 
 
-load_users()
+#load_users()
+#print commit_list('nsaumini@gmail.com','nsaumini','nova-field-count')

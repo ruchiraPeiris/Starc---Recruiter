@@ -12,8 +12,9 @@ with open('../../Github_repos_SSE.csv','r') as csv_file:
             continue
         incorrect_words = raw[4]
         try:
-            answer = (1 - (float(incorrect_words)/float(tot_words)))*10
+            answer = (1 - (float(incorrect_words)/float(tot_words)))
             print('Normalized spelling score of '+raw[0]+': '+str(round(answer,2)))
         except Exception as e:
             print(raw[0]+': '+str(e))
+
 

@@ -71,7 +71,7 @@ tr:nth-child(even) {
       <tr>
         <th>Image</th>
         <th>Name</th>
-        <th>Rank</th>
+        <th>Score</th>
       </tr>
    </thead>
 
@@ -79,9 +79,9 @@ tr:nth-child(even) {
   {% for user in se_list %}
         <tr>
 
-          <td><img src="https://avatars3.githubusercontent.com/u/+{{ user[1] }}" height="40px" width="40px" alt="N/A"></td>
+          <td><img src="https://avatars3.githubusercontent.com/u/+{{ user[1][1]}}" height="40px" width="40px" alt="N/A"></td>
           <td>{{user[0]}}</td>
-            <td>{{user[7]}}</td>
+            <td>{{user[1][0]}}</td>
         </tr>
   {% endfor %}
   </tbody>
@@ -101,17 +101,18 @@ tr:nth-child(even) {
       <tr>
         <th>Image</th>
         <th>Name</th>
-        <th>Rank</th>
+        <th>Score</th>
       </tr>
    </thead>
 
   <tbody>
   {% for user in sse_list %}
+
         <tr>
 
-          <td><img src="https://avatars3.githubusercontent.com/u/+{{ user[8] }}" height="40px" width="40px" alt="N/A"></td>
+          <td><img src="https://avatars3.githubusercontent.com/u/+{{ user[1][1] }}" height="40px" width="40px" alt="N/A"></td>
           <td>{{user[0]}}</td>
-            <td></td>
+            <td>{{user[1][0]}}</td>
         </tr>
   {% endfor %}
   </tbody>
