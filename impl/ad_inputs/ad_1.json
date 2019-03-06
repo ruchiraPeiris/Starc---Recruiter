@@ -1,0 +1,15 @@
+{
+  "_comment": "below is an ad",
+  "skills": "java, python, spring, mongodb, spark",
+  "non-technical": "paste the whole text here. make sure you remove newline characters. Passionate individual with skills to blah bla ",
+  "expert_priorities": {
+    "experience": 1,
+    "skill": 2,
+    "education":4,
+    "ad_match":3 ,
+    "sentiment":5,
+    "certifications":7,
+    "prediction":6
+
+  }
+}

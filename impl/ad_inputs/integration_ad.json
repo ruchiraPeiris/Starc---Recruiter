@@ -1,0 +1,24 @@
+{
+  "_comment": "below is an ad",
+  "skills": "java, python, spring, mongodb, spark",
+  "non-technical": "paste the whole text here. make sure you remove newline characters. Passionate individual with skills to blah bla ",
+  "expert_priorities": {
+    "experience": 1,
+    "skill":2 ,
+    "education":2 ,
+    "non_technical":10,
+    "sentiment": 5,
+    "certifications": 7,
+    "retention_prediction":6,
+
+    "code_comment_percentage": 8,
+    "code_quality":8 ,
+    "commit_sentiment": 9,
+    "spelling":3,
+    "popularity": 4,
+    "useof_popular_technologies": 10,
+    "releventness_to_jobadd":5
+
+  }
+
+}

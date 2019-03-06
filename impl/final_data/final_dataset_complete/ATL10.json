@@ -1,0 +1,2190 @@
+[
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQHWv93thqulYw/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=pfmoq2BBtgV5nrLnSO2wpApvebcRLDABE1BB9aPtVcI",
+            "fullName": "Prasad Thilakarathne",
+            "headline": "Associate Tech Lead at CodeGen International,\nPresident at CodeGen Toastmasters Club",
+            "company": "CodeGen International",
+            "school": "Uva Wellassa University of Sri Lanka",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/prasadthilakarathne/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAwL9R0BYtBAzxwcrPktVJb6c9xUbmfAMMs",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAwL9R0BYtBAzxwcrPktVJb6c9xUbmfAMMs,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAwL9R0BYtBAzxwcrPktVJb6c9xUbmfAMMs%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Passionate, responsible and committed engineer, with a get-it-done, on-time spirit, and four\n      years of experience in designing, implementing and adapting technically sophisticated web\n      \n      services and mobile applications.",
+            "firstName": "Prasad",
+            "lastName": "Thilakarathne"
+        },
+        "jobs": [
+            {
+                "companyName": "CodeGen International",
+                "companyUrl": "https://www.linkedin.com/company/136773/",
+                "jobTitle": "Associate Tech Lead",
+                "dateRange": "Apr 2018 – Present",
+                "location": "Colombo",
+                "description": null
+            },
+            {
+                "companyName": "CodeGen International",
+                "companyUrl": "https://www.linkedin.com/company/136773/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Apr 2017 – Apr 2018",
+                "location": "Sri Lanka",
+                "description": "* Scrum Master\n* Designing and development of high performance REST web services.\n* Developer training.\n* OTA development.\n* Performance testing and optimizations.\n* Troubleshooting."
+            },
+            {
+                "companyName": "CodeGen International",
+                "companyUrl": "https://www.linkedin.com/company/136773/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Jul 2015 – Mar 2017",
+                "location": "Trace Expert City, Maradana",
+                "description": "Integrating 3rd party APIs to the main product of the Codegen in a well formed Agile\n      environment. Bug fixing, client communication and product performance optimization.\n      \n      Working with 3 main clients."
+            },
+            {
+                "companyName": "LIRNEasia",
+                "companyUrl": "https://www.linkedin.com/company/456939/",
+                "jobTitle": "Project Consultant - Part Time",
+                "dateRange": "Jun 2016 – Dec 2017",
+                "location": "Colombo",
+                "description": "Short Term Project Consultant for the project entitled “Inclusive information societies 2\n      (IIS2) How knowledge, information and technology can connect agricultural and\n      \n      service-sector small producers to global supply chains”."
+            },
+            {
+                "companyName": "hSenid Mobile Solutions (Pvt) Ltd",
+                "companyUrl": "https://www.linkedin.com/company/340797/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Apr 2015 – Jul 2015",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "hSenid Mobile Solutions (Pvt) Ltd",
+                "companyUrl": "https://www.linkedin.com/company/340797/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Oct 2014 – Apr 2015",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "hSenid Mobile Solutions (Pvt) Ltd",
+                "companyUrl": "https://www.linkedin.com/company/340797/",
+                "jobTitle": "Industrial Trainee",
+                "dateRange": "Apr 2014 – Sep 2014",
+                "location": null,
+                "description": "Design, Develop and Maintain Telco applications. Provide solutions for client requirements. Bug fixing, optimization. I had to design and start development of some new products from scratch. All of them were highly traffic generating applications. Developed 3 android application from scratch and deployed them. Actively participating to tech talks and brainstorming meeting twice a month."
+            },
+            {
+                "companyName": "Uva Wellassa University, Sri Lanka.",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Uva%20Wellassa%20University%2C%20Sri%20Lanka.",
+                "jobTitle": "Undergraduate",
+                "dateRange": "Aug 2010 – Sep 2014",
+                "location": null,
+                "description": "Bachelor of Science in Computer Science and Technology."
+            }
+        ],
+        "projects": [
+            {"description": "Queue based time management and work scheduling web application\nOct 2013 – Present\n\nProject descriptionTasks can be viewed as a queue according to it's priority. Team work management. Analyzing work history. Generalize work history and predictions. File sharing. Team discussion. \nTechnologies - Java Server Pages(JSP), Servlet, Mysql, Spring Model View Controller(Spring MVC), Eclipse, Apache Tomcat.\n\nSee project Queue based time management and work scheduling web applicationSee project\nProject nameCropAdvisor\nSep 2015\n\nProject descriptionIn Sri Lanka, a considerable amount of information relevant to farmers involved in the export sector is held within government departments and Ministries. How can we create a solution that enables farmers to receive important information vital to their work and also allow them to share information about disease outbreaks and other issues?\nCropAdvisor addresses the above problem. It is an Android app that has information related to crop advisory, the ability to take geo-tagged photographs and upload to a platform for identifying and tracking diseases, and a platform where farmers can advertise to exporters. This is a two way information channel for farmers. It enables farmers to receive the data stored in a central information database. Regarding field preparation, harvesting, packaging, water management, diseases, pesticides etc. Also they can ask their issues through the Android application and receive expert’s feedback.\n\nSee project CropAdvisorSee project\nProject nameDisaster information for public awareness. Team IOSalli\nDec 2014\n\nProject descriptionDisaster information for public awareness is a web application which is developed for Global Virtual Hackathon 2014 organized by Koding.com. My team name was IOSalli and we won a special price.\n\nWinners - http://www.koding.com/blog/2014/12/winning-hackers/\nMy tweet is in their blog - http://www.koding.com/blog/2014/12/nerdsrule/\nTweets - https://twitter.com/prasadct/status/541861930109923328 , https://twitter.com/thilina_j/status/546178195049828352 , https://twitter.com/thilina_j/status/541519601704501248 , https://twitter.com/prasadct/status/541519069099208706 , https://twitter.com/prasadct/status/541097388039872514\n\nOther creator\nThilina Jayawardana\nSee project Disaster information for public awareness. Team IOSalliSee project\nProject namemWiki - Offline wikipedia search\n2014\n\nProject descriptionOffline wikipedia search through SMS.\n\nHow it works.\n* Register : Type REG<space>MWIKI and send to 77155\n* Search : Type MWIKI<space><Search keyword> and send to 77155\n* Results will receive as numbered SMSs. Only receive the first paragraph of relevent wikipedia page.\n\nLimitations.\n* LKR 2 will be charged per day.\n* Unlimited number of searches without additional cost.\n* Only for Dialog mobile connections.\nSee project mWiki - Offline wikipedia searchSee project\nProject nameVirtual Drawing Pad\nApr 2013 – Aug 2013\n\nProject descriptionProvide user interface to draw shapes and letters using only user's finger without touch screen. \nTechnologies - Image processing, Java, OpenCV, JavaCV, Netbeans IDE."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Uva%20Wellassa%20University%20of%20Sri%20Lanka",
+                "schoolName": "Uva Wellassa University of Sri Lanka",
+                "degree": "Bachelor of Science (B.Sc.)",
+                "degreeSpec": "Computer Science and Technology",
+                "dateRange": "2010 – 2014"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Mahaweli%20National%20School%2C%20Meegalawa.",
+                "schoolName": "Mahaweli National School, Meegalawa.",
+                "dateRange": "2000 – 2008",
+                "description": "GCE A/L 2009 Physics B | Chemistry C | Biology CGCE O/L 20058 A's & 2 B's"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/prasadthilakarathne",
+            "twitter": "prasadct"
+        },
+        "skills": [
+            {
+                "name": "Android Development",
+                "endorsements": "16"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "67"
+            },
+            {
+                "name": "C",
+                "endorsements": "64"
+            },
+            {
+                "name": "Software Engineering",
+                "endorsements": "45"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "43"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "17"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "7"
+            },
+            {
+                "name": "Design Patterns",
+                "endorsements": "6"
+            },
+            {
+                "name": "Object Oriented Design",
+                "endorsements": "5"
+            },
+            {
+                "name": "Algorithms",
+                "endorsements": "4"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "2"
+            },
+            {
+                "name": "NetBeans",
+                "endorsements": "51"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "53"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "64"
+            },
+            {
+                "name": "Java",
+                "endorsements": "70"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "24"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "30"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "16"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "16"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "41"
+            },
+            {
+                "name": "Windows",
+                "endorsements": "15"
+            },
+            {
+                "name": "UML",
+                "endorsements": "11"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "10"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "23"
+            },
+            {
+                "name": "Tomcat",
+                "endorsements": "9"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "8"
+            },
+            {
+                "name": "Android",
+                "endorsements": "9"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "9"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "31"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "7"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "5"
+            },
+            {
+                "name": "Matlab",
+                "endorsements": "5"
+            },
+            {
+                "name": "Relational Databases",
+                "endorsements": "4"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "7"
+            },
+            {
+                "name": "XML",
+                "endorsements": "4"
+            },
+            {
+                "name": "JSF",
+                "endorsements": "1"
+            },
+            {
+                "name": "RESTful WebServices",
+                "endorsements": "1"
+            },
+            {
+                "name": "Git",
+                "endorsements": "1"
+            },
+            {
+                "name": "Ant",
+                "endorsements": "0"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "2"
+            },
+            {
+                "name": "Digital Image Processing",
+                "endorsements": "3"
+            }
+        ],
+        "allSkills": "Android Development, Programming, C, Software Engineering, OOP, Web Services, Web Development, Design Patterns, Object Oriented Design, Algorithms, Software Development, NetBeans, Eclipse, MySQL, Java, JSP, PHP, Hibernate, Linux, JavaScript, Windows, UML, Spring, SQL, Tomcat, jQuery, Android, AJAX, HTML, Servlets, Java Enterprise Edition, Matlab, Relational Databases, CSS, XML, JSF, RESTful WebServices, Git, Ant, Cascading Style Sheets (CSS), Digital Image Processing"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQGPrSLUkM5S4Q/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=u9G-A41fpsHo0I5oDAH7_-nojKm6pjhPUtQIu561Omg",
+            "fullName": "Rajeeshan Rajaratnam",
+            "headline": "Associate Tech Lead at Fortunaglobal Private Limited",
+            "company": "Fortunaglobal Private Limited",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "331",
+            "profileUrl": "https://www.linkedin.com/in/rajeeshan-rajaratnam-63aa6b37/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAAAfPW84BxmEuwlnehDbMkMNvcgQYsTM5TkI",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAfPW84BxmEuwlnehDbMkMNvcgQYsTM5TkI,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAfPW84BxmEuwlnehDbMkMNvcgQYsTM5TkI%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "",
+            "firstName": "Rajeeshan",
+            "lastName": "Rajaratnam"
+        },
+        "jobs": [
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Associate Tech Lead",
+                "dateRange": "Mar 2017 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Jan 2015 – Mar 2017",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "CrimsonLogic",
+                "companyUrl": "https://www.linkedin.com/company/14031/",
+                "jobTitle": "Java Developer",
+                "dateRange": "Jan 2014 – Dec 2014",
+                "location": "Singapore",
+                "description": null
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Feb 2012 – Dec 2013",
+                "location": "Colombo 09",
+                "description": null
+            },
+            {
+                "companyName": "Interblocks Ltd",
+                "companyUrl": "https://www.linkedin.com/company/64154/",
+                "jobTitle": "Intern",
+                "dateRange": "Apr 2011 – Nov 2011",
+                "location": null,
+                "description": "A Virtual Banking solution for Retail and Corporate customers empowering them with a\n      single window online banking, that manages all their banking needs with ease and\n      \n      convenience."
+            }
+        ],
+        "projects": [
+
+        ],
+        "languages": [
+            {"language": "English","proficiency":"professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Limited working proficiency"},
+            {"language": "Tamil","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor’s Degree",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2008 – 2011"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/rajeeshan-rajaratnam-63aa6b37",
+            "mail": "rajeefit89@yahoo.com"
+        },
+        "skills": [
+            {
+                "name": "JSP",
+                "endorsements": "0"
+            },
+            {
+                "name": "Java",
+                "endorsements": "0"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "0"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "0"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "0"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "0"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "0"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "0"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "0"
+            },
+            {
+                "name": "XML",
+                "endorsements": "0"
+            },
+            {
+                "name": "Core Java",
+                "endorsements": "0"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "0"
+            },
+            {
+                "name": "EJB",
+                "endorsements": "0"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "0"
+            },
+            {
+                "name": "Struts",
+                "endorsements": "0"
+            },
+            {
+                "name": "JSF",
+                "endorsements": "0"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "0"
+            },
+            {
+                "name": "Oracle",
+                "endorsements": "0"
+            },
+            {
+                "name": "Ant",
+                "endorsements": "0"
+            },
+            {
+                "name": "UML",
+                "endorsements": "0"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "0"
+            },
+            {
+                "name": "DB2",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "JSP, Java, Servlets, Web Services, MySQL, Linux, Hibernate, JavaScript, AJAX, HTML, XML, Core Java, Java Enterprise Edition, EJB, Spring, Struts, JSF, jQuery, Oracle, Ant, UML, Eclipse, DB2"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4D03AQFA_-1fdmXZ2A/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=VJBhdiMqTL9oWXOWvA97se5l302B7cOudq46uJ-tm0g",
+            "fullName": "Milan Harindu Perera",
+            "headline": "Associate Tech Lead at Entgra.io",
+            "company": "Entgra.io",
+            "school": "University of Colombo School of Computing",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/milanperera/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAXwSOQBtgy3mZn0G88Ym4JYg7CJelUjcxk",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAXwSOQBtgy3mZn0G88Ym4JYg7CJelUjcxk,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAXwSOQBtgy3mZn0G88Ym4JYg7CJelUjcxk%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "",
+            "firstName": "Milan",
+            "lastName": "Harindu Perera"
+        },
+        "jobs": [
+            {
+                "companyName": "Entgra.io",
+                "companyUrl": "https://www.linkedin.com/company/14443134/",
+                "jobTitle": "Associate Tech Lead",
+                "dateRange": "Sep 2018 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Feb 2017 – Aug 2018",
+                "location": "Colombo, LK",
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Feb 2015 – Jan 2017",
+                "location": "Colombo, LK",
+                "description": null
+            },
+            {
+                "companyName": "University of Colombo School of Computing",
+                "companyUrl": "https://www.linkedin.com/company/638346/",
+                "jobTitle": "Research Assistant",
+                "dateRange": "Feb 2014 – Jan 2015",
+                "location": "Modeling and Simulation Research Group",
+                "description": null
+            },
+            {
+                "companyName": "University of Colombo School of Computing",
+                "companyUrl": "https://www.linkedin.com/company/638346/",
+                "jobTitle": "Trainee Developer",
+                "dateRange": "Jul 2013 – Jan 2014",
+                "location": "Advanced Digital Media Technology Centre (ADMTC)",
+                "description": "Involving Technologies\n1. Mobile Application Development - Android API version 17\n2. Google Maps Mobile API version 2\n3. OGRE (Object-Oriented Graphics Rendering Engine) 3D Engine version 1.8/1.9 + Hydrax\n4. C++ / C# / Java / SQL / .NET"
+            },
+            {
+                "companyName": "Vidma Electrical PVT LTD",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Vidma%20Electrical%20PVT%20LTD",
+                "jobTitle": "IT Consultant",
+                "dateRange": "Jun 2012 – Jan 2015",
+                "location": "Welikada Plaza, Rajagiriya",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "WSO2 IoT Server\nApr 2015 – Dec 2017\n\nProject descriptionWSO2 IoT Server is a complete solution that enables device manufacturers and enterprises to connect and manage their devices, build apps, manage events, secure devices and data, and visualize sensor data in a scalable manner.\n\nIt also offers a complete and secure enterprise mobility management (EMM/MDM) solution that aims to address mobile computing challenges faced by enterprises today. Supporting iOS, Android, and Windows devices, it helps organizations deal with both corporate owned, personally enabled (COPE) and employee-owned devices with the bring your own device (BYOD) concept.\n\nWSO2 IoT Server comes with advanced analytics, enabling users to analyze speed, proximity and geo-fencing information of devices including details of those in motion and stationary state.\n\nSee project WSO2 IoT ServerSee project\nProject nameSIYARA Harbour VTMS Mobile Version\nJul 2013 – Apr 2015\n\nProject descriptionAndroid mobile version of Siyara Harbour Vessel Traffic Management System which won the Overall Gold Award and Research and Development Gold award at NBQSA 2013\nOther creators\nChamal Lakshika Poshitha Dabare\nSee project SIYARA Harbour VTMS Mobile VersionSee project\nProject namePublic Complaining System\nOct 2014 – Oct 2014\n\nProject descriptionNBQSA 2014 Gold Awarded project (in Business Category-Tertiary)\n\nThe system contains a web service which can be accessed via a website, mobile app and SMS. Users can post their complaints regarding issues on services, service providers and infrastructure, while other users (including government sectors, private companies, volunteers etc.) can comment and vote on them. This can act as a medium to emphasis the \"real\" problems that already exists among us. This is really beneficial for:\n\ngeneral public : get their problems to responsible parties and get comments/suggestions from others\ncompanies : obtain customer feedbacks and identify the issues to be addressed.\ngovernment authorities : identify the malfunctioning sectors.\nnews agencies : NEWS\nvolunteers : identify the real problems and help to obtain solutions.\n\nOther creators\nPraneeth Peiris Milindu Sanoj Kumarage Dhanushka Chandana \nProject nameSPAM-Bot\nOct 2014 – Oct 2014\n\nProject descriptionThis is an Autonomous Robot designed to navigate across a map and collect payloads distributed at various points. These payloads are delivered at the other end of the map in a sorted order (adjacent to each other with only the last payload on top if the previous one). The sorting is done according to a barcode number printed on each face of the payload.\n\nThe project is build using the Arduino UNO and Arduino duemilanove/ATmega328p boards. It makes use of continuous rotational servos for the wheels of the robot and positional rotational motors for the robot arm and gripper. IR sensors are used to detect and follow the navigational path. A Sonar sensor is used to identify the payloads across the map. A Rasberry Pi connected to a normal Webcam is used to capture the payload key and process it.\n\nOther creators\nShabir Mohamed Praneeth Peiris Madura Anushanga\nSee project SPAM-BotSee project\nProject nameSiyara VTMS\nJan 2013 – Jan 2014\n\nProject descriptionSiyara VTMS is a Vessel Traffic Monitoring Solution(VTMS) for commercial ports which is currently up and running at the Colombo Harbor. It is capable of visualising exact position of ships in a computer simulated environment by decoding Automatic Identification System(AIS) signals. Siyara VTMS won the overall Gold Medal at the NBQSA 2013 award ceremony contesting under research and development category.\n\nOther creators\nPoshitha Dabare  Chamal Lakshika\nSee project Siyara VTMSSee project\nProject nameEVENT iCON\nFeb 2013 – Feb 2013\n\nProject descriptionEVENT iCON is an application which caters both event organizing people and participants. Event organizers can create an event and invite people. Those invited people benefit from this application if they register on the system and have smart\u00ADphones. The concept behind EVENT iCON is an unique one which takes event organizing and communication among participants to a new paradigm.\n\nOther creators\nDulanjan Wengappuliarachchi Asheni Jayawardena Amith Chinthaka \nProject nameIPVC - Image Processing Video Codec\nFeb 2013 – Feb 2013\n\nProject descriptionVideo codec using Image Processing methods(pending)\n\nOther creators\nMadura Anushanga Praneeth Peiris Chamal Lakshika Randa Rasanga Bandara\nProject nameConstruction Project Management System\nJun 2012 – Jun 2012\n\nProject descriptionIt provides the company an attractive web site which promotes their services and products to the customers. The site displays number of constructions the company has built. Since internet is a very popular media, it helps to promote the company more efficiently. \nThe site would help to improve the standards of the company. When a client gets registered through the site they get a personal profile which they can use to communicate with the company. They get the opportunity to get information about their projects by login to their profiles and checking their current process, in addition each profile has a photo gallery which displays photos of their on going project sites. And also there is a BOQ service for users who request that service.\nEmployees of the company also can get registered through the site. So they can check their pay sheets themselves online by login to their profiles.\nThe site gives the opportunity to advertise for other firms/organizations. For that initially an external company can request for this opportunity by filing the form provided.\nIn conclusion this project has successfully fulfilled the above goals providing a fully functional user friendly web portal to the company Dasunie constructions.\nOther creators\nGeesha Weerakoon \nSee project Construction Project Management SystemSee project"
+            }
+        ],
+        "languages": [
+
+        ],
+        "recommendations": [
+            {"number":"2"}
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Colombo%20School%20of%20Computing",
+                "schoolName": "University of Colombo School of Computing",
+                "degree": "Bachelor of Science (BSc) Hons",
+                "degreeSpec": "Computer Science",
+                "dateRange": "2010 – 2014"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Taxila%20Central%20College%2C%20Horana",
+                "schoolName": "Taxila Central College, Horana",
+                "degree": "GCE Advanced Level",
+                "degreeSpec": "Physical Sciences",
+                "dateRange": "2000 – 2008"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/milanperera",
+            "twitter": "MHarindu"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "66"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "38"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "32"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "32"
+            },
+            {
+                "name": "Android Development",
+                "endorsements": "9"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "8"
+            },
+            {
+                "name": "Algorithms",
+                "endorsements": "8"
+            },
+            {
+                "name": "Computer Science",
+                "endorsements": "6"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "5"
+            },
+            {
+                "name": "Scrum",
+                "endorsements": "3"
+            },
+            {
+                "name": "Agile Methodologies",
+                "endorsements": "3"
+            },
+            {
+                "name": "iOS Development",
+                "endorsements": "0"
+            },
+            {
+                "name": "Kanban",
+                "endorsements": "0"
+            },
+            {
+                "name": "Web Applications",
+                "endorsements": "0"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "22"
+            },
+            {
+                "name": "C",
+                "endorsements": "18"
+            },
+            {
+                "name": "Android",
+                "endorsements": "16"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "15"
+            },
+            {
+                "name": "Python",
+                "endorsements": "14"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "13"
+            },
+            {
+                "name": "UML",
+                "endorsements": "12"
+            },
+            {
+                "name": "NetBeans",
+                "endorsements": "12"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "9"
+            },
+            {
+                "name": "XML",
+                "endorsements": "8"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "8"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "7"
+            },
+            {
+                "name": "Windows",
+                "endorsements": "7"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "6"
+            },
+            {
+                "name": "Joomla",
+                "endorsements": "5"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "5"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "4"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "4"
+            },
+            {
+                "name": "Visual Studio",
+                "endorsements": "4"
+            },
+            {
+                "name": "C#",
+                "endorsements": "4"
+            },
+            {
+                "name": "Ubuntu",
+                "endorsements": "3"
+            },
+            {
+                "name": "XSLT",
+                "endorsements": "3"
+            },
+            {
+                "name": "Tomcat",
+                "endorsements": "3"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "1"
+            },
+            {
+                "name": "Servers",
+                "endorsements": "0"
+            },
+            {
+                "name": "Back-End Web Development",
+                "endorsements": "0"
+            },
+            {
+                "name": "Cloud Development",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Java, MySQL, PHP, Programming, Android Development, Web Development, Algorithms, Computer Science, OOP, Scrum, Agile Methodologies, iOS Development, Kanban, Web Applications, SQL, C, Android, HTML, Python, Linux, UML, NetBeans, Eclipse, XML, Microsoft Office, CSS, Windows, AJAX, Joomla, jQuery, JavaScript, JSP, Visual Studio, C#, Ubuntu, XSLT, Tomcat, Cascading Style Sheets (CSS), Servers, Back-End Web Development, Cloud Development"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQFvYLI74K8ZQw/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=XwILn8W7LZD4o7hOPgY1pT3gvbIxdKqfhAx5gvg6MXE",
+            "fullName": "Nuwan Sameera",
+            "headline": "Full Stack Engineer | Associate Tech Lead at Virtual Capital Technologies",
+            "company": "Virtual Capital",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/nuwansameera/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAvJedgBPdkSC9xxW4LYe5fbwZVzV0ISqOo",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAvJedgBPdkSC9xxW4LYe5fbwZVzV0ISqOo,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAvJedgBPdkSC9xxW4LYe5fbwZVzV0ISqOo%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Experienced Full Stack Developer with a demonstrated history of working in the computer software industry. Skilled in JavaScript, PHP,  Python, Java, MySQL, MongoDb, NodeJs  and front end technologies. Strong engineering professional with a Bachelor of Science(Hons), Information Technology & Management focused in Information Technology from University of Moratuwa.",
+            "firstName": "Nuwan",
+            "lastName": "Sameera"
+        },
+        "jobs": [
+            {
+                "companyName": "Virtual Capital",
+                "companyUrl": "https://www.linkedin.com/company/17893674/",
+                "jobTitle": "Assosiate Tech Lead",
+                "dateRange": "Oct 2018 – Present",
+                "location": "Maharagama",
+                "description": null
+            },
+            {
+                "companyName": "Virtual Capital",
+                "companyUrl": "https://www.linkedin.com/company/17893674/",
+                "jobTitle": "Full Stack Developer",
+                "dateRange": "Oct 2016 – Oct 2018",
+                "location": "Maharagama",
+                "description": "Full-Stack Developer"
+            },
+            {
+                "companyName": "Virtual Capital Technologies",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Virtual%20Capital%20Technologies",
+                "jobTitle": "Full Stack Engineer",
+                "dateRange": "Sep 2017 – Present",
+                "location": "Maharagama",
+                "description": null
+            },
+            {
+                "companyName": "Beehyyv Limited",
+                "companyUrl": "https://www.linkedin.com/company/7586721/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Jun 2015 – Oct 2016",
+                "location": null,
+                "description": "Worked as a Full-Stack Engeneer\n      \n\n    \n      Technologies:  ReactJs,NodeJs,Json,Ajax,Javascript,MongoDB"
+            },
+            {
+                "companyName": "MetatechnoLanka",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=MetatechnoLanka",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "May 2014 – Oct 2014",
+                "location": "Colombo, Sri Lanka",
+                "description": "Technologies: C++ , VB.Net , JavaScript, ExtJs"
+            }
+        ],
+        "projects": [
+            {"description": "Workflow Management System\nNov 2013 – Nov 2013\n\nProject descriptionWeb based solution to automate the workflow of IT faculty in University of Moratuwa \n\nTechnologies used: PHP, Javascript, Ajax, JQuery, CSS3, HTML5, MySQL\n\nOther creators\nPrabath Shanaka Gurusinghe Dilshani Subasinghe Thilini Rathnayake  \nProject nameSpeed limit Indicator(specified for High ways)\nFeb 2013 – Feb 2013\n\nProject descriptionIn this project we gave a solution to decrese the number of accidents. By our project, when driver maintain high speed or low speed lies outside the speed range, inform driver. Informing part will be done by the msg displayed in the LCD and LED and the buzzer. Even after warning, if he doesn't care aout the warning, system will keep records about breaking rules, time and other info. That info sending to nearest police station via GSM module. At the exit of the high way he will get the note of fine to pay. We are success at the project and it make easy the task of police and safety of both driver and the pedestrians."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"}
+
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science(Hons), Information Technology & Management",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2011 – 2015",
+                "description": "B.Sc. (Hons.) in Information Technology and Management"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=ST.Thomas%20Collage%20Matara",
+                "schoolName": "ST.Thomas Collage Matara",
+                "degreeSpec": "Mathematics",
+                "dateRange": "2006 – 2010",
+                "description": "Advance level 2008"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/nuwansameera"
+        },
+        "skills": [
+            {
+                "name": "JavaScript",
+                "endorsements": "28"
+            },
+            {
+                "name": "Java",
+                "endorsements": "20"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "14"
+            },
+            {
+                "name": "Android Development",
+                "endorsements": "2"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "2"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "1"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "11"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "8"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "7"
+            },
+            {
+                "name": "NetBeans",
+                "endorsements": "7"
+            },
+            {
+                "name": "C#",
+                "endorsements": "6"
+            },
+            {
+                "name": "C",
+                "endorsements": "6"
+            },
+            {
+                "name": "C++",
+                "endorsements": "5"
+            },
+            {
+                "name": "phpMyAdmin",
+                "endorsements": "3"
+            },
+            {
+                "name": "Microsoft Word",
+                "endorsements": "3"
+            },
+            {
+                "name": "VB.NET",
+                "endorsements": "2"
+            },
+            {
+                "name": "Node.js",
+                "endorsements": "2"
+            },
+            {
+                "name": "ReactJs",
+                "endorsements": "2"
+            },
+            {
+                "name": "css",
+                "endorsements": "1"
+            },
+            {
+                "name": "MongoDB",
+                "endorsements": "1"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "1"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "1"
+            },
+            {
+                "name": "JSON",
+                "endorsements": "1"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "JavaScript, Java, MySQL, Android Development, Programming, Web Development, PHP, HTML, Microsoft Office, NetBeans, C#, C, C++, phpMyAdmin, Microsoft Word, VB.NET, Node.js, ReactJs, css, MongoDB, AJAX, SQL, JSON, jQuery"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQEvBzFSCTX43w/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=pWX7QbcjYKGEeAcBxDwxdfIxZBKgLXVRqP39Yyl-Xqg",
+            "fullName": "Prasadi Apsara",
+            "headline": "Associate Tech Lead at 99X Technology",
+            "company": "99X Technology",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/prasadiapsara/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAqEzC4BDSOY9N_Pfcxf2wk6tvrOCMjnslo",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAqEzC4BDSOY9N_Pfcxf2wk6tvrOCMjnslo,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAqEzC4BDSOY9N_Pfcxf2wk6tvrOCMjnslo%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Strong engineering professional currently following a Master of Science  focused in Data Science from University of Moratuwa. A dependable individual, an analytical thinker and a team player.  A writer by hobby.",
+            "firstName": "Prasadi",
+            "lastName": "Apsara"
+        },
+        "jobs": [
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Associate Tech Lead",
+                "dateRange": "Feb 2017 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Feb 2015 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Sep 2013 – Jan 2015",
+                "location": null,
+                "description": "Technologies Adapted : Durandal, Knockout, MS Entity Framework, JQuery, MS\n      Dynamics CRM, WCF Services, Angular JS, MongoDB, Node JS, Objective C, iPhone\n      \n      development"
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Student",
+                "dateRange": "Jul 2009 – Sep 2013",
+                "location": "Katubedda, Moratuwa, Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "Virtusa Pvt. Ltd.",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Jan 2012 – Jul 2012",
+                "location": "Virtusa Pvt. Ltd. 752, Dr Danister De Silva Mawatha, Colombo 09",
+                "description": ".NET development tasks\nWCF Services\nWeb application development with ASP.NET \nMS SQL Server\nMS Lync\nBusiness Intelligence Development Studio\nAlgorithm Construction\nSystem Design\nDesign Patterns"
+            }
+        ],
+        "projects": [
+            {"description": "IceFresh\nOct 2014 – Present\n\nProject descriptionThis is the most compelling project that I have contributed in my career. It is a full supply change management system implemented for a fish selling company in Norway, supported with a E-commerce front end as well. Fish caught in Norway and Sri Lanka are exported to China and sold through online stores to a Chinese niche. This project includes a number of integrations with Chinese 3rd parties such as Alibaba, JingDong, Warehousing (PFS), and delivery services such as Yamato, SF. System contains a fully customized Dynamics CRM solution to support inventory management, shipment management, order management, customer handling and product catalog managemet, supported and strengthened by a stable NodeJS backend. NodeJS back end acts as a communication layer between 3rd parties and the CRM solution. Technologies and platforms cover Dynamics CRM, NodeJS, Angular JS, Mongo DB, Azure etc.\n\nOther creator\nMalinda Perera\nProject nameAn Adaptive Gamified e-Learning System Based on Student Modeling\nDec 2012 – Present\n\nProject descriptionIt is an adaptive e-Learning platform based on some modeling techniques. Gamification was utilized to enhance student motivation. 3D games are used as the main learning material. To plan the adaptation 2 main mathematical models were used. The first one is a knowledge model which measures the concept-wise knowledge of users based on a mathematical theory known as Dempster-Shafer Theory. The other one is a fuzzy logic based behavior tracking model which measures the level of interaction and performance of users within the 3D games (Learning Materials). The results of these models are used to deliver an adaptive, interactive and personalized learning experience to the learners. Algorithm construction was done using C# and the game construction was done with Unity 3D and C# scripting.\n\nProject nameEnki\nJan 2012 – Present\n\nProject descriptionIt is a knowledge sharing system specially designed for organizational context. When a question is asked by a particular user, that question is automatically directed to the best expert within the organization. The expert is recognized based on a multi-criterion process including expertise, geographic location, companionship etc. This was a service based application and I was responsible for tagging the question (extracting key words). The tagging algorithm was designed after a research carried on natural language processing.\n\nOther creator\nNuwan Samarasekera\nProject nameNordeca\nMay 2014 – Sep 2014\n\nProject descriptionIt is a geo-information based mobile application for iphones. Target audience of the app was travel lovers/hikers and they have the ability to find, share, save locations, purchase maps for offline usage etc. For map generation, a 3rd part map service called Faster Imaging was used. I was involved in Objective C based app development, Java back end development and amazon cloud management tasks.\nOther creator\nJanidu Wanigasuriya\nProject nameCloudHub\nFeb 2014 – May 2014\n\nProject descriptionIt's a cloud based template/document management system for documents and articles. Technologies used were Durandal, KnockoutJS, Web API, Azure etc. I was involved in both front end and back end development tasks. Implementing a scheduling service, utilizing Azure scheduler is one of the most interested parts for me in the project.\nOther creators\nLasantha Bandara Niranjan Kumar\nProject nameXTRA\nSep 2013 – Mar 2014\n\nProject descriptionIt is a MS Dynamics CRM based Recruitment Management system for a Norwegian Company. I was involved in some core customization and integration of the CRM platform with some 3rd party web services.\n\nProject namefit2school (ITගුරුගෙදර)\nFeb 2013 – Feb 2013\n\nProject descriptionSharing ICT knowledge with School Community\n\nOther creators\nThusitha Thilina Dayaratne Kanchana Gunathilaka Ramindu Deshapriya  Piumi Rathnabharathie Paba Madhumalie Dilruk Perera 4+\nSee project fit2school (ITගුරුගෙදර)See project\nProject nameBusiness Intelligence Framework to analyze data related to organizational middle ware\nJan 2011 – Dec 2011\n\nProject descriptionIt was a challenge to implement a BI framework for analyzing data related to organizational middle ware, since those data were not easily analyzable (e.g: server data, error rate, response time etc). But we integrated a number of features that should be in a BI environment such as graphical representation of data (a dash board), standard and customized reports, statistical analysis and data mining. We used Apriori algorithm to find some relationships between those data.\n\nProject nameA PC based system to monitor and control growth parameters of a plant\nJan 2010 – Dec 2010\n\nProject descriptionIt was a combination of HW and SW which was basically intended to be kept in a green house. It measures environmental parameters like temperature, humidity and light intensity through low cost sensors and shows them to system users. And the system automatically takes corrective actions if the parameters deviate from a predefined range."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Master of Science - MS",
+                "degreeSpec": "Computer Science",
+                "dateRange": "2018 – 2020",
+                "description": "Specialization - Data Science"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (BSc)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2009 – 2013"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Dharmasoka%20College",
+                "schoolName": "Dharmasoka College",
+                "degreeSpec": "Biology, General",
+                "dateRange": "2000 – 2008"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/prasadiapsara"
+        },
+        "skills": [
+            {
+                "name": "C#",
+                "endorsements": "37"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "27"
+            },
+            {
+                "name": "Java",
+                "endorsements": "24"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "14"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "6"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "6"
+            },
+            {
+                "name": "Software Engineering",
+                "endorsements": "4"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "23"
+            },
+            {
+                "name": "ASP.NET",
+                "endorsements": "20"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "13"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "13"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "10"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "9"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "8"
+            },
+            {
+                "name": "UML",
+                "endorsements": "6"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "5"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "3"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "3"
+            },
+            {
+                "name": "JQuery",
+                "endorsements": "2"
+            },
+            {
+                "name": "Amazon Web Services (AWS)",
+                "endorsements": "2"
+            },
+            {
+                "name": "Objective-C",
+                "endorsements": "2"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "2"
+            },
+            {
+                "name": "MongoDB",
+                "endorsements": "2"
+            },
+            {
+                "name": "Ruby on Rails",
+                "endorsements": "2"
+            },
+            {
+                "name": "MS SQL Server",
+                "endorsements": "1"
+            },
+            {
+                "name": "Visual Studio",
+                "endorsements": "1"
+            },
+            {
+                "name": "Node.js",
+                "endorsements": "1"
+            },
+            {
+                "name": "WCF Services",
+                "endorsements": "6"
+            },
+            {
+                "name": "Lync Server 2010",
+                "endorsements": "3"
+            },
+            {
+                "name": "Esper",
+                "endorsements": "3"
+            },
+            {
+                "name": "Knockout",
+                "endorsements": "2"
+            },
+            {
+                "name": "iPhone Application Development",
+                "endorsements": "2"
+            },
+            {
+                "name": "Knowledge Sharing",
+                "endorsements": "1"
+            },
+            {
+                "name": "Gamification",
+                "endorsements": "1"
+            },
+            {
+                "name": "Durandal",
+                "endorsements": "3"
+            },
+            {
+                "name": "Core C# Programming",
+                "endorsements": "2"
+            },
+            {
+                "name": "BI Developmnet Studio",
+                "endorsements": "2"
+            },
+            {
+                "name": "MS Entity Framework",
+                "endorsements": "2"
+            },
+            {
+                "name": "Objec",
+                "endorsements": "2"
+            }
+        ],
+        "allSkills": "C#, Eclipse, Java, OOP, Programming, Web Services, Software Engineering, MySQL, ASP.NET, Microsoft SQL Server, AJAX, JavaScript, JSP, PHP, UML, Servlets, Spring, Linux, JQuery, Amazon Web Services (AWS), Objective-C, AngularJS, MongoDB, Ruby on Rails, MS SQL Server, Visual Studio, Node.js, WCF Services, Lync Server 2010, Esper, Knockout, iPhone Application Development, Knowledge Sharing, Gamification, Durandal, Core C# Programming, BI Developmnet Studio, MS Entity Framework, Objec"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4D03AQGwlFSM16hGXw/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=5fMTJhfz1S5TkRJAhB8H-EC93M-phzDAQcTnAwr4Dco",
+            "fullName": "Pushpalanka Jayawardhana",
+            "headline": "Associate Tech Lead at WSO2",
+            "company": "WSO2",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/pushpalanka/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAR7FtoBo2vss10ZjZK9zvKSAbcgOXGZ9NI",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAR7FtoBo2vss10ZjZK9zvKSAbcgOXGZ9NI,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAR7FtoBo2vss10ZjZK9zvKSAbcgOXGZ9NI%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Experienced Engineer, IAM expert, FinTec and  OpenBanking enthusiast, onsite experience\n      on IAM aspects of projects in Aircraft maintenance, Healthcare and insurance and connected\n      \n      home, JAVA, Maven, Github, Javascript, SAML, OAuth, OIDC, XACML, PSD2, GDPR",
+            "firstName": "Pushpalanka",
+            "lastName": "Jayawardhana"
+        },
+        "jobs": [
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Associate Tech Lead",
+                "dateRange": "Jul 2018 – Present",
+                "location": "Colombo, Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Senior Software Engineer in Financial Solutions",
+                "dateRange": "Jul 2017 – Present",
+                "location": "Colombo, Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "2015 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Jan 2013 – 2015",
+                "location": "Colombo, Sri Lanka",
+                "description": "Identity Server"
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Level-4 Undergraduate",
+                "dateRange": "Jul 2009 – Jan 2013",
+                "location": "Department of Computer Science and Engineering",
+                "description": "Improving skills shaping with the experience got from internship period being in the\n      industry. Advance database systems and computer security are the most interested\n      \n      fields I'm focusing on and engaged in final year project."
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Undergraduate (Computer Science and Engineering)",
+                "dateRange": "Aug 2008 – Mar 2011",
+                "location": null,
+                "description": "Improving experience on Operating Systems, Object Oriented Programming, Computer\n      \n      Architecture, Data Communication, Electrical and Electronic Theories and Algorithms"
+            },
+            {
+                "companyName": "The Apache Software Foundation",
+                "companyUrl": "https://www.linkedin.com/company/215982/",
+                "jobTitle": "Google Summer of Code - Student",
+                "dateRange": "May 2012 – Oct 2012",
+                "location": null,
+                "description": "Implementation of W3C 'XML Digital Signatures for Widgets' for Apache Wookie, a Java\n      \n      server application that allows to upload and deploy widgets for applications."
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Intern Software Engineer",
+                "dateRange": "Mar 2011 – Oct 2011",
+                "location": null,
+                "description": "Worked with WSO2 Identity Server team, having industry experience in open source\n      model. Implemented entitlement handler for Apache Axis2  and SAML to XACML under\n      \n      OASIS standards, which broadened the understandings on WS-Security."
+            }
+        ],
+        "projects": [
+            {"description": "GSoc2012 - Implementing W3C ‘XML Digital Signatures for Widgets Specification’ on Apache Wookie\nMay 2012 – Present\n\nProject descriptionThis is to automate the widget deployment in Wookie server, allowing the widgets' content to be signed. At deployment, the server needs to verify the widgets to be from a trusted source and not modified using the digital signature and certificates. This is to be implemented inside Wookie under specifications of W3C.\n\nOther creator\nScott Wilson\nSee project GSoc2012 - Implementing W3C ‘XML Digital Signatures for Widgets Specification’ on Apache WookieSee project\nProject nameBig Data CDR Analyzer- Kanthaka\nFeb 2012 – Present\n\nProject description ‘Kanthaka’, is to develop a high volume Caller Detail Record (CDR) analyzer. This is to analyze the huge volume of data generated at telecom operator’s end and to select the eligible entries, according to the predefined rules, in near real time. It involves thorough research on big data technologies and implementations of fine tuned algorithms for the use case.\nTechnologies: [Map-reduce (Hadoop), NoSQL(Cassandra), Rules engines(Drools), NewSQL(VoltDB)]\nOther creators\nDhanika Perera Amila Paranawithana Manoj Kristhombu Shahani Markus Thilina Anjitha\nSee project Big Data CDR Analyzer- KanthakaSee project\nProject nameImplement SAML to XACML(According to OASIS spec)\nApr 2011 – Oct 2011\n\nProject descriptionImplemented ‘SAML 2.0 profile of XACML v2.0, OASIS Standard’ in WSO2 Identity Server. This provides server to server security in taking authorization decision from the Policy Decision Point with XACML requests and responses.\nTechnologies: SAML, XACML, OpenSAML, Apache Synapse Mediators\nOther creator\nAsela Pathberiya\nSee project Implement SAML to XACML(According to OASIS spec)See project"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Master's Degree",
+                "degreeSpec": "Computer Software Engineering (Software Architecture)",
+                "dateRange": "2015 – 2018"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science and Engineering (Hons.)",
+                "degreeSpec": "Computer Science and Engineering",
+                "dateRange": "2008 – 2012"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Devi%20Balika%20Vidyalaya%2C%20Colombo%208.",
+                "schoolName": "Devi Balika Vidyalaya, Colombo 8.",
+                "degreeSpec": "O/L and A/L Education",
+                "dateRange": "1999 – 2007"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Kirindiwela%20Maha%20Vidyalaya",
+                "schoolName": "Kirindiwela Maha Vidyalaya",
+                "degreeSpec": "Primary Education",
+                "dateRange": "1994 – 1999"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Coursera%20-%20Stanford%20University",
+                "schoolName": "Coursera - Stanford University",
+                "degreeSpec": "Web Intelligence and Big Data",
+                "description": ""
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Coursera%20-%20University%20of%20Michigan",
+                "schoolName": "Coursera - University of Michigan",
+                "degreeSpec": "Internet History, Technology, and Security"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/pushpalanka",
+            "websites": "pushpalankajaya.blogspot.com/",
+            "twitter": "Pushpalanka"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "56"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "34"
+            },
+            {
+                "name": "Software Engineering",
+                "endorsements": "24"
+            },
+            {
+                "name": "Algorithms",
+                "endorsements": "20"
+            },
+            {
+                "name": "Big Data",
+                "endorsements": "8"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "6"
+            },
+            {
+                "name": "Computer Security",
+                "endorsements": "2"
+            },
+            {
+                "name": "XML",
+                "endorsements": "21"
+            },
+            {
+                "name": "Apache",
+                "endorsements": "14"
+            },
+            {
+                "name": "Open Source",
+                "endorsements": "10"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "10"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "8"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "6"
+            },
+            {
+                "name": "Maven",
+                "endorsements": "5"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "3"
+            },
+            {
+                "name": "Hadoop",
+                "endorsements": "2"
+            },
+            {
+                "name": "C",
+                "endorsements": "2"
+            },
+            {
+                "name": "Cassandra",
+                "endorsements": "1"
+            },
+            {
+                "name": "SAML",
+                "endorsements": "1"
+            },
+            {
+                "name": "XACML",
+                "endorsements": "1"
+            },
+            {
+                "name": "Axis2",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "Java, OOP, Software Engineering, Algorithms, Big Data, Web Services, Computer Security, XML, Apache, Open Source, JavaScript, Eclipse, MySQL, Maven, Linux, Hadoop, C, Cassandra, SAML, XACML, Axis2"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4D03AQFFMKRxDleiAA/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=aOEYZgv097lcLgojUx7YXfV11iZe5-tAhQBOxX8RVF8",
+            "fullName": "Madhuranga Samarasinghe",
+            "headline": "Associate Tech Lead at Fortunaglobal Pvt Ltd / SCJP / SCWCD / Bsc Hon's",
+            "company": "Fortunaglobal Private Limited",
+            "school": "International Open University",
+            "location": "Sri Lanka",
+            "connections": "251",
+            "profileUrl": "https://www.linkedin.com/in/madhuranga-samarasinghe-86347018/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAOgq8sBhrk65k7L9vqXcgWlOhQyhUofUzo",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAOgq8sBhrk65k7L9vqXcgWlOhQyhUofUzo,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAOgq8sBhrk65k7L9vqXcgWlOhQyhUofUzo%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "To become a talented professional in the dynamic ICT industry with the practical usage of\n      the knowledge and skills gained, while offering maximum contribution for the development\n      \n      of the employed organization and for the motherland, Sri Lanka.",
+            "firstName": "Madhuranga",
+            "lastName": "Samarasinghe"
+        },
+        "jobs": [
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Associate Tech Lead",
+                "dateRange": "Mar 2017 – Present",
+                "location": "Colombo",
+                "description": "Client: Cargills Bank Pvt Ltd\nProduct: Banking Solution (Internet banking / CEFT)\nBulk Fund transfer - CEFT,SLIP, INTERNAL Transfers in one uploaded file.(Basically Salary Transfer).\nCash Management Services : Main functions with swift based transaction (Outward Telegraphic Transfer, RTGS, Cash Withdrawal Services, Pay Orders, Bulk Pay Orders & all cash management based products).\nTrade Finance Services : Main functions based on the trade platform (Letter of Credit, Shipping Guarantee, Bank Guarantee & all trade based products). \n\nClient: Pan Asia Pvt Ltd\nProduct: Banking Solution (Internet banking / CEFT)\nFortuna Finance is an enterprise multi-channel online banking solution that enables banks to provide a full range of banking services and content to customers with different user profiles, efficiently and reliably. Facilitate online banking users with fund transfers, utility payments, balance inquiries, E Statements , Credit card payments and other financial needs.\nCEFT allow customers to perform transaction between different banks\nTechnology:\n• Java 1.7 , Spring3.2, JPA2\n• Rest Easy\n• Spring\n• Tomcat 7\nHTML5 application development with Ionic framework built with AngularJS.\nResponsibilities:\n• Design new modules\n• Research & Development, Proof of concept and choosing appropriate technology for the product.\n• As the team leader (Internet Banking), planning and managing the work load among team members and review.\n• Derive and deliver Technical Solution.\n• Troubleshoot problems and implement appropriate solutions for live issues\n• Participate in periodic review meetings with the Senior Software Architect to discuss project status, system design and product requirements\n• Overall Technical responsibility of the project assigned\n\n\nClient: Seylan Pvt Ltd\nProduct: Banking Solution (Internet banking / CEFT)"
+            },
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Oct 2015 – Mar 2017",
+                "location": "Colombo 03",
+                "description": "Client: Cargills Bank Pvt Ltd\n      \n\n    Product: Banking Solution (Internet banking / CEFT)\n      \n\n    Fortuna Finance is an enterprise multi-channel online banking solution that enables\n      \n      banks to provide a full range of banking services and content to customers\n\n... See more"
+            },
+            {
+                "companyName": "Advance Baggage Pvt Ltd",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Advance%20Baggage%20Pvt%20Ltd",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "May 2014 – Sep 2015",
+                "location": "Cinamon Lakeside Hotel, Colombo 02",
+                "description": "Working with core product in baggage handling services & head of team player."
+            },
+            {
+                "companyName": "SP-Solutions",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=SP-Solutions",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "2011 – May 2014",
+                "location": "No. 113/17A, Soratha Mawatha, Gangodawila Nugegoda Sri Lanka",
+                "description": "Web Application Development (J2EE/JBPM)\nOver 150 business processes automated and in use in Sri Lanka / US / UK and Australia. With Document Management, Workflow Management and Decision support eDGEVANTAGE is the most complete open source Business Process Management platform around!\n\nDeveloped Workflow Solutions for Standard Chartered Bank, Finlays, Orange Electrical, AkzoNobel ,Pan Asia Bank, LOLC, RSMA and Knox Accounting"
+            },
+            {
+                "companyName": "Soft Touch IT Solutions",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Soft%20Touch%20IT%20Solutions",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Jun 2008 – Aug 2011",
+                "location": null,
+                "description": "I am a very hardworking person, who can meet tight deadlines, and a strong team player who can work under pressure. I like to take every experience educational, and to maximize my gaining of new knowledge in everything I do. Time, space, and work environments are no issues to me, as I enjoy the motivation coming from the work itself, and being part of a team, sharing and contributing with ideas. I love to take on any task, with confidence, and a smile."
+            },
+            {
+                "companyName": "Soft Touch IT Solutions",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Soft%20Touch%20IT%20Solutions",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Jun 2008 – Jul 2011",
+                "location": null,
+                "description": "Identify and Analyze the system requirement and designing\n      \n\n    \n      Design and develop Database model."
+            }
+        ],
+        "projects": [
+            {"description": "eDGEVANTAGE\nAug 2012\n\nProject descriptioneDGEVANTAGE is a web-based cloud compatible Document and Workflow Management System It is mobile ready and has several pre-built mobile applications.\n\nThe system can be used to manage any business process for greater efficiency, and can help an organization move from processing requests on hard copy to processing request based on images, thus gaining a significant cost reduction in the cost of processing customer or internal customer requests\n\nOther creator\nShanaka Munasinghe\nSee project eDGEVANTAGESee project\nProject nameeDGEVANTAGE\nAug 2011\n\nProject descriptioneDGEVANTAGE is a web-based cloud compatible Document and Workflow Management System It is mobile ready and has several pre-built mobile applications.\n\nThe system can be used to manage any business process for greater efficiency, and can help an organization move from processing requests on hard copy to processing request based on images, thus gaining a significant cost reduction in the cost of processing customer or internal customer requests\n\nOther creator\nShanaka Munasinghe\nSee project eDGEVANTAGESee project\nProject nameAkzo Nobel Pvt Ltd\nProject descriptionIT Related Process,\nCredit Release Process,\nAr Related Process\n\nOther creator\nShanaka Munasinghe\nProject nameAlliance Finance Company Pvt Ltd.\nProject descriptionMicro Finance Flow,\nWorkflow Management System,\nEzy Drive Process,\nGold Loan Process,\nMetro Credit Process.\n\nOther creator\nShanaka Munasinghe\nProject nameStanderd Charterd Bank,Srilanka\nProject descriptionStanding Orders System,\nWorkflow Management System,\nCredit Card System,\nAuto Loan & Personal Loan,\nAccount Opening"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"}
+
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=International%20Open%20University",
+                "schoolName": "International Open University",
+                "degree": "Diploma; Diploma",
+                "degreeSpec": "Computer Science; Computer Science",
+                "dateRange": "2009 – 2012"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Open%20International%20University",
+                "schoolName": "Open International University",
+                "degree": "Bachelor of Softaware Engineer",
+                "degreeSpec": "Java",
+                "dateRange": "2007 – 2009"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Joshep%20Vaz%20College%2CWennappuwa.",
+                "schoolName": "Joshep Vaz College,Wennappuwa.",
+                "degree": "Advanced Level Exam",
+                "degreeSpec": "Science",
+                "dateRange": "2003 – 2006"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/madhuranga-samarasinghe-86347018",
+            "twitter": "madhurangason"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "12"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "9"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "8"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "1"
+            },
+            {
+                "name": "XML",
+                "endorsements": "5"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "5"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "5"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "4"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "3"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "3"
+            },
+            {
+                "name": "Struts",
+                "endorsements": "3"
+            },
+            {
+                "name": "Tomcat",
+                "endorsements": "3"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "2"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "2"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "1"
+            },
+            {
+                "name": "JavaSE",
+                "endorsements": "1"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "0"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "0"
+            },
+            {
+                "name": "JSF",
+                "endorsements": "0"
+            },
+            {
+                "name": "JPA",
+                "endorsements": "0"
+            },
+            {
+                "name": "EJB",
+                "endorsements": "0"
+            },
+            {
+                "name": "JBPM",
+                "endorsements": "0"
+            },
+            {
+                "name": "J2EE Application Development",
+                "endorsements": "0"
+            },
+            {
+                "name": "Workflow",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Java, Hibernate, JavaScript, Software Development, XML, PHP, Java Enterprise Edition, MySQL, HTML, SQL, Struts, Tomcat, Eclipse, CSS, Spring, JavaSE, AJAX, Linux, JSF, JPA, EJB, JBPM, J2EE Application Development, Workflow"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4E03AQHlfkGicxHaXQ/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=1wQDZDnwjDEaXEeJ0AlYFXU2Ue124jhUczwH8igo8fk",
+            "fullName": "Lakshitha Nalindanath",
+            "headline": "Associate Technical Lead",
+            "company": "Fortunaglobal Private Limited",
+            "school": "University of Ruhuna",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/lakshitha-nalindanath-5683b080/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAABEk4iABkdU7Snp_zrjqRGEEBwD6FoIT3P0",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABEk4iABkdU7Snp_zrjqRGEEBwD6FoIT3P0,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABEk4iABkdU7Snp_zrjqRGEEBwD6FoIT3P0%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I am a highly competent, highly motivated senior software engineer with more than 7 ½ years’ experience in designing, programming and testing software across a variety of platforms. I have worked on numerous projects from concept to completion take pride in coding to consistently high standards and regularly refresh my skills to ensure I keep up with on-going developments. \nSeeking for challenging Research and Development, coding opportunities to utilize my skills at greatest extent which help to grow myself and help to achieve company’s goals.",
+            "firstName": "Lakshitha",
+            "lastName": "Nalindanath"
+        },
+        "jobs": [
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Associate Technical Lead",
+                "dateRange": "Oct 2015 – Present",
+                "location": "Colombo",
+                "description": "Product : Just Pay\nJust pay mobile app provides customer with multiple options to pay from any bank\naccounts. This eliminates the need to carry debit cards of different banks and provides\nthe easy access to all bank accounts though a single application\n\nCore Technologies :\nApplication Server  - Apache Tomcat 9\nLanguage - Java 8\nDatabase Server - mysql\nTechnologies - Spring Boot, Spring data"
+            },
+            {
+                "companyName": "Netstarter Sri Lanka",
+                "companyUrl": "https://www.linkedin.com/company/9462957/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Sep 2014 – Oct 2015",
+                "location": "Colombo",
+                "description": "Product Name : Phantom\nPhantom is software which automate letter box marketing business. It includes job booking, maintaining ware houses, managing distributors, tracking distribution status etc. \n\nSoftware/ Technolog Used: \nJava 1.7\nSpring Core\nJPA\n EJB\nExtjs\n\nClients – Salmat pty ltd"
+            },
+            {
+                "companyName": "Fortunaglobal (Pvt.) Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Jul 2011 – Aug 2014",
+                "location": "Sri Lanka",
+                "description": "Product Name:  ISO - Transbridge\nTransbridge is designed to plug any ATM network and core banking backend. Financial institutes need a bridge to connect back end with third party ATMs.  ATMs communicate with their backend via ISO 8583 messages. \nISO Transabridge is designed to break and construct ISO 8583 messages. It is a matter of time to implement interfaces to break vendor specific ISO formats and backend transaction handling. We have followed Factory and Proxy design patterns to overcome the issue of connecting ATM networks and back end. \nThe product is released with a monitoring tool and ISO message generator.  Monitoring tool is used to monitor sever status and transaction history. ISO message generator is designed to act as ATM for testing connectivity and transactions.\nSoftware/ Technology Used:\n•\tJava 1.7 , Spring core/Dao\n•\tSl4j / logback - logging\n•\tJUnit - unit testing\n•\tMaven 3 project management \n•\tSonar - code quality\nClients – LOLC, CLC, MelstartRegal\n\nResponsibilities (ISO – Transbridge, FIX –Transbridge, Banking Solution – USSD intergration): \n•\tDesign the most appropriate architecture for the solution.\n•\tTechnology finding for implementation: Research & Development, Proof of  concept to select the most appropriate technology\n•\tImplement the base framework of the product. \n•\tThe responsibilities for planning and managing the work are split between members of team and review their day to day development.\n•\tDerive and deliver Technical Solution and take a leadership role in doing so and R&D.\n•\tTroubleshoot problems and implement appropriate solutions to problems\n•\tParticipate in periodic review meetings with the Senior Software Architect to discuss project status, system design and product requirements\n•\tOverall Technical responsibility of the projects assigned"
+            },
+            {
+                "companyName": "Fortunaglobal (Pvt.) Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Jul 2011 – Aug 2014",
+                "location": "Colombo 2",
+                "description": "Product Name:  FIX –Transbridge\n      \n\n    Trading systems communicate messages using FIX Fast encoded protocol. Broker back\n      office need to post trades and monitor order book and other data for the business. Fix\n      \n      transbridge is designed to break fix messages and convert into POJOs for p\n\n... See more"
+            },
+            {
+                "companyName": "Fortunaglobal (Pvt.) Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Jun 2011 – Jun 2013",
+                "location": "Colombo 2",
+                "description": "Product Name: NEWCLEAR (Clearing and Settlement)\n      \n\n    LSE is a leading stock exchange in UK and fortunaGlobals is implementing Web Based\n      system which acts as a bridge between external brokers and LSE, The web front will\n      \n      operate in conjunction with the Millennium NEWCLEAR back end system, w\n\n... See more"
+            },
+            {
+                "companyName": "Excel Technology, Inc.",
+                "companyUrl": "https://www.linkedin.com/company/329752/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Aug 2010 – Jul 2011",
+                "location": null,
+                "description": "Developed algorithms for marking banners while moving on conveyor belt. Developed\n      algorithm for sectioning banners for marking. Worked on the project XL-Jewel-Marker\n      which is used for marking jewels. Core technologies – C#.net. o Development\n      \n      Environment – SharpDevelop."
+            }
+        ],
+        "projects": [
+            {"description": "Internet Banking\nMobile Banking USSD & CEFT Implementation - LOLC \nFortuna Banking Solution"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Limited working proficiency"}
+
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Ruhuna",
+                "schoolName": "University of Ruhuna",
+                "degree": "Bachelor's degree",
+                "degreeSpec": "Electrical and Information Engineering",
+                "dateRange": "2006 – 2010"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/lakshitha-nalindanath-5683b080",
+            "mail": "lnalindanath@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Web Services",
+                "endorsements": "28"
+            },
+            {
+                "name": "Java",
+                "endorsements": "20"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "16"
+            },
+            {
+                "name": "Testing",
+                "endorsements": "9"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "0"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "10"
+            },
+            {
+                "name": "JUnit",
+                "endorsements": "9"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "7"
+            },
+            {
+                "name": "Databases",
+                "endorsements": "1"
+            },
+            {
+                "name": "Spring Boot",
+                "endorsements": "1"
+            },
+            {
+                "name": "Spring Framework",
+                "endorsements": "1"
+            },
+            {
+                "name": "Spring MVC",
+                "endorsements": "1"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "1"
+            },
+            {
+                "name": "java",
+                "endorsements": "0"
+            },
+            {
+                "name": "Spring Security",
+                "endorsements": "1"
+            },
+            {
+                "name": "RabbitMQ",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Web Services, Java, Programming, Testing, Software Development, Java Enterprise Edition, JUnit, Spring, Databases, Spring Boot, Spring Framework, Spring MVC, MySQL, java, Spring Security, RabbitMQ"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4D03AQF-twutJ4nhDw/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=2YIzNgJtazibi_CFn9TD3WJGXZp7qaxG928UAfnOWnY",
+            "fullName": "Tishan Dahanayakage",
+            "headline": "Associate Technical Lead at WSO2 working for Stream Processor and Analytics team",
+            "company": "WSO2",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/tishan/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAAAVbpNEBhVjHsCLMAllVfBD5Ofk_9q7k3Ng",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAVbpNEBhVjHsCLMAllVfBD5Ofk_9q7k3Ng,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAVbpNEBhVjHsCLMAllVfBD5Ofk_9q7k3Ng%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I am a software engineer at WSO2 and part of the team en route to make the best middleware platform of the world. It is always interesting to invent technology, solutions which will be used globally. I am mainly passionate about Big Data and real-time event processing. Analyzing data, converting to information and visualizing them is always a fascinating process.\n\nSpecialties: CEP, Big Data, Java",
+            "firstName": "Tishan",
+            "lastName": "Dahanayakage"
+        },
+        "jobs": [
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Associate Technical Lead",
+                "dateRange": "Feb 2018 – Present",
+                "location": "Colombo",
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Apr 2016 – Feb 2018",
+                "location": "Colombo",
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Mar 2014 – Apr 2016",
+                "location": "Colombo",
+                "description": "Working as a member of WSO2 Complex Event Processor project which focuses on\n      real-time event processing. Work includes technologies like WSO2 Siddhi, Apache\n      \n      Storm and LMAX Disruptor."
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Computer Science and Engineering Undergraduate",
+                "dateRange": "Jul 2009 – Feb 2014",
+                "location": null,
+                "description": "Currently I am following Bsc. Engineering degree program at University of Moratuwa.\n      \n      My field of specialization is Computer Science and Engineering"
+            },
+            {
+                "companyName": "The Apache Software Foundation",
+                "companyUrl": "https://www.linkedin.com/company/215982/",
+                "jobTitle": "GSoC Contributor",
+                "dateRange": "Apr 2013 – Nov 2013",
+                "location": null,
+                "description": "Currently I am contributing to Apache Software Foundation under Apache ManifoldCF\n      \n      project."
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "May 2012 – Dec 2012",
+                "location": "#59, Flower Road, Colombo 7, Sri Lanka.",
+                "description": "Projects:\nBig data analytics and visualization using different frameworks\nA project to analyze page view details of a website using Apache Hive, which\ncomes in a csv file and visualize results using different reporting frameworks such\nas Pentaho, Jasper and GoodData.\n\nWSO2 Enterprise Service Bus(ESB) integration tests\nA project to develop integration test cases for WSO2 ESB. Test Scenarios were\ngiven and we were supposed to develop test cases to ensure functionality.\n\nWSO2 Complex Event Processing(CEP) performance improvement and\ndocumentation\nUnder the performance improvement project modifications were done to WSO2\nDatabridge component to minimize event conversions and thus increase\nperformance.\nUnder documentation project code samples and documentation were developed for\nWSO2 CEP new product release.\n\nTechnologies : Java, XML, Apache Hadoop, Apache Hive, Apache Synapse, Apache\nThrift, Apache Axis2, TestNG, JUnit, OSGi, SVN, Maven"
+            },
+            {
+                "companyName": "Eclipse Foundation",
+                "companyUrl": "https://www.linkedin.com/company/34093/",
+                "jobTitle": "GSoC contributor",
+                "dateRange": "Mar 2012 – Sep 2012",
+                "location": null,
+                "description": "I contributed to Eclipse Foundation as a part of GSoC 2012 and still contributing as a\n      \n      community contributor."
+            }
+        ],
+        "projects": [
+            {"description": "    Sinhalapedia\n    Starting January 2011\n\n    Team members:\n            Tishan Dahanayakage,\n            Nirman Kodithuwakku,\n            Chamith Nilanka Wijesinghe\n\n    Wihidum : Distributed CEP\n    February 2013 – February 2013\n\n    In the present world, complex event processing (CEP) is becoming increasingly popular in present highly competitive enterprise culture. Its ability to analyze series of events in real time and deduce results based on those events is highly sought after. Today even a handset can be used as a sensor device to generate events for analyzing. The growth of sensor devices has evoked the possibility of event streams that surpass processing capabilities of present CEP products. Hence, new techniques are needed to overcome these issues.\n\n    One suitable solution to overcome the above mentioned challenge is to implement a distributed CEP solution. Distributed solution consists of multiple CEP nodes that run as a single system but are distributed among multiple physically separated machines connected by a network.\n    Although we deploy a distributed system, we cannot achieve theoretical maximum performance due to performance losses arise from several reasons. Main challenges of this project is trying to minimize these losses in order to increase the performance gain.\n    WSO2 CEP will be used as CEP nodes for this project.\n\n    Team members:\n            Tishan Dahanayakage,\n            Sameera Kannangara,\n            Sachini Jayasekara\n\n    Protocol Independent Connectivity interface for Eclipse ECF Salvo Newsreader\n    August 2012 – August 2012\n\n    A project to write protocol independent connectivity interface for Salvo\n    newsreader. Existing implementation was tightly coupled with NNTP protocol.\n    Architectural restructuring was needed to implement a protocol independent\n    connectivity interface.\n\n    Team members:\n            Tishan Dahanayakage\n\n    Test automation for WSO2 ESB\n    July 2012 – August 2012\n\n    This was a hackathon carried out to automate the integration tests of WSO2 ESB and expand its test coverage.\n\n    Team members:\n            Tishan Dahanayakage,\n            Hasintha Indrajee,\n            Harsha Kumara,\n            Andun S.L. Gunawardana,\n            Prabhath Pathirana,\n            Denuwanthi De Silva,\n            Dharshana Kasun Warusavitharana,\n            Hareesan Rajendra,\n            Chaamini Mangaleswaran,\n            Thilini Shanika\n\n    Implement an email repository connector for Apache ManifoldCF\n    May 2012 – May 2012\n\n    Apache ManifoldCF is an effort to provide an open source framework for\n    connecting source content repositories to target repositories or indexes. Goal of\n    the project is to implement an email repository connector, which have the ability\n    to connect to an email server and crawl the content.\n\n    Team members:\n            Tishan Dahanayakage\n\n    Tanks - Game Client\n    May 2011 – December 2011\n\n    “Tanks” is an arcade game. Opponents are computer players controlled by AI. Due to the research done to support this particular project, my knowledge of fuzzy logic, collaborative diffusion was widened.\n\n    Team members:\n            Tishan Dahanayakage,\n            Thushan Ganegedara\n\n    Cyber Security Drill 2011\n    March 2011 – November 2011\n\n    A cyber security drill is a simulation of a cyberspace attack on the infrastructure of the banking sector. It is intended towards evaluating the readiness of banks in handling a cyber attack. The primary objective of a Cyber-security drill is to create awareness among the bank personnel regarding the possibility of cyber-attacks and the severity of the outcomes of such attacks.\n\n    Team members:\n            Tishan Dahanayakage,\n            Malinga Perera,\n            Asitha Nanayakkara,\n            Rashmika Nawaratne,\n            Pasindu Perera,\n            Gayashan Amarasinghe"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Native or bilingual proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (BSc) of Engineering",
+                "degreeSpec": "Computer Science and Engineering",
+                "dateRange": "2009 – 2013"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/tishan",
+            "websites": "tishansworld.blogspot.com",
+            "twitter": "tishan89",
+            "mail": "dtishanpubudu@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Software Engineering",
+                "endorsements": "40"
+            },
+            {
+                "name": "Java",
+                "endorsements": "30"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "19"
+            },
+            {
+                "name": "Algorithms",
+                "endorsements": "13"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "6"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "5"
+            },
+            {
+                "name": "Big Data",
+                "endorsements": "1"
+            },
+            {
+                "name": "C",
+                "endorsements": "17"
+            },
+            {
+                "name": "XML",
+                "endorsements": "7"
+            },
+            {
+                "name": "NetBeans",
+                "endorsements": "6"
+            },
+            {
+                "name": "Android",
+                "endorsements": "6"
+            },
+            {
+                "name": "Apache",
+                "endorsements": "4"
+            },
+            {
+                "name": "Matlab",
+                "endorsements": "3"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "3"
+            },
+            {
+                "name": "C#",
+                "endorsements": "2"
+            },
+            {
+                "name": "CEP",
+                "endorsements": "2"
+            },
+            {
+                "name": "ManifoldCF",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "Software Engineering, Java, Eclipse, Algorithms, OOP, Programming, Big Data, C, XML, NetBeans, Android, Apache, Matlab, MySQL, C#, CEP, ManifoldCF"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQERyIHZcS7i-Q/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=37LmnOgQi3jxh1N0NOCjG94sCwZqvQKLAO-VUUjtH3I",
+            "fullName": "Namila Perera",
+            "headline": "Associate Technical Lead at 99X Technology",
+            "company": "99X Technology",
+            "school": "Robert Gordon University",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/namilaperera/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAgHOvEBDcY85K6KQ2QSXnv6G6I5NUXjd-Y",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAgHOvEBDcY85K6KQ2QSXnv6G6I5NUXjd-Y,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAgHOvEBDcY85K6KQ2QSXnv6G6I5NUXjd-Y%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "",
+            "firstName": "Namila",
+            "lastName": "Perera"
+        },
+        "jobs": [
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Associate Technical Lead",
+                "dateRange": "Feb 2018 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Feb 2017 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Dec 2015 – Jan 2017",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "DiGIT Online Magazine",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=DiGIT%20Online%20Magazine",
+                "jobTitle": "Article Writer",
+                "dateRange": "Jul 2013 – Present",
+                "location": null,
+                "description": "My Contributions for DiGIT Magazine\n      \n\n    \n      http://digit.lk/author/namila_perera/"
+            },
+            {
+                "companyName": "Microsoft",
+                "companyUrl": "https://www.linkedin.com/company/1035/",
+                "jobTitle": "Microsoft Student Partner (MSP)",
+                "dateRange": "Jul 2013 – Dec 2015",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Student",
+                "dateRange": "Oct 2011 – Dec 2015",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Intern-Technology",
+                "dateRange": "May 2014 – Dec 2014",
+                "location": "Orion City, Colombo",
+                "description": "Team V+ (SharePoint CEG)"
+            }
+        ],
+        "projects": [
+            {"description": "V+\nMay 2014 – May 2014\n\nProject descriptionBusiness Situation\nWith over 86% of employees being ‘Millennials’, Virtusa wanted to transform the way its employees worked, learned, shared and connected to accelerate innovation, increase collaboration and transparency and to drive productivity across the company.\n\nSolution\nVirtusa chose Microsoft SharePoint to build a platform that brought together the systems of records and systems of engagement to transform and integrate social practices into its core processes of software development, people management and sales\n\nOther creators\nCharaka Ranasinghe Rukshan Dangalla Aruna Wickrama Yogendran Nadaraja Hasitha De Silva sudesh withanage\nSee project V+See project\nProject nameMovisionary\nFeb 2013 – Nov 2013\n\nProject descriptionThe project was an entertainment app for movie enthusiast based on the Trakt API written for the Windows Phone Platform, done as the Second Year Industry Based project. 99x Technology played the role of Industry Partner for this project.\n\nOther creators\nDehan de Croos Tmoorthy Kajan  \nProject namefit2school (ITගුරුගෙදර)(ITகுருகுலம்)\nFeb 2013 – Feb 2013\n\nProject descriptionSharing ICT knowledge within School Community.\n\nFit2School is a web-based platform for improving the IT proficiency of Sri Lanka school students through providing high quality and easy-to-understand articles in Sinhala and Tamil.\n\nOther creators\nKanchana Gunathilaka Ramindu Deshapriya  Piumi Rathnabharathie Prasadi Apsara Paba Madhumalie Dilruk Perera 40+\nSee project fit2school (ITගුරුගෙදර)(ITகுருகுலம்)See project\nProject nameAuto Adjusting Webcam\nJan 2013 – Jan 2013\n\nProject descriptionDeveloped a device which senses the level of light available in the environment and automatically adjusts the settings of an ordinary web camera which is connected to a computer.\nOther creators\nSumali Nuwanthika  "
+            }
+        ],
+        "languages": [
+
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/school/12660/?legacySchoolId=12660",
+                "schoolName": "Robert Gordon University",
+                "degree": "Master of Science (Msc)",
+                "degreeSpec": "Big Data Analytics",
+                "dateRange": "2018 – 2020"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bsc(Hons) in Information Technology",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2011 – 2015"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Netassit",
+                "schoolName": "Netassit",
+                "dateRange": "2012 – 2012"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Institue%20of%20Java%20and%20Technological%20Studies",
+                "schoolName": "Institue of Java and Technological Studies",
+                "degreeSpec": "JAVA",
+                "dateRange": "2011 – 2012"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=St.%20Joseph%27s%20College%20Colombo%2010",
+                "schoolName": "St. Joseph's College Colombo 10",
+                "dateRange": "1997 – 2010"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/namilaperera",
+            "websites": "namilaonweb.wordpress.com/",
+            "twitter": "supernamila"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "56"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "54"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "42"
+            },
+            {
+                "name": "C#",
+                "endorsements": "28"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "28"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "17"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "10"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "6"
+            },
+            {
+                "name": "Entity Framework",
+                "endorsements": "4"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "4"
+            },
+            {
+                "name": "WCF",
+                "endorsements": "2"
+            },
+            {
+                "name": "Node.js",
+                "endorsements": "2"
+            },
+            {
+                "name": "MongoDB",
+                "endorsements": "2"
+            },
+            {
+                "name": "Ruby",
+                "endorsements": "2"
+            },
+            {
+                "name": "Ruby on Rails",
+                "endorsements": "2"
+            },
+            {
+                "name": "Amazon Web Services (AWS)",
+                "endorsements": "2"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "2"
+            },
+            {
+                "name": "Bootstrap",
+                "endorsements": "2"
+            },
+            {
+                "name": "Windows Phone",
+                "endorsements": "9"
+            },
+            {
+                "name": "ElasticSearch",
+                "endorsements": "2"
+            },
+            {
+                "name": "Windows 8 App Development",
+                "endorsements": "3"
+            },
+            {
+                "name": "SharePoint 2013 Development",
+                "endorsements": "3"
+            }
+        ],
+        "allSkills": "Java, MySQL, JavaScript, C#, HTML, CSS, jQuery, ASP.NET MVC, Entity Framework, Microsoft SQL Server, WCF, Node.js, MongoDB, Ruby, Ruby on Rails, Amazon Web Services (AWS), AngularJS, Bootstrap, Windows Phone, ElasticSearch, Windows 8 App Development, SharePoint 2013 Development"
+    }
+]

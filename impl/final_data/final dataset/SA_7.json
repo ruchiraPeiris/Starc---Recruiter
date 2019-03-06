@@ -1,0 +1,1863 @@
+[
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4E03AQEBeeXBougMWg/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=Ujy4WADsejNlL458NXcCICDg4dgBI8dXmm7nz3utDv0",
+            "fullName": "Buddhima Wijerathna Wickramasinghe",
+            "headline": "Solutions Architect, Software Architect and developer",
+            "company": "TIQRI",
+            "school": "Sikkim Manipal University of Health, Medical and Technological Sciences",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/buddhima/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAEnpHcBUhWXHPFsNrPMEphwgeypugc6U9M",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAEnpHcBUhWXHPFsNrPMEphwgeypugc6U9M,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAEnpHcBUhWXHPFsNrPMEphwgeypugc6U9M%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Solutions designer, Developer and Solutions Architect with over 15 years of Experience. He has extensive experience in Microsoft .NET environment and some experience in J2EE environment. He has involved in a multitude of projects with a myriad of business domains.\nBuddhima has extensive experience in defining IT solutions based on customer requirements. He has involved in the full development life cycle and lead System Designers, Tech Leads, Team Leads, BI Engineers, DBAs, Developers, System Engineers and QC to make sure the business requirements are delivered.\nAlways liaise with team and project managers to rectify issues and make sure the project is on track.\nHe has involved in setting up development teams with responsibilities, processes, guidelines and standards. Also involved in proposing and setting up required IT Infrastructure for teams.\n\nHighlights: Solution analysis, Defining system architecture, Object Oriented Analysis and Design (OOAD), Agile software development, SCRUM, align teams with architecture and best practices ALM, Continuous integration, Cloud Architecture, Microservices Architecture, DevOps, Azure, Service Fabric, Kubernetes",
+            "firstName": "Buddhima",
+            "lastName": "Wijerathna Wickramasinghe"
+        },
+        "jobs": [
+            {
+                "companyName": "TIQRI",
+                "companyUrl": "https://www.linkedin.com/company/17958825/",
+                "jobTitle": "Solutions Architect",
+                "dateRange": "Feb 2017 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "Exilesoft (Pvt) Limited",
+                "companyUrl": "https://www.linkedin.com/company/209833/",
+                "jobTitle": "Associate Software Architect",
+                "dateRange": "Sep 2010 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Exilesoft (Pvt) Limited",
+                "companyUrl": "https://www.linkedin.com/company/209833/",
+                "jobTitle": "Tech Lead",
+                "dateRange": "Apr 2009 – Sep 2010",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "IronOne Technologies",
+                "companyUrl": "https://www.linkedin.com/company/448781/",
+                "jobTitle": "Solution Architect",
+                "dateRange": "Nov 2008 – Apr 2009",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Kandysoft New Zealand",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Kandysoft%20New%20Zealand",
+                "jobTitle": "Solution Architect",
+                "dateRange": "2005 – Nov 2008",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Logical Systems (Pvt) Ltd.",
+                "companyUrl": "https://www.linkedin.com/company/27460/",
+                "jobTitle": "Team Lead",
+                "dateRange": "Jul 1999 – Nov 2005",
+                "location": null,
+                "description": null
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/school/13624/?legacySchoolId=13624",
+                "schoolName": "Sikkim Manipal University of Health, Medical and Technological Sciences",
+                "degree": "Msc.IT",
+                "degreeSpec": "Information technology",
+                "dateRange": "2006 – 2008"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=NIBM",
+                "schoolName": "NIBM",
+                "dateRange": "1997 – 1998"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Maliyadeva%20Collage",
+                "schoolName": "Maliyadeva Collage",
+                "dateRange": "1997"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/buddhima",
+            "websites": "koolbuddi.com",
+            "twitter": "koolb"
+        },
+        "skills": [
+            {
+                "name": "Solution Architecture",
+                "endorsements": "9"
+            },
+            {
+                "name": "Software Architecture",
+                "endorsements": "0"
+            },
+            {
+                "name": "Continuous Integration",
+                "endorsements": "19"
+            },
+            {
+                "name": "Cloud Computing",
+                "endorsements": "0"
+            },
+            {
+                "name": "Agile Methodologies",
+                "endorsements": "73"
+            },
+            {
+                "name": "Object Oriented Design",
+                "endorsements": "2"
+            },
+            {
+                "name": "Test Driven Development",
+                "endorsements": "18"
+            },
+            {
+                "name": "Software Design",
+                "endorsements": "3"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "13"
+            },
+            {
+                "name": "Design Patterns",
+                "endorsements": "47"
+            },
+            {
+                "name": "Architecture",
+                "endorsements": "7"
+            },
+            {
+                "name": "Scrum",
+                "endorsements": "63"
+            },
+            {
+                "name": "Web Applications",
+                "endorsements": "3"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "27"
+            },
+            {
+                "name": "Analysis",
+                "endorsements": "11"
+            },
+            {
+                "name": "Business Intelligence",
+                "endorsements": "5"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "4"
+            },
+            {
+                "name": "Agile Project Management",
+                "endorsements": "2"
+            },
+            {
+                "name": "SOA",
+                "endorsements": "2"
+            },
+            {
+                "name": "Microsoft Azure",
+                "endorsements": "0"
+            },
+            {
+                "name": ".NET",
+                "endorsements": "61"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "23"
+            },
+            {
+                "name": "C#",
+                "endorsements": "16"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "17"
+            },
+            {
+                "name": "ASP.NET",
+                "endorsements": "30"
+            },
+            {
+                "name": "Entity Framework",
+                "endorsements": "29"
+            },
+            {
+                "name": "WCF",
+                "endorsements": "21"
+            },
+            {
+                "name": "UML",
+                "endorsements": "20"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "11"
+            },
+            {
+                "name": "LINQ",
+                "endorsements": "10"
+            },
+            {
+                "name": "ADO.NET",
+                "endorsements": "7"
+            },
+            {
+                "name": "ASP.NET AJAX",
+                "endorsements": "7"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "7"
+            },
+            {
+                "name": "WPF",
+                "endorsements": "5"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "5"
+            },
+            {
+                "name": "JSON",
+                "endorsements": "4"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "3"
+            },
+            {
+                "name": "Visual Studio",
+                "endorsements": "3"
+            },
+            {
+                "name": "VB.NET",
+                "endorsements": "2"
+            },
+            {
+                "name": "T-SQL",
+                "endorsements": "2"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "1"
+            },
+            {
+                "name": "SSRS",
+                "endorsements": "1"
+            },
+            {
+                "name": "Microservices",
+                "endorsements": "0"
+            },
+            {
+                "name": "Service fabric",
+                "endorsements": "0"
+            },
+            {
+                "name": "OOAD",
+                "endorsements": "3"
+            },
+            {
+                "name": "MVC",
+                "endorsements": "3"
+            },
+            {
+                "name": "NHibernate",
+                "endorsements": "2"
+            },
+            {
+                "name": "WinForms",
+                "endorsements": "4"
+            },
+            {
+                "name": "WF",
+                "endorsements": "3"
+            },
+            {
+                "name": "Silverlight",
+                "endorsements": "2"
+            }
+        ],
+        "allSkills": "Solution Architecture, Software Architecture, Continuous Integration, Cloud Computing, Agile Methodologies, Object Oriented Design, Test Driven Development, Software Design, Software Development, Design Patterns, Architecture, Scrum, Web Applications, Web Services, Analysis, Business Intelligence, OOP, Agile Project Management, SOA, Microsoft Azure, .NET, Microsoft SQL Server, C#, ASP.NET MVC, ASP.NET, Entity Framework, WCF, UML, Java Enterprise Edition, LINQ, ADO.NET, ASP.NET AJAX, JavaScript, WPF, AJAX, JSON, jQuery, Visual Studio, VB.NET, T-SQL, Hibernate, SSRS, Microservices, Service fabric, OOAD, MVC, NHibernate, WinForms, WF, Silverlight"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQGZ8ozneaRqTQ/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=Po2OtyXyuqX-i8Xyl4pf5jK6sJ3l-_xtb99jKF2JzRg",
+            "fullName": "Mahesh Dissanayaka",
+            "headline": "Software Architect at Fortunaglobal Private Limited",
+            "company": "Fortunaglobal Private Limited",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "457",
+            "profileUrl": "https://www.linkedin.com/in/mahesh-dissanayaka-517b4a52/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAAAs0LmMBeKaYRxwTrwglobHfG36U8GVSIVo",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAs0LmMBeKaYRxwTrwglobHfG36U8GVSIVo,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAs0LmMBeKaYRxwTrwglobHfG36U8GVSIVo%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Software Engineer having over 10 years of experience in software industry providing robust software solutions for legendary international clients. Recognized for talents in diversified technology stack including web, middleware and mobile technologies. Adept at working with management to prioritize activities and achieve defined project objectives; able to effectively translate business requirements to technical solution. Committed to helping organizations to achieve maximum benefit through meticulous architecture, research, design and implementation of technologies.",
+            "firstName": "Mahesh",
+            "lastName": "Dissanayaka"
+        },
+        "jobs": [
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Software Architect",
+                "dateRange": "Sep 2018 – Present",
+                "location": "No 156 Level 03, Walukarama Rd. Colombo 03",
+                "description": null
+            },
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Associate Software Architect",
+                "dateRange": "Oct 2015 – Present",
+                "location": "No: 156, Level 3,  Walukarama Road,  Colombo- 03",
+                "description": "Fortunaglobal, the company that empowers financial and banking industry with new generation of multi channel banking services providing wide range of innovative solutions with superior, personalized customer experiences.\n\n•\tFulfill the Software Architect role providing solid design and architectures for Web, Middleware, and Mobile software solutions\n•\tIntroduce new innovative products; Affluence Insights, Affluence Chat Bot (LISA), Affluence Soft Token in to Affluence product suite.\n•\tPerforming technology management & research activities in order to uplift the customer experience of affluence products.\n•\tEnsuring engineering quality with industry best practices and methodologies.\n  \nTechnologies :  \n                           WEB - JEE , SPRING, JPA , HIBERNATE , RESTFUL WS , SPRING XD, NLP, ANGULAR, JQUERY,REACT\n                           MOBILE  - NATIVE, HYBRID, REACT NATIVE  \n                           DATABASES : MySQL , MONGO , H2 , REDIS"
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Examiner",
+                "dateRange": "Aug 2011 – Present",
+                "location": "Moratuwa",
+                "description": "The Bachelor of Information Technology (BIT) External Degree is conducted by the University of Moratuwa Faculty of Information Technology through the Centre for Open and Distance Learning (CODL) by using E-Learning technologies.\n\nModules\nComputer Organization\nMathematics for IT"
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Technical Lead",
+                "dateRange": "Apr 2013 – Oct 2015",
+                "location": "Zone24x7 (Pvt) Ltd 460, Nawala Road, Koswatte,",
+                "description": "Zone24x7 is a technology solution company which develops mission critical, cost effective, quality enterprise products and solutions for customers and mainly provides solutions for Web based, Embedded System and Mobile industry. \n•\tIntroduce innovative product QV2 (Quick Verification and Validation) which is a paradigm shift in web application test automation  including most advanced features, enterprise grade capabilities to simplify the QA test automation for web based applications.\n•\tPerform the Role of Architect , Research and Development Responsible of the project QV2\n\nTechnologies :  \n                           WEB - JEE , SPRING, HIBERNATE, PHP, JQUERY, ACTIVE MQ\n                           MOBILE  - HYBRID (CORDOVA)  \n                           DATABASES : MySQL , DB2, POSTGRES"
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Lead Software Engineer",
+                "dateRange": "Apr 2011 – Apr 2013",
+                "location": "460, Nawala Road Koswatta",
+                "description": "•\tInvolve in the initiation of MATE automation testing framework working as a\n      contractor for Macys.com as an employee under Zone24x7 Pvt Ltd. Introducing new\n      features in to MATE framework and expands the team while finding new opportunities\n      \n      for the company.\n\n... See more"
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Software Enginner - Senior Software Enginner",
+                "dateRange": "Sep 2006 – Apr 2011",
+                "location": null,
+                "description": "•\tWorked as Senior Software Engineer for Macys.com and Bloomingdales.com which\n      \n      are among the most recognized retail brands in America - and worldwide."
+            },
+            {
+                "companyName": "Codegen",
+                "companyUrl": "https://www.linkedin.com/company/136773/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Feb 2005 – Aug 2005",
+                "location": null,
+                "description": "Worked as a trainee for Codegen.IT which designs and builds innovation cost effective technology solutions for the travel, tourism, Finance, Banking and Ecommerce Industries.\n\n•\tImplements web service monitoring tool to visualize the performance of the web services used by the travel box products.\n•\tImprove the web service communication introducing SOAP Squeezing.\n\nTechnologies :  \n                           JAVA, PHP , SOAP WS"
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (BSc) in Engineering",
+                "degreeSpec": "Computer Science and Engineering",
+                "dateRange": "2002 – 2006"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/mahesh-dissanayaka-517b4a52",
+            "mail": "mmkdissa@yahoo.com"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "41"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "36"
+            },
+            {
+                "name": "Software Engineering",
+                "endorsements": "35"
+            },
+            {
+                "name": "Design Patterns",
+                "endorsements": "20"
+            },
+            {
+                "name": "Object Oriented Design",
+                "endorsements": "12"
+            },
+            {
+                "name": "Agile Methodologies",
+                "endorsements": "8"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "8"
+            },
+            {
+                "name": "Software Design",
+                "endorsements": "6"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "4"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)",
+                "endorsements": "4"
+            },
+            {
+                "name": "Web Applications",
+                "endorsements": "3"
+            },
+            {
+                "name": "Distributed Systems",
+                "endorsements": "2"
+            },
+            {
+                "name": "Algorithms",
+                "endorsements": "2"
+            },
+            {
+                "name": "C#",
+                "endorsements": "27"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "25"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "22"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "22"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "19"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "16"
+            },
+            {
+                "name": "JUnit",
+                "endorsements": "14"
+            },
+            {
+                "name": "UML",
+                "endorsements": "14"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "11"
+            },
+            {
+                "name": "XML",
+                "endorsements": "10"
+            },
+            {
+                "name": "Maven",
+                "endorsements": "10"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "8"
+            },
+            {
+                "name": "JSON",
+                "endorsements": "7"
+            },
+            {
+                "name": "Tomcat",
+                "endorsements": "7"
+            },
+            {
+                "name": "Spring Framework",
+                "endorsements": "7"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "6"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "5"
+            },
+            {
+                "name": "SOAP",
+                "endorsements": "3"
+            },
+            {
+                "name": "Android",
+                "endorsements": "3"
+            },
+            {
+                "name": "Subversion",
+                "endorsements": "3"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "2"
+            },
+            {
+                "name": "WCF",
+                "endorsements": "1"
+            },
+            {
+                "name": "REST",
+                "endorsements": "1"
+            },
+            {
+                "name": "JavaSE",
+                "endorsements": "1"
+            },
+            {
+                "name": "JavaServer Pages (JSP)",
+                "endorsements": "1"
+            },
+            {
+                "name": "Unified Modeling Language (UML)",
+                "endorsements": "1"
+            },
+            {
+                "name": ".NET Remoting",
+                "endorsements": "6"
+            }
+        ],
+        "allSkills": "Java, Web Services, Software Engineering, Design Patterns, Object Oriented Design, Agile Methodologies, OOP, Software Design, Software Development, Object-Oriented Programming (OOP), Web Applications, Distributed Systems, Algorithms, C#, Hibernate, Java Enterprise Edition, JavaScript, MySQL, Spring, JUnit, UML, Eclipse, XML, Maven, JSP, JSON, Tomcat, Spring Framework, AJAX, Servlets, SOAP, Android, Subversion, jQuery, WCF, REST, JavaSE, JavaServer Pages (JSP), Unified Modeling Language (UML), .NET Remoting"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4D03AQEJn0uinprkcg/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=fWxu-nlpsT1D4uvcNFOrrNHitVjV9I9G2IsLyBR1lhs",
+            "fullName": "Omega Silva",
+            "headline": "Senior Architect - Technology at Virtusa",
+            "company": "Virtusa",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/omegasilva/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAAANcKiYBpT707Gd-5Qw_N2W9c8vY3g6FmyU",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAANcKiYBpT707Gd-5Qw_N2W9c8vY3g6FmyU,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAANcKiYBpT707Gd-5Qw_N2W9c8vY3g6FmyU%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Result-oriented IT Solutions Architect with 11 years of experience, in designing and delivering innovative business solutions on Java and J2EE for global banking and finance sector clients, providing leadership for strategic and governance decision making for Enterprise Architect teams and leading high-performance Research and Product Development teams.",
+            "firstName": "Omega",
+            "lastName": "Silva"
+        },
+        "jobs": [
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Senior Architect - Technology",
+                "dateRange": "Apr 2018 – Present",
+                "location": "Sri Lanka",
+                "description": "Providing thought leadership on smart automation solutions utilizing cognitive and\n      \n      standard automation and ensuring delivery by practicing strong engineering declines."
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Software Architect",
+                "dateRange": "Jul 2016 – Present",
+                "location": "Colombo",
+                "description": "Robotic Process Automation solution design and implementation on WorkFusion with\n      \n      standard and cognitive automation for major BFS clients"
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Software Architect",
+                "dateRange": "Jan 2015 – Jun 2016",
+                "location": "Sri Lanka",
+                "description": "Product development based on Lean Start Up methodology. Key responsibilities is to\n      run Scrum based product development teams, looking in to product architecture,\n      product integration architecture and overall solution architecture while keeping an eye\n      \n      on the user feedback."
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Associate Software Architect",
+                "dateRange": "Apr 2013 – Dec 2014",
+                "location": "Sri Lanka",
+                "description": "My major engagement from April 2013 to Feb 2015 is with the Virtusa Enterprise Applications Group (EAG) playing the role of the Enterprise Architect. EAG holds responsibility and accountability all the enterprise software systems ranging from billing, accounting to employee dashboars that Virtusa uses. \n\nIn my role as Enterprise Architect I held accountability in overall systems architecture, technical design, engineering quality, rigor and governance and end to end technical solutioning"
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Senior Consultant - Technology",
+                "dateRange": "Apr 2011 – Mar 2013",
+                "location": "Sri Lanka, India, United States of America",
+                "description": "Mainly engaged in the next version of Insight, customer facing and onsite deployment\n      \n      and version upgrade of the product, while contributing to many other R&D initiatives"
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Consultant - Technology",
+                "dateRange": "Jul 2009 – Mar 2011",
+                "location": "Sri Lanka, India",
+                "description": "Continued to play the Team Lead role in the Insight team engaged in sustainable and\n      \n      disruptive innovation of the product"
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Senior Engineer - Technology",
+                "dateRange": "Jul 2008 – Jun 2009",
+                "location": "Sri Lanka, India",
+                "description": "I started playing the team lead role for the Global Technology Office static code\n      analysis team expanding my research areas to software reuse analysis and\n      governance.\n      \n\n    \n      \n\n... See more"
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Engineer - Technology",
+                "dateRange": "Sep 2007 – Jun 2008",
+                "location": "Sri Lanka",
+                "description": "Joined as a Software Engineer to Virtusa after graduating from University of Moratuwa\n      and was working in Global Technology Office which is the Research and Development\n      wing in Virutsa.\n      \n\n    \n      \n\n... See more"
+            },
+            {
+                "companyName": "Google Summer of Code 2007",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Google%20Summer%20of%20Code%202007",
+                "jobTitle": "Participant",
+                "dateRange": "Apr 2007 – Aug 2007",
+                "location": null,
+                "description": "I successfully completed a project on OCR for Sahana Data Entry with Lanka Software Foundation for Google Summer of Code 2007.\n\nThe project was done on C++, OpenCV and FANN (Artificial Neural Network library)\n\nhttp://code.google.com/soc/2007/lanka/about.html"
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Industrial Trainee",
+                "dateRange": "Jan 2006 – Jun 2006",
+                "location": null,
+                "description": "Six months internship to complete the the internship required for the BSc Engineering\n      course in the University. I worked with the Software Engineering Process Group (SEPG\n      \n      in short) on their process automation software where I got exposed to VBA and .NET"
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (B.Sc.)",
+                "degreeSpec": "Computer Science and Engineering",
+                "dateRange": "2003 – 2007"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=St.%20Mary%27s%20College%20Chilaw",
+                "schoolName": "St. Mary's College Chilaw",
+                "dateRange": "1994 – 2002"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/omegasilva",
+            "twitter": "omegasilva",
+            "mail": "omegasilva@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "29"
+            },
+            {
+                "name": "RPA",
+                "endorsements": "2"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "25"
+            },
+            {
+                "name": "Design Patterns",
+                "endorsements": "22"
+            },
+            {
+                "name": "Software Engineering",
+                "endorsements": "20"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "19"
+            },
+            {
+                "name": "Analytical Skills",
+                "endorsements": "0"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)",
+                "endorsements": "0"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "10"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "8"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "7"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "6"
+            },
+            {
+                "name": "Tomcat",
+                "endorsements": "6"
+            },
+            {
+                "name": "C++",
+                "endorsements": "5"
+            },
+            {
+                "name": "XSLT",
+                "endorsements": "4"
+            },
+            {
+                "name": "ASP.NET",
+                "endorsements": "2"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "2"
+            },
+            {
+                "name": "Ant",
+                "endorsements": "1"
+            },
+            {
+                "name": "Spring Framework",
+                "endorsements": "1"
+            },
+            {
+                "name": "Unified Modeling Language (UML)",
+                "endorsements": "1"
+            },
+            {
+                "name": "JQuery",
+                "endorsements": "0"
+            },
+            {
+                "name": "ANT",
+                "endorsements": "0"
+            },
+            {
+                "name": "Subversion",
+                "endorsements": "0"
+            },
+            {
+                "name": "Team Foundation Server",
+                "endorsements": "0"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "0"
+            },
+            {
+                "name": "SQL Server",
+                "endorsements": "0"
+            },
+            {
+                "name": "VBA",
+                "endorsements": "0"
+            },
+            {
+                "name": "J2EE",
+                "endorsements": "0"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "Problem Solving",
+                "endorsements": "4"
+            },
+            {
+                "name": "Team Management",
+                "endorsements": "1"
+            },
+            {
+                "name": "WorkFusion",
+                "endorsements": "1"
+            },
+            {
+                "name": "Liferay",
+                "endorsements": "0"
+            },
+            {
+                "name": "IVY",
+                "endorsements": "0"
+            },
+            {
+                "name": "IBatis",
+                "endorsements": "0"
+            },
+            {
+                "name": "Static Code Analysis",
+                "endorsements": "0"
+            },
+            {
+                "name": "Velocity",
+                "endorsements": "0"
+            },
+            {
+                "name": "Client Facing",
+                "endorsements": "0"
+            },
+            {
+                "name": "JSR 286 Portlets",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Java, RPA, Java Enterprise Edition, Design Patterns, Software Engineering, Web Services, Analytical Skills, Object-Oriented Programming (OOP), Eclipse, AJAX, JavaScript, Microsoft SQL Server, Tomcat, C++, XSLT, ASP.NET, jQuery, Ant, Spring Framework, Unified Modeling Language (UML), JQuery, ANT, Subversion, Team Foundation Server, Spring, SQL Server, VBA, J2EE, MySQL, SQL, Problem Solving, Team Management, WorkFusion, Liferay, IVY, IBatis, Static Code Analysis, Velocity, Client Facing, JSR 286 Portlets"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQGgU_feLN-bpQ/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=-bsaliZUL_Wl3oiQVpHmF51e6c7QTyOs7NX80o7Q8Ro",
+            "fullName": "Rohitha Liyanagama",
+            "headline": "Chief Software Architect at hSenid | AWS Certified Solutions Architect - Associate",
+            "company": "hSenid Business Solutions",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/rohithalkt/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAHgZ9wBXvDvmfu1KPOYP6K6VB3xS_9CX7A",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAHgZ9wBXvDvmfu1KPOYP6K6VB3xS_9CX7A,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAHgZ9wBXvDvmfu1KPOYP6K6VB3xS_9CX7A%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I have over 15 years of experience in IT Industry and currently working for hSenid Business Solutions as a software architect.\n \nI am an expert in .net technologies including asp.net, C#,VB.net ,  web service and MVC in Visual Studio 2003 - 2013. Also I have worked as an architect under LAMP stack with PHP, Apache, MySQL, Symfony framework, Bird and open DS. I have years of experience in RDBMS in various DB platforms including MSSQL server 2000 - 2016, Orcale 9i - 12c, DB2, AS400 and MySQL.\n \nI have high performed employment history including best employee, best Individual outstanding performance awards several times in carrier.\n\nI have completed MSc. In computer science (2009 -Specialised in Software Architect) from Faculty of Engineering, University of Moratuwa and B.Sc. in Engineering (2003- Specialized in Computer Engineering) from faculty of engineering, University of Peradeniya.\n\nI was a member of the hSenid business solutions senior management team since 2009.",
+            "firstName": "Rohitha",
+            "lastName": "Liyanagama"
+        },
+        "jobs": [
+            {
+                "companyName": "hSenid Business Solutions",
+                "companyUrl": "https://www.linkedin.com/company/3615929/",
+                "jobTitle": "Chief Software Architect",
+                "dateRange": "Apr 2018 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "hSenid Business Solutions",
+                "companyUrl": "https://www.linkedin.com/company/3615929/",
+                "jobTitle": "Software Architect",
+                "dateRange": "Apr 2012 – Mar 2018",
+                "location": "colombo",
+                "description": "Involved as the software architect for HRM enterprise V8 which is a completely web based HR software solution covering wide spectrum of all HR needs and being used across 30+ countries worldwide within Single code base.\nI am fully responsible with total product suite including, product architect, Database designing, Estimation, Code review, implementation etc. \nInvolved in as a Security architect for above web based solution especially when it deployed as cloud solution.\nI am fully responsible to implement and maintain this product as high available, DR support implementation on Singapore and Sydney amazon cloud."
+            },
+            {
+                "companyName": "hSenid Business Solutions",
+                "companyUrl": "https://www.linkedin.com/company/3615929/",
+                "jobTitle": "Associate Software Architect",
+                "dateRange": "Apr 2011 – Jun 2012",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "hSenid Business Solutions",
+                "companyUrl": "https://www.linkedin.com/company/3615929/",
+                "jobTitle": "Senior Tech Lead",
+                "dateRange": "Apr 2010 – Apr 2011",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "NexGroup Asia Pacific",
+                "companyUrl": "https://www.linkedin.com/company/883973/",
+                "jobTitle": "Consultant Software Architect",
+                "dateRange": "Jan 2012 – Dec 2013",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "hSenid Software International",
+                "companyUrl": "https://www.linkedin.com/company/87266/",
+                "jobTitle": "Tech Lead",
+                "dateRange": "May 2005 – Apr 2010",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "hSenid Software International",
+                "companyUrl": "https://www.linkedin.com/company/87266/",
+                "jobTitle": "SSE",
+                "dateRange": "Jun 2003 – Apr 2005",
+                "location": null,
+                "description": null
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "MSC",
+                "degreeSpec": "Computer Science",
+                "dateRange": "2006 – 2009"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/14829/?legacySchoolId=14829",
+                "schoolName": "University of Peradeniya",
+                "degree": "BSc. Eng",
+                "degreeSpec": "Computer Engineering",
+                "dateRange": "1999 – 2003"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/rohithalkt",
+            "twitter": "Rohithalkt"
+        },
+        "skills": [
+            {
+                "name": "Web Services",
+                "endorsements": "99"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "88"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "66"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "13"
+            },
+            {
+                "name": "Troubleshooting",
+                "endorsements": "11"
+            },
+            {
+                "name": "Project Estimation",
+                "endorsements": "5"
+            },
+            {
+                "name": "Design Patterns",
+                "endorsements": "4"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "4"
+            },
+            {
+                "name": "Agile Methodologies",
+                "endorsements": "4"
+            },
+            {
+                "name": "SOA",
+                "endorsements": "2"
+            },
+            {
+                "name": "ASP.NET",
+                "endorsements": "61"
+            },
+            {
+                "name": "Oracle",
+                "endorsements": "44"
+            },
+            {
+                "name": "VB.NET",
+                "endorsements": "41"
+            },
+            {
+                "name": "Visual Studio",
+                "endorsements": "30"
+            },
+            {
+                "name": "C#",
+                "endorsements": "27"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "23"
+            },
+            {
+                "name": ".NET",
+                "endorsements": "20"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "16"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "16"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "16"
+            },
+            {
+                "name": "XML",
+                "endorsements": "12"
+            },
+            {
+                "name": "DB2",
+                "endorsements": "11"
+            },
+            {
+                "name": "TFS",
+                "endorsements": "9"
+            },
+            {
+                "name": "SharePoint",
+                "endorsements": "9"
+            },
+            {
+                "name": "Databases",
+                "endorsements": "9"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "8"
+            },
+            {
+                "name": "Apache",
+                "endorsements": "7"
+            },
+            {
+                "name": "UML",
+                "endorsements": "7"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "6"
+            },
+            {
+                "name": "IBM iSeries",
+                "endorsements": "5"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "4"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "4"
+            },
+            {
+                "name": "WCF",
+                "endorsements": "3"
+            },
+            {
+                "name": "Open Source",
+                "endorsements": "3"
+            },
+            {
+                "name": "JSON",
+                "endorsements": "2"
+            },
+            {
+                "name": "JUnit",
+                "endorsements": "2"
+            },
+            {
+                "name": "LINQ",
+                "endorsements": "2"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "2"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "2"
+            },
+            {
+                "name": "ADO.NET",
+                "endorsements": "2"
+            },
+            {
+                "name": "SOAP",
+                "endorsements": "2"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "2"
+            },
+            {
+                "name": "Ant",
+                "endorsements": "2"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "2"
+            },
+            {
+                "name": "REST",
+                "endorsements": "2"
+            },
+            {
+                "name": "Tomcat",
+                "endorsements": "1"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "1"
+            },
+            {
+                "name": "Team Management",
+                "endorsements": "13"
+            },
+            {
+                "name": "Team Building",
+                "endorsements": "7"
+            },
+            {
+                "name": "Code Review",
+                "endorsements": "5"
+            }
+        ],
+        "allSkills": "Web Services, Microsoft SQL Server, MySQL, Software Development, Troubleshooting, Project Estimation, Design Patterns, OOP, Agile Methodologies, SOA, ASP.NET, Oracle, VB.NET, Visual Studio, C#, PHP, .NET, CSS, HTML, JavaScript, XML, DB2, TFS, SharePoint, Databases, AJAX, Apache, UML, jQuery, IBM iSeries, ASP.NET MVC, Java Enterprise Edition, WCF, Open Source, JSON, JUnit, LINQ, Spring, JSP, ADO.NET, SOAP, Eclipse, Ant, Hibernate, REST, Tomcat, Servlets, Team Management, Team Building, Code Review"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4D03AQGiK-RZcI3Otg/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=V4agnNf0Qf1x-LbelGovba5PKMbwpTf7FriBurdHN1I",
+            "fullName": "Dinusha Kumarasiri",
+            "headline": "Solutions Architect at LB Finance PLC",
+            "company": "LB Finance PLC",
+            "school": "University of Colombo",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/dinushak/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAOKbZ4BsPF1STBO2PWOwS8bVciEan_EHEs",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAOKbZ4BsPF1STBO2PWOwS8bVciEan_EHEs,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAOKbZ4BsPF1STBO2PWOwS8bVciEan_EHEs%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Recognized professional in software development industry with wide range of qualifications\n      and skills.  Specialties: SharePoint 2013, Microsoft Azure, Office 365, SharePoint 2010,\n      \n      SharePoint 2007, MS CRM 4.0, ASP.Net, WCF, CCF, SQL Server, SSRS, Power BI",
+            "firstName": "Dinusha",
+            "lastName": "Kumarasiri"
+        },
+        "jobs": [
+            {
+                "companyName": "LB Finance PLC",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=LB%20Finance%20PLC",
+                "jobTitle": "Solutions Architect",
+                "dateRange": "Aug 2017 – Present",
+                "location": "Sri Lanka",
+                "description": "Architecture, design and development of Core Financial system.\n      \n\n    \n      \n\n    Core technologies,\n      \n\n    •\t.Net Core 2.0\n      \n\n    •\tAngular 4.0\n      \n\n    •\tSQL Server 2016\n      \n\n    \n      •\tWorkflow Foundation"
+            },
+            {
+                "companyName": "Occulem (Pvt) Ltd",
+                "companyUrl": "https://www.linkedin.com/company/9459625/",
+                "jobTitle": "Software Architect",
+                "dateRange": "Mar 2015 – Aug 2017",
+                "location": "Sri Lanka",
+                "description": "Architecture, design and development of software projects. \n\nCore technologies,\n•\tMicrosoft SharePoint\n•\tOffice 365\n•\tMicrosoft Azure\n•\t.Net Framework"
+            },
+            {
+                "companyName": "Pyxle (Pvt) Limited",
+                "companyUrl": "https://www.linkedin.com/company/2418317/",
+                "jobTitle": "Tech Lead / Associate Architect",
+                "dateRange": "Jun 2013 – Feb 2015",
+                "location": "Sri Lanka",
+                "description": "Plan, design and deployment of enterprise grade SharePoint solutions"
+            },
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Consultant - Technology",
+                "dateRange": "Sep 2012 – Jun 2013",
+                "location": null,
+                "description": "Design and Development of an enterprise social platform using SharePoint features"
+            },
+            {
+                "companyName": "IronOne Technologies LLC",
+                "companyUrl": "https://www.linkedin.com/company/448781/",
+                "jobTitle": "Technical Lead",
+                "dateRange": "Jan 2012 – Sep 2012",
+                "location": null,
+                "description": "Handled multiple SharePoint and ASP.Net MVC related projects"
+            },
+            {
+                "companyName": "IronOne Technologies LLC",
+                "companyUrl": "https://www.linkedin.com/company/448781/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Jan 2010 – Jan 2012",
+                "location": null,
+                "description": "Engage with SharePoint 2010 projects that cover customizations like workflow development, custom feature development and SharePoint branding. \nDuring my stay in this position I embraced technologies like, \n\n  •\tSharePoint 2010\n  •\tASP.Net\n  •\tAJAX \n  •\tLINQ\n  •\tEntity Framework\n  •\tSilverlight\n  •\tWCF  \n  •\tSQL Server\n\nFurthermore conducting knowledge sharing activities like internal TechTalks is also included in my job responsibilities."
+            },
+            {
+                "companyName": "IronOne Technologies LLC",
+                "companyUrl": "https://www.linkedin.com/company/448781/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Sep 2008 – Jan 2010",
+                "location": null,
+                "description": "Worked with SharePoint 2007 projects that cover customizations, deployment,\n      administration and branding.\n      \n\n    During my stay in this position I embraced technologies like,\n      \n\n    \n      \n\n... See more"
+            },
+            {
+                "companyName": "Daimler",
+                "companyUrl": "https://www.linkedin.com/company/163329/",
+                "jobTitle": "Solution Consultant - SharePoint",
+                "dateRange": "Jun 2011 – Jul 2012",
+                "location": "Singapore",
+                "description": "Engage with different SharePoint versions from WSS to SharePoint server 2010.\n      \n\n    My responsibilities at Daimler include managing full life cycle of SharePoint projects\n      \n      and conducting SharePoint 2010 training in APAC region."
+            },
+            {
+                "companyName": "Lanka Software Foundation",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Aug 2006 – Feb 2007",
+                "location": null,
+                "description": "worked on \"Sahana\" Free and Open Source disaster management system.\nDuring my stay at LSF I followed technologies like,\n\n•\tApache\n•\tPHP\n•\tMySQL\n•\tLinux\n•\tGoogle Maps API"
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/school/14826/?legacySchoolId=14826",
+                "schoolName": "University of Colombo",
+                "degree": "BSc",
+                "degreeSpec": "Computer Science",
+                "dateRange": "2004 – 2008"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Chartered%20Institute%20of%20Management%20Accountants%20(CIMA)",
+                "schoolName": "Chartered Institute of Management Accountants (CIMA)",
+                "degree": "CIMA, Passed Finalist"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/dinushak",
+            "websites": "dinushaonline.blogspot.com"
+        },
+        "skills": [
+            {
+                "name": "ASP.NET",
+                "endorsements": "50"
+            },
+            {
+                "name": "WCF",
+                "endorsements": "36"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "36"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "15"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "10"
+            },
+            {
+                "name": "SDLC",
+                "endorsements": "3"
+            },
+            {
+                "name": "SharePoint",
+                "endorsements": "23"
+            },
+            {
+                "name": "LINQ",
+                "endorsements": "22"
+            },
+            {
+                "name": "C#",
+                "endorsements": "20"
+            },
+            {
+                "name": "SSRS",
+                "endorsements": "16"
+            },
+            {
+                "name": ".NET",
+                "endorsements": "15"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "15"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "12"
+            },
+            {
+                "name": "Entity Framework",
+                "endorsements": "10"
+            },
+            {
+                "name": "XML",
+                "endorsements": "5"
+            },
+            {
+                "name": "ASP.NET AJAX",
+                "endorsements": "5"
+            },
+            {
+                "name": "Apache",
+                "endorsements": "3"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "3"
+            },
+            {
+                "name": "Microsoft CRM",
+                "endorsements": "2"
+            },
+            {
+                "name": "Silverlight",
+                "endorsements": "14"
+            },
+            {
+                "name": "Microsoft Office Sharepoint Server",
+                "endorsements": "6"
+            },
+            {
+                "name": "SharePoint Server",
+                "endorsements": "5"
+            },
+            {
+                "name": "InfoPath",
+                "endorsements": "3"
+            }
+        ],
+        "allSkills": "ASP.NET, WCF, Microsoft SQL Server, Software Development, Web Services, SDLC, SharePoint, LINQ, C#, SSRS, .NET, MySQL, ASP.NET MVC, Entity Framework, XML, ASP.NET AJAX, Apache, Linux, Microsoft CRM, Silverlight, Microsoft Office Sharepoint Server, SharePoint Server, InfoPath"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQGvVj7OG1FCVg/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=52STkHOp_vM56hUNNhAgwuag6uDb_xGT_fj3fv9aUnQ",
+            "fullName": "Shameera Prajapriya",
+            "headline": "Solutions Architect | MVP - Azure | Technical Speaker | Founder, Azure IoT Squad | Head Of Volunteers, micro:bit SLUG",
+            "company": "WebQuarters®",
+            "school": "Science College - Mt.Lavinia",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/prajapriya/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAtVqAwBpCrcOhy6PzJ1fuA7dYnb1XNP0vI",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAtVqAwBpCrcOhy6PzJ1fuA7dYnb1XNP0vI,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAtVqAwBpCrcOhy6PzJ1fuA7dYnb1XNP0vI%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Shameera Prajapriya has over a decade of corporate experience within the field of Information Technology. He is a Solutions Architect by Profession, currently leads the WebQuarters Group. Shameera hold several accolades including MVP – Azure, hence a rare talent. \n\nHe is a well experienced professional in architecting cloud based solutions and developing innovative application using various programming languages such as .Net, C# / MVC, PHP and 4GL Languages like Progress. Further his passion is innovating devices (IoT) to provide better solutions for the customer requirements using microprocessor / electronics & etc.;\n\nIn addition, he is a Technical Speaker and the Founder of Azure IoT Squad. He is also an Ambassador, micro: bit SLUG. His ability to think out of the box made him one of the chief contributors towards achieving an APICTA Award for his product developed for LAUGFS International - GnTracker, which was awarded a merit award in Thailand, in 2016.",
+            "firstName": "Shameera",
+            "lastName": "Prajapriya"
+        },
+        "jobs": [
+            {
+                "companyName": "WebQuarters®",
+                "companyUrl": "https://www.linkedin.com/company/3600065/",
+                "jobTitle": "Solutions Architect",
+                "dateRange": "Feb 2018 – Present",
+                "location": "Colombo, Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "IITS - Impact IT Solutions",
+                "companyUrl": "https://www.linkedin.com/company/9223685/",
+                "jobTitle": "Founder / Solutions Architect",
+                "dateRange": "Feb 2009 – Present",
+                "location": null,
+                "description": "1.\tDeveloping Web Based PMS (Project Management Application Using\n\tPHP, MySQl – WAMP\n2.\tDeveloping POS (Point Of Sales) Application using\n\tVb6 / SQL2000 / Crystal Reports & Etc.\n3.\tWeb Designing / Graphics Designing using\n\tHTML / CSS / Photoshop / Joomla.\n4.\tInstallation of CCTV / CCD Systems, Security Sensors, Small Area LAN / Wi-Fi Configuration."
+            },
+            {
+                "companyName": "LAUGFS Holdings Limited",
+                "companyUrl": "https://www.linkedin.com/company/3837363/",
+                "jobTitle": "Solutions Architect / Assistant Manager - Group IT Innovations",
+                "dateRange": "Apr 2016 – Feb 2018",
+                "location": "Head Office",
+                "description": null
+            },
+            {
+                "companyName": "TeKnowledge Shared Services (Pvt) Ltd",
+                "companyUrl": "https://www.linkedin.com/company/3764599/",
+                "jobTitle": "Solutions Architect / Assistant Manager - IT ( Head Office, Sri Lanka )",
+                "dateRange": "Apr 2011 – Apr 2016",
+                "location": "Subsidiary Of TeKnowledge Shared Services Corp, USA.",
+                "description": "1.\tERP Development Using\n\tC# / MVC / EF / ASP.Net / SQL 2005 / 2008 / 2012 – Web Platform\n2.\tDeveloping Web Based PMS (Project Management Application Using \n\tPHP, JQuery, CSS, MySQl – WAMP.\n3.\tWeb Designing / Graphics Designing using\n\tHTML / CSS / Photoshop / Joomla.\n4.\tMobile SMS Applications – J2ME\n5.\tMobile Inventory Control with QR Technology\n6.\tDeveloping POS (Point Of Sales) Application using\n\tVb6 / SQL2000 / Crystal Reports & Etc.\t\t \n7.\tInstallation of CCTV / CCD Systems, Security Sensors, Small Area LAN / Wi-Fi Configuration."
+            },
+            {
+                "companyName": "Aura Solutions (Pvt) Ltd",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Aura%20Solutions%20(Pvt)%20Ltd",
+                "jobTitle": "Programmer",
+                "dateRange": "Feb 2008 – Feb 2009",
+                "location": null,
+                "description": "Developing POS (Point Of Sales) Application using\n      \n\n    \n      Vb6 / SQL2000 / Crystal Reports & Etc."
+            },
+            {
+                "companyName": "OpenArc Systems Management (Pvt) Ltd.",
+                "companyUrl": "https://www.linkedin.com/company/809673/",
+                "jobTitle": "Trainee Programmer",
+                "dateRange": "Feb 2007 – Feb 2008",
+                "location": null,
+                "description": "Developing Banking & Finance Applications using\n      \n\n    \n      Progress Language."
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Science%20College%20-%20Mt.Lavinia",
+                "schoolName": "Science College - Mt.Lavinia",
+                "dateRange": "1994 – 2006"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/prajapriya"
+        },
+        "skills": [
+            {
+                "name": "MySQL",
+                "endorsements": "23"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "20"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "17"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "8"
+            },
+            {
+                "name": "Mobile Applications",
+                "endorsements": "5"
+            },
+            {
+                "name": "Web Design",
+                "endorsements": "3"
+            },
+            {
+                "name": "Solution Architecture",
+                "endorsements": "2"
+            },
+            {
+                "name": "CCTV",
+                "endorsements": "1"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "1"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "0"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "0"
+            },
+            {
+                "name": "Software Development Life Cycle (SDLC)",
+                "endorsements": "0"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "15"
+            },
+            {
+                "name": "ASP.NET",
+                "endorsements": "13"
+            },
+            {
+                "name": "C#",
+                "endorsements": "12"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "6"
+            },
+            {
+                "name": "UML",
+                "endorsements": "5"
+            },
+            {
+                "name": "Visual Basic",
+                "endorsements": "5"
+            },
+            {
+                "name": "Joomla",
+                "endorsements": "4"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "2"
+            },
+            {
+                "name": "Crystal Reports",
+                "endorsements": "2"
+            },
+            {
+                "name": "Photoshop",
+                "endorsements": "1"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "1"
+            },
+            {
+                "name": "Entity Framework",
+                "endorsements": "1"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "1"
+            },
+            {
+                "name": "VB6",
+                "endorsements": "0"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "0"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "0"
+            },
+            {
+                "name": "Networking",
+                "endorsements": "1"
+            },
+            {
+                "name": "GPS Applications",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "MySQL, Microsoft SQL Server, CSS, Software Development, Mobile Applications, Web Design, Solution Architecture, CCTV, Web Services, Web Development, Programming, Software Development Life Cycle (SDLC), jQuery, ASP.NET, C#, PHP, UML, Visual Basic, Joomla, AJAX, Crystal Reports, Photoshop, ASP.NET MVC, Entity Framework, JavaScript, VB6, SQL, Cascading Style Sheets (CSS), HTML, Networking, GPS Applications"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQHEetWhakRFJQ/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=zvZ_T_yldUaCr7HEnUfGISgCDGkVdSLQlR6G4nAbTYA",
+            "fullName": "Lasitha Petthawadu",
+            "headline": "Associate Technical Architect at 99X Technology",
+            "company": "99X Technology",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/lasitha-petthawadu-283ba830/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAaVZYMBUjDqSR7Ay57O-haSFq1dVhoE7So",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAaVZYMBUjDqSR7Ay57O-haSFq1dVhoE7So,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAaVZYMBUjDqSR7Ay57O-haSFq1dVhoE7So%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "",
+            "firstName": "Lasitha",
+            "lastName": "Petthawadu"
+        },
+        "jobs": [
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Associate Technical Architect",
+                "dateRange": "Jul 2018 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Senior Tech Lead",
+                "dateRange": "Sep 2017 – Jul 2018",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "SCoRe Lab",
+                "companyUrl": "https://www.linkedin.com/company/7806168/",
+                "jobTitle": "Google Summer of Code Mentor",
+                "dateRange": "Mar 2018 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "SLIIT",
+                "companyUrl": "https://www.linkedin.com/company/60860/",
+                "jobTitle": "Visiting Lecturer",
+                "dateRange": "Feb 2015 – Present",
+                "location": "Malabe, Colombo",
+                "description": "Has facilitated a lecture series in \nFrontend Development  Angular/ ReactJs - Project design and management (PDM) \nHybrid Mobile Development Ionic/Cordova - Project design and management (PDM) \nSoftware Engineering Tools & Metrics (SETM) for the stream of Information Technology\nCode Understandability\nConfiguration Management"
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Tech Lead",
+                "dateRange": "Sep 2015 – Aug 2017",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Associate Technical Lead",
+                "dateRange": "Apr 2014 – Sep 2015",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Senior Software Engineer",
+                "dateRange": "Apr 2013 – Apr 2014",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Software Engineer",
+                "dateRange": "Apr 2012 – Apr 2013",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "Zone24x7",
+                "companyUrl": "https://www.linkedin.com/company/109745/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Nov 2011 – Apr 2012",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "Synapse Technologies (Freelance)",
+                "companyUrl": "https://www.linkedin.com/company/1255839/",
+                "jobTitle": "Freelancer - Web Solutions",
+                "dateRange": "Apr 2011 – Apr 2011",
+                "location": null,
+                "description": null
+            }
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Master of Science (MSc) in Computer Science",
+                "degreeSpec": "Software Architecture",
+                "dateRange": "2015 – 2017"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Sri%20Lanka%20Institute%20of%20Information%20Technology",
+                "schoolName": "Sri Lanka Institute of Information Technology",
+                "degree": "Bachelor of Science (BSc) Special Hons",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2007 – 2012",
+                "description": "Virtusa Academic Excellence award for best performance"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/10223/?legacySchoolId=10223",
+                "schoolName": "Curtin University of Technology",
+                "degree": "B.Sc",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2010"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=IJTS",
+                "schoolName": "IJTS",
+                "degree": "Advanced Java Developer (AJD)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2009 – 2009"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=National%20Institute%20of%20Business%20Management",
+                "schoolName": "National Institute of Business Management",
+                "degree": "Certificate in Computer Hardware",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2007 – 2007"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Wijeya%20Graphics",
+                "schoolName": "Wijeya Graphics",
+                "degree": "Certificate in Digital Animation",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2005 – 2005"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Ananda%20College",
+                "schoolName": "Ananda College",
+                "degreeSpec": "General Certificate of Education, Ordinary Level and Advanced Level",
+                "dateRange": "2007"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/lasitha-petthawadu-283ba830",
+            "twitter": "Lasitha_ishan"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "70"
+            },
+            {
+                "name": "C#",
+                "endorsements": "63"
+            },
+            {
+                "name": ".NET",
+                "endorsements": "42"
+            },
+            {
+                "name": "Mobile Applications",
+                "endorsements": "29"
+            },
+            {
+                "name": "Android Development",
+                "endorsements": "10"
+            },
+            {
+                "name": "Software Engineering",
+                "endorsements": "26"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "19"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "20"
+            },
+            {
+                "name": "Design Patterns",
+                "endorsements": "16"
+            },
+            {
+                "name": "Web Applications",
+                "endorsements": "8"
+            },
+            {
+                "name": "Agile Methodologies",
+                "endorsements": "8"
+            },
+            {
+                "name": "Software Design",
+                "endorsements": "7"
+            },
+            {
+                "name": "Research",
+                "endorsements": "4"
+            },
+            {
+                "name": "Object Oriented Design",
+                "endorsements": "4"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "4"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)",
+                "endorsements": "5"
+            },
+            {
+                "name": "ASP.NET",
+                "endorsements": "43"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "48"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "4"
+            },
+            {
+                "name": "Docker",
+                "endorsements": "1"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "22"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "31"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "26"
+            },
+            {
+                "name": "Spring",
+                "endorsements": "17"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "20"
+            },
+            {
+                "name": "Android",
+                "endorsements": "19"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "12"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "7"
+            },
+            {
+                "name": "WCF",
+                "endorsements": "5"
+            },
+            {
+                "name": "LINQ",
+                "endorsements": "4"
+            },
+            {
+                "name": "JUnit",
+                "endorsements": "4"
+            },
+            {
+                "name": "Spring Framework",
+                "endorsements": "2"
+            },
+            {
+                "name": "TypeScript",
+                "endorsements": "3"
+            },
+            {
+                "name": "Strongloop",
+                "endorsements": "1"
+            },
+            {
+                "name": "Play Framework",
+                "endorsements": "2"
+            },
+            {
+                "name": "PhoneGap",
+                "endorsements": "7"
+            },
+            {
+                "name": "MVC",
+                "endorsements": "4"
+            },
+            {
+                "name": "ADFS 2.0",
+                "endorsements": "3"
+            },
+            {
+                "name": "Software Architectural Design",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Java, C#, .NET, Mobile Applications, Android Development, Software Engineering, OOP, Web Services, Design Patterns, Web Applications, Agile Methodologies, Software Design, Research, Object Oriented Design, Software Development, Object-Oriented Programming (OOP), ASP.NET, JavaScript, AngularJS, Docker, Hibernate, MySQL, HTML, Spring, Microsoft SQL Server, Android, JSP, ASP.NET MVC, WCF, LINQ, JUnit, Spring Framework, TypeScript, Strongloop, Play Framework, PhoneGap, MVC, ADFS 2.0, Software Architectural Design"
+    }
+
+
+]

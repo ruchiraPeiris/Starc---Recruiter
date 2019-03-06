@@ -1,0 +1,2124 @@
+[
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQF6_JuHyEJz5Q/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=qoaQ1oKYzD9MqkZ02NmGHMyL8mmXKcmz_XdTGb1fzzs",
+            "fullName": "Tharindu Ranaweera",
+            "headline": "Student at University of Moratuwa",
+            "company": "University of Moratuwa",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/tharinduranaweera/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAABZ_BcABSzOF2WRBKqEUB3E7Xa7Po7Rr3pE",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABZ_BcABSzOF2WRBKqEUB3E7Xa7Po7Rr3pE,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABZ_BcABSzOF2WRBKqEUB3E7Xa7Po7Rr3pE%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Undergraduate at University of Moratuwa, Faculty of Information Technology eagerly looking\n      \n      for opportunities to broaden the knowledge on latest technologies.",
+            "firstName": "Tharindu",
+            "lastName": "Ranaweera"
+        },
+        "jobs": [
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Student",
+                "dateRange": "Dec 2014 – Present",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "DirectFN",
+                "companyUrl": "https://www.linkedin.com/company/374860/",
+                "jobTitle": "Software Engineering Intern",
+                "dateRange": "Sep 2017 – Apr 2018",
+                "location": "Colombo,Sri Lanka",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "Onsite : An Issue Reporting System for Construction Sites\nAug 2016 – Feb 2017\n\nProject descriptionAn issue tracking system developed for reporting and tracking issues that occur at a construction site. Which also allows progress tracking and document generationon issues. Solution includes both mobile and web applications.\nTechnologies: Java 8, Spring Boot, Android, Spring DataJPA, Maven, Gradle, MySQL, Git, Intellij,Android Studio\nGit: https://github.com/tj-513/onsite\n\nOther creators\nRavindu Udayanga Madhuri Prabhaswari  \nProject nameAmbulance Blackbox\nMar 2015 – Jan 2016\n\nProject descriptionA portable device for recording and analyzing health status data of a patient who is being transported.\nTechnologies : C , Atmega, C#.net desktop applicatio\n\nOther creators\nRavindu Udayanga Madhuri Prabhaswari  \nProject nameGames using Java Swing Framework\nNov 2013 – Aug 2014\n\nProject descriptionDone as pet projects for amusement using java Swing framework.\nIncludes,\nSnake Remake : A remake of well-known Snake game as a desktop application which works with an online leaderboard.\n\nTable Tennis : A 2D Table Tennis game created without using any game engine. All the laws of physics used in game(gravity, momentum, impacts, projectiles) have been implemented by pure java code.\n\nSheep : A simple game to help a sheep cross a road with travelling vehicles.\n\nTechnologies : Java 7, Swing, MySQL\nGit: https://github.com/tj-513/swing_games"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor’s Degree",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2014 – 2018"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/43471/?legacySchoolId=43471",
+                "schoolName": "Rahula College - Matara",
+                "degree": "High School",
+                "degreeSpec": "Mathematics",
+                "dateRange": "2005 – 2013"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/tharinduranaweera",
+            "mail": "tranaweera755@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "31"
+            },
+            {
+                "name": "Spring Framework",
+                "endorsements": "16"
+            },
+            {
+                "name": "Android",
+                "endorsements": "16"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "17"
+            },
+            {
+                "name": "Project Management",
+                "endorsements": "12"
+            },
+            {
+                "name": "Social Media",
+                "endorsements": "9"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "10"
+            },
+            {
+                "name": "C",
+                "endorsements": "22"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "14"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "20"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "19"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "19"
+            },
+            {
+                "name": "Microsoft Excel",
+                "endorsements": "15"
+            },
+            {
+                "name": "Photoshop",
+                "endorsements": "12"
+            },
+            {
+                "name": "Microsoft Word",
+                "endorsements": "12"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "14"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "18"
+            },
+            {
+                "name": "C++",
+                "endorsements": "13"
+            },
+            {
+                "name": "C#",
+                "endorsements": "18"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "13"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "12"
+            },
+            {
+                "name": "JavaServer Pages (JSP)",
+                "endorsements": "8"
+            },
+            {
+                "name": "C (Programming Language)",
+                "endorsements": "1"
+            },
+            {
+                "name": "Public Speaking",
+                "endorsements": "14"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "13"
+            },
+            {
+                "name": "Training",
+                "endorsements": "12"
+            },
+            {
+                "name": "Management",
+                "endorsements": "10"
+            }
+        ],
+        "allSkills": "Java, Spring Framework, Android, Programming, Project Management, Social Media, Web Development, C, MySQL, JavaScript, PHP, Microsoft Office, Microsoft Excel, Photoshop, Microsoft Word, SQL, HTML, C++, C#, CSS, Cascading Style Sheets (CSS), JavaServer Pages (JSP), C (Programming Language), Public Speaking, Leadership, Training, Management"
+    },
+   {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQFv33jtcGWcrQ/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=RmHHzzJQNnGizbh3PnUONOizdqpVw7U7jp_Hgg1jqj4",
+            "fullName": "Randilu Soysa",
+            "headline": "Former Software Engineering Intern at WSO2",
+            "company": "WSO2",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/randilusoysa/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAABpBmo4Be7SsBR1blO79iJXp3N-eXptup48",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABpBmo4Be7SsBR1blO79iJXp3N-eXptup48,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABpBmo4Be7SsBR1blO79iJXp3N-eXptup48%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I’m a passionate IT undergraduate looking for a career in software engineering. I’m more into web-based applications, and also interested in building mobile apps as well. I was able to maintain an outstanding academic record in balance with extra-curricular activities, where I was able to actively participate in several clubs, societies. \n I was able to get great experience and corporate exposure through the global internship program of AIESEC. And was also able to provide community service through the Rotaract club.\n Sports has always been my thing, where I was able to secure a spot in the interschool aquatic club as a distinguished swimmer representing my alma mater. I also played basketball at the university level.\nApart from the work, I would like to spend my spare time by listening to music, playing guitar, traveling, visiting untouched beauty spots around the country. Outdoor adventures like rock climbing, hiking and rafting have always been my all-time favorites.",
+            "firstName": "Randilu",
+            "lastName": "Soysa"
+        },
+        "jobs": [
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Software Engineering Intern",
+                "dateRange": "Sep 2017 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "IgniterSpace",
+                "companyUrl": "https://www.linkedin.com/company/13201131/",
+                "jobTitle": "Creative Evangelist",
+                "dateRange": "Jan 2017 – Jul 2017",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Rotaract Club of Panadura",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Rotaract%20Club%20of%20Panadura",
+                "jobTitle": "Rotaractor",
+                "dateRange": "2017 – 2017",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "AIESEC in Sri Lanka",
+                "companyUrl": "https://www.linkedin.com/company/303447/",
+                "jobTitle": "Organizing Committee Vice President",
+                "dateRange": "2016 – 2016",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "AIESEC in Sri Lanka",
+                "companyUrl": "https://www.linkedin.com/company/303447/",
+                "jobTitle": "Team Leader",
+                "dateRange": "May 2015 – 2016",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Achievers Lanka Business School",
+                "companyUrl": "https://www.linkedin.com/company/3049274/",
+                "jobTitle": "Committee Member of Achievers Enterprise Awards 2013",
+                "dateRange": "2013 – 2013",
+                "location": "Waters Edge, Colombo",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "Real Estate Management System\nNov 2016 – Mar 2017\n\nProject descriptionReal Estate Management System is comprehensive online service that interconnects and provides a platform for all the stakeholders of Real Estate Industry to easily and effectively perform they duties and fulfill requirements. For placing and advertising available property of a property owning company, creating, administering e-Contracts for rents and lease to even managing specific repairs/job cards of tenants, REMS provides \"the\" most comprehensive solution managing your real estate. This User-friendly, easy to manage, profile based system also comes with a mobile application for tenants. \nThe project was completed as the 2nd year Industry Project for We Are Designers International (Pvt) Ltd.\n\nOther creators\nNisal Waduge Aeshana shalindra Udadeniya Shakthi Weerasinghe\nSee project Real Estate Management SystemSee project\nProject nameExpressway Life Saver (ELS)\nJan 2015 – Nov 2015\n\nProject description With the increasing population, usage of expressways has been a popular mode of transportation around the world. Although highways cater the speed of life, it compromises the safety of its users which in fact requires more safety measures while traveling in them. Even though, highway statistics provide the fact that the rate at which accidents occur are seemingly low, the impact or the fatality of accidents were very high. Therefore, an autonomous system that would cater all the above problems was in need.\nThe Expressway Life Saver caters this issue by providing efficient accident prevention strategies and post-accident recovery plans. It intends to make the highway systems safer for all the user groups from drivers to passengers by a technological solution. The device is portable and thus convenient to use while traveling. Unlike in other safety systems, it prevents accidents with its speed alerts and keeps the driver in focus with its interactive interface. It alerts the authorities in situations of reckless driving or in an occurrence of a fire or a crash. Also, it backs up highway user data into a database which could be used to the effective handling of the highway system. The system comes as a package of all these features embedded with cutting-edge technology, making it competitive in the marketplace in contrast to its alternatives.\nThe device consists of typical fire sensor and utilizes GSM, GPRS and GPS technologies in order to pass messages and to generate speed, the location of the vehicles. Several test runs were carried out and the outcomes were quite accurate. It responded positively in low signal coverage and resisted quick flames. In overall it was quite a success and could be further developed with the introduction of sophisticated technology.\nOther creators"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"},
+            {"language": "Sinhalese","proficiency":"Elementary proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (BSc)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2014 – 2018",
+                "description": ""
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/22497/?legacySchoolId=22497",
+                "schoolName": "The Chartered Institute of Management Accountants",
+                "degree": "Diploma in Management Accounting (Managerial Level)",
+                "dateRange": "2013"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Achievers%20Lanka%20Business%20School",
+                "schoolName": "Achievers Lanka Business School",
+                "degreeSpec": "Accounting and Business/Management"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/4065017/?legacySchoolId=4065017",
+                "schoolName": "D. S. Senanayake College",
+                "degreeSpec": "Secondary Education",
+                "dateRange": "2004 – 2012"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=The%20British%20Council",
+                "schoolName": "The British Council"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/randilusoysa"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "9"
+            },
+            {
+                "name": "Android",
+                "endorsements": "6"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "7"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "5"
+            },
+            {
+                "name": "Project Management",
+                "endorsements": "4"
+            },
+            {
+                "name": "Electronics",
+                "endorsements": "4"
+            },
+            {
+                "name": "Web Design",
+                "endorsements": "4"
+            },
+            {
+                "name": "Operations Management",
+                "endorsements": "3"
+            },
+            {
+                "name": "Accounting",
+                "endorsements": "3"
+            },
+            {
+                "name": "Management Accounting",
+                "endorsements": "2"
+            },
+            {
+                "name": "Strategic Planning",
+                "endorsements": "2"
+            },
+            {
+                "name": "C",
+                "endorsements": "7"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "5"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "6"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "9"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "C++",
+                "endorsements": "0"
+            },
+            {
+                "name": "Amazon Web Services (AWS)",
+                "endorsements": "0"
+            },
+            {
+                "name": "Selenium",
+                "endorsements": "0"
+            },
+            {
+                "name": "JUnit",
+                "endorsements": "0"
+            },
+            {
+                "name": "Public Speaking",
+                "endorsements": "3"
+            },
+            {
+                "name": "MPLAB",
+                "endorsements": "5"
+            },
+            {
+                "name": "Unity",
+                "endorsements": "2"
+            },
+            {
+                "name": "Prolog",
+                "endorsements": "0"
+            },
+            {
+                "name": "Go (Programming Language)",
+                "endorsements": "0"
+            },
+            {
+                "name": "Ontology Engineering",
+                "endorsements": "0"
+            },
+            {
+                "name": "Protege",
+                "endorsements": "0"
+            },
+            {
+                "name": "TestNG",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Java, Android, PHP, Programming, Project Management, Electronics, Web Design, Operations Management, Accounting, Management Accounting, Strategic Planning, C, JavaScript, HTML, Microsoft Office, MySQL, C++, Amazon Web Services (AWS), Selenium, JUnit, Public Speaking, MPLAB, Unity, Prolog, Go (Programming Language), Ontology Engineering, Protege, TestNG"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQF_MFDT4lZn9Q/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=KZX4j3-vA1Bbesd4A1rHYX-13vfFXEbev-X03MBhLK4",
+            "fullName": "Madusha Gunasekera",
+            "headline": "Undergraduate",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/madushag/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAABzPJ9ABGq6xfKNNrC3ZPNnzG8GHzhOwP0I",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABzPJ9ABGq6xfKNNrC3ZPNnzG8GHzhOwP0I,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABzPJ9ABGq6xfKNNrC3ZPNnzG8GHzhOwP0I%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "",
+            "firstName": "Madusha",
+            "lastName": "Gunasekera"
+        },
+        "jobs": [
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Software Engineering Trainee",
+                "dateRange": "Sep 2017 – Feb 2018",
+                "location": "colombo",
+                "description": null
+            },
+            {
+                "companyName": "Sri Lanka Institute of Tourism and Hotel Management",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Sri%20Lanka%20Institute%20of%20Tourism%20and%20Hotel%20Management",
+                "jobTitle": "Management Trainee",
+                "dateRange": "Aug 2013 – Jun 2014",
+                "location": "Colombo",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "Performance Evaluation Tool for automatically generated Data Mining Algorithms in Different Machine Learning Libraries\nJun 2018 – Present\n\nProject descriptionThe Aim of this project is to enable novice users and users who not familiar with particular programming language to implement their data mining algorithm by just entering the algorithm as a pseudo code.The performance of the algorithm is measured by running the algorithm in different machine learning libraries comes under different programming languages.\nOther creators\nDinusha Harankahawa Arshad Fauzil\nProject nameRestaurant Recommendation Engine\nJul 2018 – Aug 2018\n\nProject descriptionThis project aimed to recommend restaurants for each user based on price and cuisine type preferences. The data set used was created by the restaurant search site Zomato. Techniques of clustering, classification and collaborative item-to-item filtering were used to provide the recommendation.\n\nProject nameMultiplayer Real-time Omi Card Game\nJan 2017 – May 2017\n\nProject descriptionGiven ability to initiative player to establish hotspot from his/her smartphone and other three\nplayers to connect to it and play the Omi game. This game was developed as a platform independent\ngame where Android, IOS or widows smartphone users can play the game at the\nsame time.\nTechnologies : Unity3D, C# , Unet API\n\nOther creator\nDinusha Harankahawa\nProject nameSingle Player Omi Card Game\nDec 2016 – Mar 2017\n\nProject descriptionPlayer can play the game with the association of his partner and opponent as the game itself.\nThis application has been developed for Android, IOS and windows platforms as well.\nTechnologies : Unity3D, C#\n\nProject nameIntelligent Museum Guide Robot\nMar 2015 – Feb 2016\n\nProject descriptionA guiding robot for visitors of museum, who explains about the exhibits in visitor’s preferred\nlanguage (English, Tamil or Sinhala) while visualizing special details. Also this robot supports\nto maintenance of exhibits by keeping the information of temperature and humidity.\nTechnologies : C, Raspberry Pi, Python\n\nOther creators\nDinusha Harankahawa Arshad Fauzil\nProject nameSandeshaya 2011\n2012 – Feb 2012\n\nProject descriptionThe media day and the workshop organized by the Broadcasting Unit of Ananda College. The establishment of the first ever Youth Media Organization which named as Sri Lanka School Media Forum (SLSMF) has done on this day with the participation of 1500 students among 323 schools in Sri Lanka.\n\nOther creators\nSakhila Mapalagama Vihanga De Silva\nProject nameInter School Announcing Competition (ISAC)\n2011\n\nProject descriptionThe all island announcing competition which has got the highest number of competitors all over the country. The competition was launched for Sinhala, English and Tamil language, with the supervision of the Ministry of Mass Media & Information of Sri Lanka.\nOther creators\nSakhila Mapalagama Vihanga De Silva\nProject nameThe 1st Ever All Island Youth Media Research in Sri Lanka and Sandeshaya Awards\n2011\n\nProject descriptionFirst ever media research in Sri Lanka, organized by The Broadcasting Unit of Ananda College \nalong with the Department of Researches and Statistics of the University of Colombo, under the supervision of the Ministry of Mass Media & Information of Sri Lanka. And the report was submitted to the Hon. Minister of Mass Media & Information, Mr. Keheliya Rambukwella (2010). The most popular Broadcasting Companies, Programs, Websites, Newspapers, etc. were awarded at the very first media awarding ceremony in Sri Lanka, “Sandeshaya Awards 2010”.\n\nOther creators"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (BSc)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2015 – 2018"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Ananda%20College%2C%20Colombo%2010",
+                "schoolName": "Ananda College, Colombo 10",
+                "dateRange": "2004 – 2013"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/madushag",
+            "twitter": "madushaguna"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "17"
+            },
+            {
+                "name": "Python",
+                "endorsements": "0"
+            },
+            {
+                "name": "Natural Language Processing",
+                "endorsements": "0"
+            },
+            {
+                "name": "Algorithms",
+                "endorsements": "11"
+            },
+            {
+                "name": "Data Structures",
+                "endorsements": "10"
+            },
+            {
+                "name": "Research",
+                "endorsements": "9"
+            },
+            {
+                "name": "Project Management",
+                "endorsements": "9"
+            },
+            {
+                "name": "Game Development",
+                "endorsements": "9"
+            },
+            {
+                "name": "Numerical Analysis",
+                "endorsements": "9"
+            },
+            {
+                "name": "Agile Methodologies",
+                "endorsements": "0"
+            },
+            {
+                "name": "Data Mining",
+                "endorsements": "0"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "15"
+            },
+            {
+                "name": "C",
+                "endorsements": "16"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "13"
+            },
+            {
+                "name": "C#",
+                "endorsements": "12"
+            },
+            {
+                "name": "Android",
+                "endorsements": "12"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "12"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "12"
+            },
+            {
+                "name": "Unity3D",
+                "endorsements": "11"
+            },
+            {
+                "name": "XML",
+                "endorsements": "11"
+            },
+            {
+                "name": "SketchUp",
+                "endorsements": "10"
+            },
+            {
+                "name": "Bootstrap",
+                "endorsements": "10"
+            },
+            {
+                "name": "Unified Modeling Language (UML)",
+                "endorsements": "9"
+            },
+            {
+                "name": "Visual Studio",
+                "endorsements": "8"
+            },
+            {
+                "name": "Adobe Photoshop",
+                "endorsements": "8"
+            },
+            {
+                "name": "Matlab",
+                "endorsements": "1"
+            },
+            {
+                "name": "Public Speaking",
+                "endorsements": "13"
+            },
+            {
+                "name": "Customer Service",
+                "endorsements": "9"
+            },
+            {
+                "name": "Network Programming",
+                "endorsements": "12"
+            },
+            {
+                "name": "NLTK",
+                "endorsements": "0"
+            },
+            {
+                "name": "OWL",
+                "endorsements": "0"
+            },
+            {
+                "name": "SPARQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "Prolog",
+                "endorsements": "0"
+            },
+            {
+                "name": "OpenCV",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Java, Python, Natural Language Processing, Algorithms, Data Structures, Research, Project Management, Game Development, Numerical Analysis, Agile Methodologies, Data Mining, MySQL, C, HTML, C#, Android, PHP, Cascading Style Sheets (CSS), Unity3D, XML, SketchUp, Bootstrap, Unified Modeling Language (UML), Visual Studio, Adobe Photoshop, Matlab, Public Speaking, Customer Service, Network Programming, NLTK, OWL, SPARQL, Prolog, OpenCV"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQEAkcU-kHUP2g/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=6p0NTfMVEl95hRRKxiVuOWGCaZJo6PSqlJck1unrHT8",
+            "fullName": "Arshad Fauzil",
+            "headline": "Undergraduate - University of Moratuwa",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "85",
+            "profileUrl": "https://www.linkedin.com/in/arshad-fauzil/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAABkvjwsBg93yJUHvE3LtZfviFJtg8OMHcPg",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABkvjwsBg93yJUHvE3LtZfviFJtg8OMHcPg,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABkvjwsBg93yJUHvE3LtZfviFJtg8OMHcPg%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "An undergraduate aspiring to become a professional within the IT industry. For me, learning never stops and my desire to learn mainly resides in the areas of Big Data Analytics, Machine Learning and Artificial Intelligence. In addition, my interests include current affairs and world politics.",
+            "firstName": "Arshad",
+            "lastName": "Fauzil"
+        },
+        "jobs": [
+            {
+                "companyName": "IFS",
+                "companyUrl": "https://www.linkedin.com/company/164301/",
+                "jobTitle": "Software Development Intern",
+                "dateRange": "Sep 2017 – Mar 2018",
+                "location": "Sri Lanka",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "A Performance Evaluation for automatically generated Data Mining algorithms in different Machine Learning Libraries\nProject descriptionThis is my final year research project that is currently in progress. This project enables any user, either a novice or expert, to specify a problem related to data mining and write a simple pseudo code using natural language. The natural language specifications are then converted to a universal intermediate model written in XML. The intermediate model is then converted to the actual implementation of the machine learning codes in SKLearn (Python) and R. The results from the different library implementations are compared and an evaluation and interpretation of the results are provided to the user, similar to an expert system. This project was undertaken to allow even novice users to perform analytics and also to evaluate the different libraries/languages with regard to their performance, since most data analysts are familiar with a single library/language. \nMy part of the project is the conversion of the XML model to the actual code. Although conversion of pseudo code to source code is not a new idea, most of the research involves using rule-based approaches. This can be exhaustive as it demands the implementation of a large number of rules and extensive specification of regular expressions. My research involves using a more efficient and automated technique to perform the translations, inspired by techniques of Natural Language Machine Translation(MT) such as Statistical Machine Translation and even Neural Machine Translation. The research is ongoing however, my part of the project most probably needs a hybrid rule-based and MT approach.\nOther creators\nDinusha Harankahawa Madusha Gunasekera\nProject nameA Restaurant Recommendation Engine\nProject descriptionThis project was implemented using a data set collected by the Indian Restaurant Search platform Zomato. The project aimed to recommend to users restaurants based on his/her preference of price range and cuisine type. The restaurants closest to the users price and cuisine preference were identified and recommended to the user after performing the necessary filtering. Techniques of Clustering, classification and Item-to-Item Collaborative Filtering were used to implement this engine.\nOther creators\nMadusha Gunasekera Dinusha Harankahawa Milan Karunarathne\nProject nameGamers' Shop Game Store\nProject descriptionThis was the project that our team undertook for the second year academic project. As the name suggests the project is a web based application that allows users to upload and download games. Games are categorized based on categories defined in the store. There are mainly two users, the developers and the players. Many of the features available on the store would require the users to sign up and log in. Games can be downloaded freely or purchased via Pay Pal. Depending on the user's experience, he/she can rate and review games. Games are rated using a star rating system with a scale from 1 to 5. Reviews are basically comments about the user's experience about the game.\nOther creators\nAmjed Anver. Madusha Gunasekera Dinusha Harankahawa\nProject nameMuseum Guide Robot\nProject descriptionThis was a project that was inspired by the lack of technological infrastructure in the museums of Sri Lanka. Instead of separate multimedia systems installed for different galleries/artifacts, a robot was developed, that guides museum visitors along a designated path and provides information about key artifacts in the museum via video. The robot is programmed to stop near the artifacts, identify the location and play a video file relevant to that artifact. This project has the potential to save the huge costs that museums spend on installing multimedia systems since all of these tasks are achieved with one system and is especially ideal to be applied in Sri Lankan museums, where tourists' interest for historical information is a priority on their itineraries."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"},
+            {"language": "Tamil","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science(Hons.)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2014 – 2019"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/3154219/?legacySchoolId=3154219",
+                "schoolName": "St. Peter's College Colombo",
+                "degree": "G.C.E A/L",
+                "degreeSpec": "Mathematics",
+                "dateRange": "2001 – 2013"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/162036/?legacySchoolId=162036",
+                "schoolName": "ACCA",
+                "degree": "Currently at Skills Level"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/arshad-fauzil"
+        },
+        "skills": [
+            {
+                "name": "Python (Programming Language)",
+                "endorsements": "0"
+            },
+            {
+                "name": "Java",
+                "endorsements": "3"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "Machine Learning",
+                "endorsements": "0"
+            },
+            {
+                "name": "Data Mining",
+                "endorsements": "0"
+            },
+            {
+                "name": "C#",
+                "endorsements": "0"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "0"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "0"
+            },
+            {
+                "name": "D3.js",
+                "endorsements": "0"
+            },
+            {
+                "name": "Visual Studio",
+                "endorsements": "0"
+            },
+            {
+                "name": ".NET Framework",
+                "endorsements": "0"
+            },
+            {
+                "name": "Public Speaking",
+                "endorsements": "3"
+            },
+            {
+                "name": "Compering",
+                "endorsements": "3"
+            },
+            {
+                "name": "Debating",
+                "endorsements": "3"
+            },
+            {
+                "name": "Artificial Neural Networks",
+                "endorsements": "0"
+            },
+            {
+                "name": "Pycharm",
+                "endorsements": "0"
+            },
+            {
+                "name": "MVC",
+                "endorsements": "3"
+            },
+            {
+                "name": "SPARQL",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Python (Programming Language), Java, SQL, Machine Learning, Data Mining, C#, JavaScript, jQuery, D3.js, Visual Studio, .NET Framework, Public Speaking, Compering, Debating, Artificial Neural Networks, Pycharm, MVC, SPARQL"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQFubRLbA7QcXw/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=EXrGCW8Dqong1tuvOy5zsVh4RrzLbPLLz6LCWeZUZG0",
+            "fullName": "Ashantha Lahiru",
+            "headline": "Former Software Engineer - Intern at Virtusa",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "249",
+            "profileUrl": "https://www.linkedin.com/in/ashanthalahiru/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAB7d6K8BAoZh0647x8MANImUJkI-XZ-ZKcA",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAB7d6K8BAoZh0647x8MANImUJkI-XZ-ZKcA,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAB7d6K8BAoZh0647x8MANImUJkI-XZ-ZKcA%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Dedicated, result-oriented final year undergraduate with wide knowledge in the field of\n      Information Technology and the ability to undertake any challenge. Experiencing new\n      \n      technologies and programming has become passion in my life.",
+            "firstName": "Ashantha",
+            "lastName": "Lahiru"
+        },
+        "jobs": [
+            {
+                "companyName": "Virtusa",
+                "companyUrl": "https://www.linkedin.com/company/5140/",
+                "jobTitle": "Software Engineer - Intern",
+                "dateRange": "Sep 2017 – Feb 2018",
+                "location": "Colombo, Sri Lanka.",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "Responder\nFeb 2018 – Present\n\nProject descriptionA GitHub Integration built with Probot that sets expectation for response for new contributors. In open source projects any new contributor can create pull requests or issues. When contributors do one of the following things they always seek for the feedback from the existing contributors (maintainers). As the contributors are unaware when the maintainers will respond them, they have to check the activity of the repository time to time. When contributors are acknowledged properly, it is easy to keep their interest on particular project. The Responder is to acknowledge the contributors in a timely manner and to get the attraction of the maintainers towards the contributors in an efficient manner. This will predict the response time by calculating the average of the initial responses given by the maintainers to previous issues and pull requests. Then a bot can acknowledge the contributors when they can receive a response. Also adding a label to indicate the remaining time will grab the attention of the maintainers and help them in responding to contributors. Other than that maintainers can define categories to issues/pull requests beforehand so that contributors can use them and categorize their issues/pull requests.\n\nSee project ResponderSee project\nProject nameScorum\nOct 2017 – Present\n\nProject descriptionScorum, a platform devoted for undergraduates which assists them in making their academic life easier. It provides the ability to measure their academic performance and the facility to customize the grading system according to the curriculum of any university. Also the collaborative environment provided by Scorum can be used to share information between groups of undergraduates.\n\nSee project ScorumSee project\nProject nameConnectME\nOct 2017 – Nov 2017\n\nProject descriptionSolution for a situation where we have to pass an urgent message to a user, but the user doesn't respond to the calls. In such situation this android application has the ability to track contact numbers of the nearby people of that particular user, and we will be able to pass the message through them.\n\nThis idea was selected for the best 15 out of 55 teams in IESL Techno Hackathon 2017.\n\nOther creators\nErandi Atapattu Maisha Malki Botejue\nSee project ConnectMESee project\nProject nameFileX\nApr 2016 – Apr 2017\n\nProject descriptionWith the immense development of the technology most of the organizations in the business world tend to use technological aspects to make their operations more convenient. Software industry which steps forward with the innovative technologies always ensure that it is up to date with the latest technology that can be applicable on its operations. Development of a software project passes through various stages of the Software development life cycle. Starting from the requirement gathering stage a specific set of documents has to be created, approved and maintained throughout the process of development. Before commencing the development of a system it should be approved by a set of responsible roles in the company. Software Requirement Specification (SRS) document which states the required functionality of the system is one of the major documents that is to be approved. Most of the companies use a paper based method for the approval process which is handled manually by responsible individuals. However this manual file based system is said to be consists of several drawbacks such as time wastage, less efficiency and resource wastage. In addition the progress of the approval process cannot be monitored through a paper based mechanism. In an effort to overcome these problems ‘FileX’ document approval system introduces a web based application and an iOS mobile application to make the document approval process more efficient. The system facilitates to create projects, assign responsible roles, upload documents, approve SRS document and monitor the progress of approval. The system was evaluated using user centric methods and results indicated that it reduces the time consumed on approval process and reduces the resource wastage making the overall process more effective and convenient. With this respect FileX gives an impressive experience to the user rather than the conventional method.\n\nTechnologies: JSP, Servlets, Oracle Database, JavaScript, HTML, CSS & Bootstrap framework\n\nOther creators\nPraveen Thrilanka Gamage Erandi Atapattu Nishani Abeysinghe Reshani Mihirika\nSee project FileXSee project\nProject nameWeb App - Are You Ready 2016\nOct 2016 – Dec 2016\n\nProject descriptionThe Official Careers Fair of the University of Moratuwa, 'Are You Ready? 2016', which was held for the 21st consecutive time concluded recently. This event that claims a prominent place in the university calendar, was organized by the Career Guidance Unit in collaboration with the Rotaract Club of the University of Moratuwa and was attended by over 1100+ undergraduates and 60+ companies with 80+ interview panels.\n\nThe prime objective of 'Are You Ready?' is to bridge the gap between the soon-to-be graduates and the corporate sector. While preparing undergraduates for recruitment in the industry, it also gives an opportunity for the corporate sector to avail themselves of the talent that the University of Moratuwa has to offer.\n\nThe event was tailored to encompass all areas critical for the success of an undergraduate through its five sessions; The Resume, The Careers Forum, YOU TM, The Exemplar and The Dining Etiquette and Grooming Workshop. The highlight of the event was the Flagship Day held where an approximate 1100+ final year undergraduates were interviewed by companies for recruitment.\n\nTechnologies: JSP, Servlets, MySQL, JavaScript, Maven, HTML, CSS & Bootstrap framework."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (B.Sc.)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2015 – 2019"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=National%20Institute%20of%20Business%20Management%20(NIBM%20-%20Sri%20Lanka)",
+                "schoolName": "National Institute of Business Management (NIBM - Sri Lanka)",
+                "degreeSpec": "Computer Programming",
+                "dateRange": "2014 – 2014"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Bomiriya%20National%20School",
+                "schoolName": "Bomiriya National School",
+                "dateRange": "2004 – 2012"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/ashanthalahiru",
+            "websites": "ashanthalahiru.github.io"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "17"
+            },
+            {
+                "name": "C",
+                "endorsements": "15"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "15"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)",
+                "endorsements": "13"
+            },
+            {
+                "name": "Microcontrollers",
+                "endorsements": "13"
+            },
+            {
+                "name": "iOS Development",
+                "endorsements": "11"
+            },
+            {
+                "name": "Android Development",
+                "endorsements": "11"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "13"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "13"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "13"
+            },
+            {
+                "name": "Oracle Database",
+                "endorsements": "12"
+            },
+            {
+                "name": "Oracle SQL Developer",
+                "endorsements": "12"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "12"
+            },
+            {
+                "name": "JavaServer Pages (JSP)",
+                "endorsements": "11"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "11"
+            },
+            {
+                "name": "swift 3",
+                "endorsements": "11"
+            },
+            {
+                "name": "Maven",
+                "endorsements": "6"
+            },
+            {
+                "name": "Amazon Web Services (AWS)",
+                "endorsements": "2"
+            },
+            {
+                "name": "RESTful WebServices",
+                "endorsements": "1"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "1"
+            },
+            {
+                "name": "Node.js",
+                "endorsements": "0"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "0"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "7"
+            },
+            {
+                "name": "TypeScript",
+                "endorsements": "0"
+            },
+            {
+                "name": "YAML",
+                "endorsements": "0"
+            },
+            {
+                "name": "npm",
+                "endorsements": "0"
+            },
+            {
+                "name": "Markdown",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Java, C, HTML, Object-Oriented Programming (OOP), Microcontrollers, iOS Development, Android Development, MySQL, Cascading Style Sheets (CSS), JavaScript, Oracle Database, Oracle SQL Developer, Servlets, JavaServer Pages (JSP), PHP, swift 3, Maven, Amazon Web Services (AWS), RESTful WebServices, Microsoft Office, Node.js, AngularJS, Leadership, TypeScript, YAML, npm, Markdown"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQExxFMUPFTQbg/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=RWODnG9BeB7zK6-EvmpWoprqZ0pDoB4QBG9Bj54D-Cc",
+            "fullName": "Tharindu Jayathilake",
+            "headline": "Undergraduate at University of Moratuwa",
+            "company": "CODEX",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "412",
+            "profileUrl": "https://www.linkedin.com/in/tharindujayathilake/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAB6UVwgBbtsPiPmO1tbbtC-OueZtV1cXkG8",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAB6UVwgBbtsPiPmO1tbbtC-OueZtV1cXkG8,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAB6UVwgBbtsPiPmO1tbbtC-OueZtV1cXkG8%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I am an undergraduate at the University of Moratuwa, Faculty of Information Technology. I\n      \n      was employed as a Software Engineering Intern at WSO2.",
+            "firstName": "Tharindu",
+            "lastName": "Jayathilake"
+        },
+        "jobs": [
+            {
+                "companyName": "CODEX",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=CODEX",
+                "jobTitle": "Co-Founder",
+                "dateRange": "Dec 2016 – Present",
+                "location": "Colombo",
+                "description": null
+            },
+            {
+                "companyName": "WSO2",
+                "companyUrl": "https://www.linkedin.com/company/66028/",
+                "jobTitle": "Software Engineering Intern",
+                "dateRange": "Sep 2017 – Feb 2018",
+                "location": "Colombo",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "Projects\n\nProject nameIntelligent Reporting Platform\nAug 2018 – Present\n\nProject descriptionFinal year research project.\nRoad traffic violation is a common thing in the society which may lead to a lot of accidents.\nThis is a crowdsourcing platform to report road traffic violations and detect the validity of the violation algorithmically using images, text and video.\nTechnologies: Python, OpenCV, YOLO\n\nOther creators\nLachithra Chathura Galappaththi Kasun Chinthaka Piyarathna Dilka Sithumini\nProject nameNext Bus\nSep 2017 – Present\n\nProject descriptionEfficient transportation in modern day society has become an essenatil fact. \nThis is an application that calculates the waiting time for buses to arrive and the available seating capacity.\nTechnologies : JAVA 8, Spring-MVC, JDBC Template, JSP, MySQL, JavaScript\n\nOther creators\nDinusha Harankahawa Kasun Chinthaka Piyarathna Judith Shenali Welikala\nProject nameToxal\nApr 2018 – Jul 2018\n\nProject descriptionWater Pollution affects humans as a whole as water is a basic need for human sustenance. Just as every other hazard to human life may it governments or people individually do not stay focus to detect pollution beforehand. Only after a death or a tragic occurrence, people pay attention. Therefore it is crucial to detect pollution at early stages before human/ animal lives, businesses\nare affected. Water quality is basically measured by the WQI ( Water quality Index) which is the most important quality standard to identify.\nTechnologies : JAVA 8, JSP, Chart.js, MySQL, Servlet, JavaScript, Spring-MVC\n\nOther creators\nKasun Chinthaka Piyarathna Lachithra Chathura Galappaththi Dinusha Harankahawa Judith Shenali Welikala\nProject nameChemistryTutor\nMar 2017 – Mar 2018\n\nProject descriptionDialog Gaming Partnership with Team CODEX\n\nIn Sri Lanka at present there is less no of attractive learning aids to support the OL and AL students in learning subjects like chemistry. The subjects like chemistry has become so boring as there are lot of formulae to remember. On behalf of using traditional books, this is an attempt to create an interactive graphical learning application which can help to memorize chemical formulae. \nThis is basically an android game with user friendly interfaces which can help students to memorize chemical formulae, colors of the elements and compounds. This is a time-based game with daily challenges with mcq type questions where graphics and animations are used to give a clear understanding on context of the question. \n\nDialog Gaming has become a Partner with our team CODEX on developing edutainment based games.\nThis is basically 2 months project .The revenue will be shared according to the agreement with two parties.\n\nOther creators\nLachithra Chathura Galappaththi Dinusha Harankahawa Kasun Chinthaka Piyarathna Shakthi Weerasinghe\nProject nameCassandra Table Extension for Siddhi\nAug 2017 – Feb 2018\n\nProject descriptionThis is Siddhi table extension that is used to persist incoming events to Siddhi server in Cassandra stores.\nSee project Cassandra Table Extension for SiddhiSee project\nProject nameiWAM / iWater\nApr 2017 – May 2017\n\nProject descriptioniWAM/ i Water Management system is a device used to detect water level,humidity,temperature on a reservoir and used to notify relavent authorities to make decisions.This was a project of team Codex( Hackathon team of 5 members).\n\nTechnologies Adapted - Arduino , Sensors,PHP,Laravel,Android\n\nOther creators\nKasun Chinthaka Piyarathna Lachithra Chathura Galappaththi Dinusha Harankahawa Shakthi Weerasinghe\nProject nameGarage and Service Station Reservation System\nJul 2016 – Feb 2017\n\nProject descriptionThis was the second year industry based project. Cooperated by four members. I acted a the team leader.\nThis software slotion for a Garage and Service reservation system which resolve lot of problems in reserving garage and service stations. Main issue that is observed here is that lot of queues near garage and vehicle reservation stations that waste human valuable time. Through this system a Garage or service owner can display their services while a vehicle owner can buy or make reservation for a service. Fist a service or garage owner need to log in to the system and display their services in the system. Then a vehicle owner can add their vehicle in to the system and request for those services. As additional feature a Garage and Service station management system and online buying system is included here. There is no existing system in Sri Lanka. Therefore this project can be considered as an innovative system for Sri Lanka. This is basically a web and android project. Spring with JDBC is used as the web frameworks. Technologies such as JavaScript, JQuery, and AJAX are used to make the client side more interactive. Google Maps and Street view API are used as additional feature in this system. Through this system the problem in reserving garages and service stations are solved to great extent. \nTechnologies Used : Java 8, Spring MVC, JDBC Template, Google Maps, JavaScript, JQuery, AJAX, MySQL, Boostrap\nOther creators\nNaduni M Gamage Lachithra Chathura Galappaththi Ishara Dikkumburage Dilka Sithumini\nProject nameiCare\nDec 2016\n\nOther creators\nKasun Chinthaka Piyarathna Shakthi Weerasinghe Dinusha Harankahawa Rakshitha Muranga Rodrigo\nProject nameSmart Fan\nMay 2015 – Apr 2016\n\nProject descriptionThis was the first year hardware project. This was group project including 5 members. I acted as the group leader of this project.\nThis project was a Smart Fan which could be used to detect human being and rotate to the direction of that human being. As additional features this fan is sensitive to sound, humidity and temperature and adapt accordingly. \nPIR sensor was used to detect the location of a human being. After the detection the fan automatically rotates to the direction of that human.\nHumidity sensor and temperature sensor will sense the environmental conditions and helps the fan to adapt to different conditions.\nTechnologies used : ATMEGA32A Micro-controller, DHT11 Sensor, PIR Sensor, Stepper Motor, Atmel Studio\n\nOther creators\nNaduni M Gamage Kasun Sandaras Sanduni Geshala\nProject nameInventory Management system for a Pharamacy\nAug 2014 – Sep 2014\n\nProject descriptionThis was a distributed desktop application. In this application there is system administrator, Cashier, store keeper where each can log into the system and do relevant tasks. In this system there is a customer/ supplier management, billing system. \nTechnologies Used : Java 7, Java RMI , MySQL, Jasper\n\nProject nameInventory management system for a Babyshop\nMar 2014 – Apr 2014\n\nProject descriptionThis was an individual project that was done to a Babyshop. This was a standalone desktop application where the necessary details of the shop could be kept. Customer and supplier detail management, billing were \nthe additional features.\nTechnologies used : Java 7 , MySQL, Jasper"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Full working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bsc In Infromation Technology",
+                "dateRange": "2014 – 2019"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Institute%20of%20Java%20%26%20Software%20Engineering",
+                "schoolName": "Institute of Java & Software Engineering",
+                "degree": "Comprehensive Master Java Developer",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2013 – 2014",
+                "description": ""
+            },
+            {},
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Richmond%20College%2C%20Galle",
+                "schoolName": "Richmond College, Galle",
+                "dateRange": "1999 – 2013",
+                "description": ""
+            },
+            {}
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/tharindujayathilake"
+        },
+        "skills": [
+            {
+                "name": "Web",
+                "endorsements": "8"
+            },
+            {
+                "name": "Java",
+                "endorsements": "13"
+            },
+            {
+                "name": "C",
+                "endorsements": "9"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "0"
+            },
+            {
+                "name": "Data Analysis",
+                "endorsements": "0"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "8"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "7"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "6"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "7"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "7"
+            },
+            {
+                "name": "XML",
+                "endorsements": "7"
+            },
+            {
+                "name": "Spring MVC",
+                "endorsements": "5"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "5"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "5"
+            },
+            {
+                "name": "JSON",
+                "endorsements": "5"
+            },
+            {
+                "name": "Sql",
+                "endorsements": "6"
+            },
+            {
+                "name": "Microsoft Excel",
+                "endorsements": "6"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "6"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "0"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "4"
+            },
+            {
+                "name": "Communication",
+                "endorsements": "4"
+            },
+            {
+                "name": "Teamwork",
+                "endorsements": "0"
+            },
+            {
+                "name": "Java RMI",
+                "endorsements": "5"
+            },
+            {
+                "name": "Cassandra",
+                "endorsements": "0"
+            },
+            {
+                "name": "OpenCv",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Web, Java, C, Software Development, Data Analysis, MySQL, HTML, SQL, JavaScript, Cascading Style Sheets (CSS), XML, Spring MVC, Hibernate, jQuery, JSON, Sql, Microsoft Excel, Microsoft Office, PHP, Leadership, Communication, Teamwork, Java RMI, Cassandra, OpenCv"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQGwLoVs08MrwQ/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=UkQyuYybEJcwb_g7JaoLOx-zTk6o8LNB05WPANCvEts",
+            "fullName": "Aeshana shalindra Udadeniya",
+            "headline": "Final Year Undergraduate University of Moratuwa",
+            "company": "99X Technology",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "433",
+            "profileUrl": "https://www.linkedin.com/in/aeshana-shalindra/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAA5keCEBGHxF-WcyOWk2-jSf2emwtwdRwog",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAA5keCEBGHxF-WcyOWk2-jSf2emwtwdRwog,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAA5keCEBGHxF-WcyOWk2-jSf2emwtwdRwog%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "A self motivated ,dedicated student with the ability to multi-task and succeed in academics as well as in extra curricular activities.\n\nThe passion to take leadership as well as the temptation to successfully organize events has given me the opportunity to work with and make connections with many professionals with  remarkable personalities .\nThe motivation to see the end successfully of every project has provided me the opportunity to be a IT student, management accountant as well as a active social worker.  \nFor further exploration of my interest, come visit me on..\nhttps://github.com/AeshanaShalindra\nhttps://stackoverflow.com/users/7865437/aeshana-shalindra-udadeniya",
+            "firstName": "Aeshana",
+            "lastName": "shalindra Udadeniya"
+        },
+        "jobs": [
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Software Engineering Trainee",
+                "dateRange": "Sep 2017 – Present",
+                "location": "Sri Lanka",
+                "description": "I had the privilege of working alongside the best industry experts at the \"Greatest\n      place to work\" in Sri Lanka as trainee software engineer in which a wealth of\n      knowledge and experience was gained. Having worked on an internal project named\n      Project Dashboard and especially in a comprehensive client project : PanelClaw (USA), I\n      had the opportunity of working on a very wide scope of technologies including, C#,\n      .NET, Angular 1 and 2, AWS - Lambdas, EC2, S3, Serverless, SES, React JS, IText7 and\n      \n      Jenkins."
+            },
+            {
+                "companyName": "AIESEC in Sri Lanka",
+                "companyUrl": "https://www.linkedin.com/company/303447/",
+                "jobTitle": "Organizing Comittee President - Global Village Sri Lanka",
+                "dateRange": "Dec 2015 – Feb 2016",
+                "location": "university of Moratuwa",
+                "description": null
+            },
+            {
+                "companyName": "AIESEC in Sri Lanka",
+                "companyUrl": "https://www.linkedin.com/company/303447/",
+                "jobTitle": "Team Leader and Middle Manager",
+                "dateRange": "2015 – 2016",
+                "location": null,
+                "description": "Being a iGIP team leader at the Start Up Challenge, my main responsibilities were to manage my team members and to make sure that the iGIP goals of ensuring foreign interns in Sri Lanka get a good and comprehensive experience, knowledge and skills required to further succeed in their journey through the cooperate experience we create here in Sri Lanka. Also, to make sure that the Sri Lankan cooperates and the workforce , do get the opportunity for cross cultural understanding."
+            },
+            {
+                "companyName": "Achievers Lanka Business School",
+                "companyUrl": "https://www.linkedin.com/company/3049274/",
+                "jobTitle": "Chairman in Enterprise Awards",
+                "dateRange": "2013 – 2014",
+                "location": null,
+                "description": "Organizing a large scale event at the Waters edge Eagle hall to show case the\n      \n      entrepreneur skills of CIMA students to the CEO's of many multinational companies."
+            }
+        ],
+        "projects": [
+            {"description": "Joblagoon.com\nMar 2018 – Present\n\nProject descriptionA comprehensive job matching platform that focuses especially on jobs in the hotel industry and gives job providers the ability to easily create advertisements through editable templates and give job seekers the ability to create CVs dynamically and apply to job opportunities with ease while being able to keep track on their applications.\nOther creators\nDon Kasun Galllage Praveen Thrilanka Gamage\nSee project Joblagoon.comSee project\nProject nameAdora.lk\nMay 2017 – May 2018\n\nProject descriptionAdora.lk is an online marketplace which aims at providing customized apparels along with a\nuser-friendly graphical interface to design bespoke apparels.\nThis grants customers the privilege of printing t-shirts according to their necessity, by uploading\nthe desired pattern or the design they wish to print. Furthermore, they are allowed to customize\ntheir apparels conforming to their requirement by uploading any design they prefer. When a\ncustomer visits the website to purchase a product, his/her measurements will be taken in order to\ndecide an appropriate size from the available sizes(S, M, L). Subsequently, the customer can fit\non their clothes from the smart devices available at department stores. This process follows the\nconcept of “a virtual fit on room”.\nCustomers are granted the benefit of visualizing clothes on a VR model using a VR glass.\nAdora.lk has the feature of giving suggestions to its users. These suggestions are filtered in\naccordance with the user attributes. Basically this assists customers by recommending the most\nsuitable outfits. The recommendations are done according to,\n· Previous searches from social media, and site itself\n· Customer attributes(Complexion, Body shape).\nCustomers are encouraged to collaborate with the designers in order to make their dream design\nbreathe to life.\nThe purchased apparels will be delivered at your doorstep.\nSmart Payments\n\nOther creators\nPraveen Thrilanka Gamage Nisal Waduge Don Kasun Galllage Randilu Soysa\nSee project Adora.lkSee project\nProject nameSapphires.lk\nJun 2017 – May 2018\n\nProject descriptionSapphires.lk is a web app which aims at providing a sustainable solutions to buyers and sellers of gems/sapphires of the lucrative gem market of Sri Lanka. The traditional method which prevails currently is where the gem-miners (mine owners) presenting the rough stones to the nearest gem dealer where it’s cut and polished, and sold to another party at much higher price. Such sold gems are passed through several intermediate buyers before reaching the final buyer. The idea of this website/web app is to extract the lump sum of profit stacked in the hands of these intermediaries by connecting the final buyer and the gem miner. Basically, the web app would provide the facility to create profiles to both buyers (foreign/local) and sellers and would the sellers could add their gems to the site through their profiles. Only the cut and polished stones would be published and Sapphire.lk would provide several free cutting and polishing services too if required.\nA most distinguishing feature of this web app is that caters several pains of the users in a realistic way with the use of sophisticated technology. The website uses Augmented Reality/ Virtual Reality technologies to provide a realistic 3D image of the gemstone to a remote buyer so that he/she could check for the cracks, intrusions of the gem as if it is at his fingertips.\n\nOther creators\nShakthi Weerasinghe Praveen Thrilanka Gamage Nisal Waduge Randilu Soysa\nSee project Sapphires.lkSee project\nProject namePanelclaw - ClawOS\nAug 2017 – Feb 2018\n\nProject descriptionClawOS is a web based application along with a SaaS platform designed and developed for PanelClaw USA a solar mounting systems manufacturer and lay out designer company located in North Andover MA [https://www.panelclaw.com/]\nClawOS front end is implemented using ReactJS, OpenLayers and Google Maps API on top of NodeJS back-end running in AWS lamda. The front-end interacts with a .NET based SaaS application running on top of AWS EC2 auto scaling infrastructure which implements a scalable MATLAB logic executor and a scheduler with a high performance reports generator. This application is engineered to automate and optimize the solar panel layout and designing process of PanelClaw to bring the lead time of a project to a minimal level.\n\nSee project Panelclaw - ClawOSSee project\nProject nameImpers- Enhanced advertising using Face Detection and Image Processing\nFeb 2017 – Aug 2017\n\nProject descriptionThis project involved in creating a smart advertising system that focuses on passengers going in a lift within commercial buildings. The IoT device powered by a raspberry pi 3 model B can analyse the crowd traveling at any given time and according to the gender and age, display the most suitable advertisement. And also the device would capture the reaction of the crowds as feedback to the advertisement. In this project I developed the face recognition component using python and integrated it with the raspberry pi for a smooth and efficient execution.\nOther creators\nNisal Waduge Thuan Shafer Preena\nSee project Impers- Enhanced advertising using Face Detection and Image Processing See project\nProject nameVirtual Gem Shop - Virtual Reality Based Project\nJun 2017 – Jul 2017\n\nProject descriptionA virtual reality application developed via Unity 3D that enables an user from anywhere in the world to check out gem stones around the world with realistic 3D modeling and HD photographs of the gemstone with inclusions and smudges. This also includes the certifications of the gem stone to prove its authenticity.\nSee project Virtual Gem Shop - Virtual Reality Based ProjectSee project\nProject nameJarvis- raspberry pi 3 based IoT project\nMar 2017 – Jun 2017\n\nProject descriptionAn IoT based project using both a raspberry pi 3 model B and a Arduino uno to develop a smart home controlling system that can be connected via existing power sockets in the house and be controlled via mobile phone for anywhere in the world. This also involved using the rasbian OS and python to create custom scripts to handle the dev boards\nProject nameReal Estate Management System\nJun 2016 – Mar 2017\n\nProject descriptionReal Estate Management System is comprehensive online service that interconnects and provides a platform for all the stakeholders of Real Estate Industry to easily and effectively perform they duties and fullfill requirements. For placing and advetising avialable property of a property owning company, creating, administering e-Contracts for rents and lease to even managing specific repairs/job cards of tenants, REMS provides \"the\" most comprehensive solution managing your real estate. This User friendly, easy to manage, profile based system also comes with an mobile application for tenants. \nThe project was completed as the 2nd year Industry Project for We Are Designers International (Pvt) Ltd.\n\nOther creators\nShakthi Weerasinghe Nisal Waduge Randilu Soysa\nSee project Real Estate Management SystemSee project\nProject nameExpress-way life saver\nMar 2015 – Dec 2015\n\nProject descriptionThe project was in line with the 1st Year Hardware project which the team decided to improve the safety on Highways through implementing a device that could remotely monitor driver performance for an authority controlling the highways or even for the drivers/owners them selves for self assessment through the world wide web. This device also enables prompt communication during distress by automatically detecting the nature of accident."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Limited working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"},
+            {"language": "German","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science(Hons.) in Information Technology",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2014 – 2018",
+                "description": "- Team member to the First Year Hardware project in designing and implementing a Highway safety and response system named \"Expressway Life Saver\".- Team Leader for AIESEC Colombo South's Sales Competition, Organizing Committee president for \"Global Village Sri Lanka\" the cultural event held among 6 Universities,  a Team Leader for the Global Entrepreneurship competition \"Start Up Challenge\", Manager for Global Entrepreneurship Program - Reporter to \"FIT Chronicles\", the official magazine of Faculty of Information Technology in University of Moratuwa of which the 2015 December edition revamped the magazine as a brand."
+            },
+            {},
+            {},
+            {},
+            {
+                "schoolUrl": "https://www.linkedin.com/school/22497/?legacySchoolId=22497",
+                "schoolName": "The Chartered Institute of Management Accountants",
+                "degree": "CIMA professional qualification",
+                "degreeSpec": "Accounting and Business/Management",
+                "dateRange": "2013 – 2015",
+                "description": "A cima finalist in the process of completing the final stage of exams"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/4065017/?legacySchoolId=4065017",
+                "schoolName": "D. S. Senanayake College",
+                "degree": "Secondary Education",
+                "dateRange": "2004 – 2012"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/aeshana-shalindra",
+            "websites": "github.com/AeshanaShalindra"
+        },
+        "skills": [
+            {
+                "name": ".NET Framework",
+                "endorsements": "0"
+            },
+            {
+                "name": "Amazon Web Services (AWS)",
+                "endorsements": "0"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "0"
+            },
+            {
+                "name": "Project Planning",
+                "endorsements": "6"
+            },
+            {
+                "name": "Project Management",
+                "endorsements": "5"
+            },
+            {
+                "name": "Sales",
+                "endorsements": "5"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "5"
+            },
+            {
+                "name": "Budgets",
+                "endorsements": "5"
+            },
+            {
+                "name": "Research",
+                "endorsements": "4"
+            },
+            {
+                "name": "Treasury Management",
+                "endorsements": "4"
+            },
+            {
+                "name": "Strategic Planning",
+                "endorsements": "4"
+            },
+            {
+                "name": "Financial Analysis",
+                "endorsements": "4"
+            },
+            {
+                "name": "Accounting",
+                "endorsements": "3"
+            },
+            {
+                "name": "C",
+                "endorsements": "7"
+            },
+            {
+                "name": "Java",
+                "endorsements": "6"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "4"
+            },
+            {
+                "name": "Laravel",
+                "endorsements": "0"
+            },
+            {
+                "name": "JavaSE",
+                "endorsements": "0"
+            },
+            {
+                "name": "C#",
+                "endorsements": "0"
+            },
+            {
+                "name": "Public Speaking",
+                "endorsements": "8"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "9"
+            },
+            {
+                "name": "Management",
+                "endorsements": "9"
+            },
+            {
+                "name": "Team Leadership",
+                "endorsements": "6"
+            },
+            {
+                "name": "Team Management",
+                "endorsements": "6"
+            },
+            {
+                "name": "Customer Service",
+                "endorsements": "5"
+            },
+            {
+                "name": "Teamwork",
+                "endorsements": "5"
+            },
+            {
+                "name": "Community Organizing",
+                "endorsements": "3"
+            },
+            {
+                "name": "English",
+                "endorsements": "4"
+            },
+            {
+                "name": "MySQLi",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": ".NET Framework, Amazon Web Services (AWS), PHP, Project Planning, Project Management, Sales, Programming, Budgets, Research, Treasury Management, Strategic Planning, Financial Analysis, Accounting, C, Java, HTML, Laravel, JavaSE, C#, Public Speaking, Leadership, Management, Team Leadership, Team Management, Customer Service, Teamwork, Community Organizing, English, MySQLi"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQHvFsSbqUCXMg/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=lxoH-_to18PqlBwY-_3jVF8Hx6p00XOofW33NMaQsOE",
+            "fullName": "Shakthi Weerasinghe",
+            "headline": "Final Year Undergraduate University of Moratuwa",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/shakthiweerasinghe94/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAABrq2SEBK5HfiSUwDZDsN89Tz02Gz9VMnxY",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABrq2SEBK5HfiSUwDZDsN89Tz02Gz9VMnxY,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABrq2SEBK5HfiSUwDZDsN89Tz02Gz9VMnxY%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I'm a Self Motivated, Hard working and Dedicated student who always trying to achieve the perfection and never settle at a lower level. Keeping the statement of John F. Kennedy's at the peak of the race to space : \n\"We chose to go to the moon in this decade and do the other things, NOT because it's easy, just because it's hard\" \nas the motivation for life,I believe myself to be capable of achieving great things through hard and smart work using leadership, knowledge and personal skills. \nHence, I'm a multi tasking individual contributing to youth activities, volunteering and sports while perfecting in the field of academics.The passion to take leadership, the strive to win, seeking new knowledge, never giving up and full commitment have been my key strengths and which I believe would have taken myself this far.\nPassionate about Space, Aerospace Technologies and Aeronautics, while being curious on Artificial intelligence and IT, as ambitious to find myself to be a pioneer where these fields would intersect in the future.",
+            "firstName": "Shakthi",
+            "lastName": "Weerasinghe"
+        },
+        "jobs": [
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Editor In Chief for FIT Chronicle",
+                "dateRange": "Jun 2017 – Aug 2018",
+                "location": "University of Moratuwa",
+                "description": "Having got promoted to Editor-In-Chief of the official publication of the faculty, imparted great responsibility and a challenge. Being one of the trio behind the 'change' of the magazine from 2015, the responsibility in simple words was to carry forward the good work and improve the magazine continously in what ever the way possible. Having tabled a vision for the magazine at it's revamp - 'Continuously improve in quality and content', 2017 edition of the magazine reached that vision far beyond the expectation, having gathered many volunteers with quality content and doubling the content from last year. This was quite a mile stone for the magazine as many features, which were not able to include in the previous were included and provided excessive space to portrait the immense talent of the students in the faculty in all aspects. \nAlthough, it was great pleasure working with the biggest crew yet for the magazine and it would have not been possible without this team effort."
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Managing Editor for FIT Chronicle",
+                "dateRange": "Nov 2015 – May 2017",
+                "location": "University of Moratwa",
+                "description": "The main responsibilities were to manage the articles and in fact to make sure that the\n      magazine would give the best reader's experience. Hence, the December 2015 issue of\n      FIT Chronicles was a whole new version after revamping it in design, content and\n      \n      brand. Since then, the magazine would have a further issue for 2016."
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Assistant Editor",
+                "dateRange": "Feb 2016 – Jul 2016",
+                "location": "INTECS",
+                "description": null
+            },
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Software Engineering Trainee",
+                "dateRange": "Sep 2017 – Mar 2018",
+                "location": "Colomobo",
+                "description": "I had the privilege of working alongside the best industry experts at the \"Greatest place to work\" in Sri Lanka as trainee software engineer in which a wealth of knowledge and experience was gained. Having worked on a research project and especially in a comprehensive client project : Boligmappa, I had the opportunity of working on a very wide scope of technologies including, Apache Spark, Scala, C#, .NET, Angular 1 and 2, AWS - Dynamo DB, Lambdas, EC2, S3, Serverless, Typescript, WordPress PHP, Node JS, Jenkins, NUnit, Web Services, REST APIs using Steroids Framework, MSSQL and several key integrations such as MailUp and 24Seven Office.  \nApart from the core functionalities, I was able to work in several initiatives including Dotitude - which included organizing several quizzes, 'Dotitude Live' webinars ,Uni Relations - conducting a session on 'CV writing and Online presence' at University of Moratuwa and Badminton, while providing considerable amount of support with Graphic Design for almost all the other initiatives.  \nI also had the opportunity in taking part in the 6 day workshop with CEO of Boligmappa in which several key concerns in Boligmappa were discussed."
+            },
+            {
+                "companyName": "AIESEC Colombo South",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "Manger (Global Entrepreneurship)",
+                "dateRange": "May 2016 – Apr 2017",
+                "location": "Sri Lanka",
+                "description": "Global Entrepreneurship Program of AIESEC is a new initiative by the organization where it aims at encouraging and shaping the youth to step out of their comfort zone by taking up Entrepreneurship that will potentially help a local economy or even the world. Therefore, the voluntary internship program to work at a locally reputed Start Up Company, the GE program was initiated for the first time in Sri Lanka at AIESEC Colombo South and I am currently managing the operations of this new venture."
+            },
+            {
+                "companyName": "AIESEC Colombo South",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "Organizing Comitee Vice President (Events) - Lead CS 3.0",
+                "dateRange": "Aug 2016 – Jan 2017",
+                "location": "Sanctuary House, JaEla",
+                "description": "Lead CS is the most extravagant and the most looked forward to event of AIESEC\n      Colombo South as it being the only conference organized by an AIESEC Entity in Sri\n      Lanka. Therefore, I am more than happy and excited to work in the organizing\n      \n      committee and to be the responsible person for each event a participant g\n\n... See more"
+            },
+            {
+                "companyName": "AIESEC Colombo South",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "Team Leader and Accounts Manager",
+                "dateRange": "May 2015 – May 2016",
+                "location": null,
+                "description": "Being a iGIP team leader at the Start Up Challenge, my main responsibilities were to\n      manage my team members and to make sure that  the iGIP goals of ensuring foreign\n      interns in Sri Lanka get a good and comprehensive experience, knowledge and skills\n      \n      required to further succeed in their journey through the cooperate experie\n\n... See more"
+            },
+            {
+                "companyName": "AIESEC Colombo South",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "Organizing Committee President - Dragon de Danza 2016",
+                "dateRange": "Oct 2015 – Jan 2016",
+                "location": "University of Moratuwa",
+                "description": "Dragon de Danza is the annual Chinese New Year celebration of AIESEC Colombo\n      South. We celebrate the eve of the Chinese new year with around 100 foreign interns\n      and 200 other local university students. The celebration was full of colour, Chinese\n      \n      dances, music, talent shows and many other cultural items."
+            }
+        ],
+        "projects": [
+            {"description": "Classification and Scoring Hate Speech in Sinhala-English bilingual Social Media Content\nAug 2018 – Present\n\nProject descriptionAn independent research conducted on the area of discovering and scoring hate speech composed using Sinhala and English language with relevance to Sri Lankan context. The research considers a pragmatic approach to the task based on several linguistic characteristics in the content.\nProject nameFinal Year Undergraduate Research\nMay 2018 – Present\n\nProject descriptionNovel approach to infer macro economic situation by analyzing sociological influence through social media consensus\n\nProject nameAdora.lk\nJul 2017 – Present\n\nSee project Adora.lkSee project\nProject nameSapphires.lk\nJun 2017 – Oct 2017\n\nProject descriptionSapphires.lk is a web app which aims at providing a sustainable solutions to buyers and sellers of gems/sapphires of the lucrative gem market of Sri Lanka. The traditional method which prevails currently is where the gem-miners (mine owners) presenting the rough stones to the nearest gem dealer where it’s cut and polished, and sold to another party at much higher price. Such sold gems are passed through several intermediate buyers before reaching the final buyer. The idea of this website/web app is to extract the lump sum of profit stacked in the hands of these intermediaries by connecting the final buyer and the gem miner. Basically, the web app would provide the facility to create profiles to both buyers (foreign/local) and sellers and would the sellers could add their gems to the site through their profiles. Only the cut and polished stones would be published and Sapphire.lk would provide several free cutting and polishing services too if required.\nA most distinguishing feature of this web app is that caters several pains of the users in a realistic way with the use of sophisticated technology. The website uses Augmented Reality/ Virtual Reality technologies to provide a realistic 3D image of the gemstone to a remote buyer so that he/she could check for the cracks, intrusions of the gem as if it is at his fingertips.\n\nOther creators\nNisal Waduge Aeshana shalindra Udadeniya Randilu Soysa Praveen Thrilanka Gamage\nSee project Sapphires.lkSee project\nProject nameTravel Recommendation System\nSep 2017 – Oct 2017\n\nProject nameMy Chemistry Tutor\nFeb 2017 – May 2017\n\nProject descriptionMy Chemistry tutor is an all platform mobile application that supports learning Chemistry for Ordinay and Advanced level students, being developed for Dialog Ideamart. The initial idea was presented and demonstrated at the inaugural Gaming Hackathon 2017 organized by Dialog Ideamart in which team CodeX competed. The single and multiplayer dual capable application allows multiple circumstances which makes Chemistry fun while being able to integrate easily into class rooms, study sessions and even TV/Online learning programs.\nOther creators\nKasun Chinthaka Piyarathna Tharindu Jayathilake Lachithra Chathura Galappaththi Dinusha Harankahawa\nProject nameiWater Management\nMar 2017 – Apr 2017\n\nProject descriptioniWaM is an online water preservation mechanism that integrates a network of devices and society in collaboratively contribute to save the scares water resources. The system is open to any person under 2 profile types: Researchers and Irrigation Engineers (Volunteers), in which will serve their different purposes. The system is very comprehensive, that contains a fully automatic data collection and analysis mechanism that provides all necessary recommendations, forecasting, warning, early warning to residents etc. \nThe source attached herewith only includes the basic Beta Version 1.0 of the Web Service.\nOther creators\nKasun Chinthaka Piyarathna Tharindu Jayathilake Lachithra Chathura Galappaththi Dinusha Harankahawa\nSee project iWater Management See project\nProject nameReal Estate Management System\nJun 2016 – Mar 2017\n\nProject descriptionReal Estate Management System is comprehensive online service that interconnects and provides a platform for all the stakeholders of Real Estate Industry to easily and effectively perform they duties and fullfill requirements. For placing and advetising avialable property of a property owning company, creating, administering e-Contracts for rents and lease to even managing specific repairs/job cards of tenants, REMS provides \"the\" most comprehensive solution managing your real estate. This User friendly, easy to manage, profile based system also comes with an mobile application for tenants. \nThe project was completed as the 2nd year Industry Project for We Are Designers International (Pvt) Ltd.\nOther creators\nAeshana shalindra Udadeniya   \nSee project Real Estate Management SystemSee project\nProject nameiCare\nDec 2016\n\nProject descriptioniCare - a wearable health monitoring, detection and remote response system. The system with the wearable unit is more over a smart watch which detects different health conditions by evaluating 3 parameters using sensors. The concept was to create a potentially large network of these device against a distributed server system of independent servers corresponding to each hospital or health care service provider so that any patient, especially the elderly are monitored and taken care of 24x7 with the facility of recording any adnormalitiesa and history of illnesses as monitored by the watch. The device is supported by an android application as well.\nThe product was later modified to a particular version which was specifically targeted at Diabetic patients. The wearable was able to calculate the glucose level in blood and maintain a database that would allow the machine learning backed to classify (using SVC) and predict future conditions (using kNN and SVR) of diabetic condition in order to provide life long health support in maintaining good health condition not affected by diabetics. \nTherefore iCare is a complete package based on the concept of \"Internet of Things\" (IoT).\nOther creators\nKasun Chinthaka Piyarathna Rakshitha Muranga Rodrigo Dinusha Harankahawa Tharindu Jayathilake\nProject nameEnchante (Networking Game)\nNov 2016\n\nProject descriptionEnchante is a simple android game designed and deployed for \"Enchante 2016\": the Freshers Night of Faculty of Information Technology, with the aim of enhancing 'networking' among the participants. The game was based on the concept of the traditional game \"Finding the Secret Guest\", redesigned with the use of technology. In this application, I was in the capacity of UI/UX engineer. The application found huge popularity and enthusiasm among the students.\nOther creators\nKasun Chinthaka Piyarathna Dinusha Harankahawa\nProject nameGuardians of Siege\nFeb 2016 – May 2016\n\nProject descriptionGurdians of Siege is a multiplayer, strategic game for the Android Platform, developed in connection to Fugosticka 3.0, Android Game development Competition. We are among the 15 selected teams to compete in the competition and intend to launch it free to the App Stores.\n\nOther creators\n   \nSee project Guardians of SiegeSee project\nProject nameExpressway Life Saver\nJan 2015 – Feb 2016\n\nProject descriptionThe project was in line with the 1st Year Hardware project which the team decided to improve the safety on Highways through implementing a device that could remotely monitor driver performance for an authority controlling the highways or even for the drivers/owners them selves for self assessment through the world wide web. This device also enables prompt communication during distress by automatically detecting the nature of accident.\nOther creators\n  Aeshana shalindra Udadeniya Sanduni Gamage\nSee project Expressway Life SaverSee project\nProject nameStart-Up Challenge\nNov 2015\n\nProject descriptionStartup Challenge is a sales competition based on reaching Startup Companies in Sri Lanka. In fat, iGE was a newly introduced function for AIESEC at the 2016 AIESEC International conference at Warsaw, Poland and the concept was new for operations. Therefore, we initiated and conducted the first ever Market research on Start up companies for AIESEC in Sri Lanka at the time and the only Local committee to have initiated and operating the new function ever since. Therefore, we were able to exploit the oppertunity and become the first LC to have done the first Sale and Realization (for YAMU Pvt Ltd) which was carried out by my team.\nOther creators\nDilinie Seimon   \nSee project Start-Up ChallengeSee project\nProject nameCorp Hunt 4.0\nJun 2015 – Sep 2015\n\nProject descriptionCorp Hunt 4.0 is the ultimate iGT sales competition in AIESEC in University of Moratuwa and only one of it's kind and calibure. Being a team member in this competition was challenging but was the ultimate environment for learning the business environment, improving soft and marketing skills by directly facing with the Top Ranked enterprises and industry personnel in Sri Lanka. \nThe team ultimately was awarded for the Most outstanding Team in the competition.\nOther creators\nAshean Thuduwage  Rashindrie Perera\nSee project Corp Hunt 4.0See project\nProject nameGraphic Designing Projects\nProject descriptionI have been a graphic designer for several publications including academic and non academic publications, latest being for 'Gunumkarana Pramitha Sarawala' Part 1 and Part 2, accounting standards book for Advance Level students authored by Isuru Manawadu."
+            }
+        ],
+        "languages": [
+
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (Hons.) in Information Technology",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2014 – 2019",
+                "description": "Reading for BSc(Hons) in information Technology at the Faculty of Information Technology with an excellent academic and non academic record. It has always been a dream to study at this University and it in fact has helped me to find the real personality and to improve it through the years."
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Acheivers%20Lanka%20Business%20School",
+                "schoolName": "Acheivers Lanka Business School",
+                "degree": "Advance Diploma in Management Accountancy",
+                "degreeSpec": "Accounting and Business/Management",
+                "dateRange": "2013 – 2015",
+                "description": "I'm a CIMA finalist in the process of completing the Strategic Level (Final) examination."
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Ananda%20College",
+                "schoolName": "Ananda College",
+                "degreeSpec": "Combined Mathematics",
+                "dateRange": "2001 – 2013"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/shakthiweerasinghe94",
+            "websites": "techscopehq.blogspot.com"
+        },
+        "skills": [
+            {
+                "name": "Information Technology",
+                "endorsements": "3"
+            },
+            {
+                "name": "Management Accounting",
+                "endorsements": "3"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "6"
+            },
+            {
+                "name": "Project Management",
+                "endorsements": "5"
+            },
+            {
+                "name": "Web Design",
+                "endorsements": "4"
+            },
+            {
+                "name": "Graphic Design",
+                "endorsements": "2"
+            },
+            {
+                "name": "Computer Science",
+                "endorsements": "2"
+            },
+            {
+                "name": "Video Editing",
+                "endorsements": "4"
+            },
+            {
+                "name": "Accounting",
+                "endorsements": "3"
+            },
+            {
+                "name": "GPS",
+                "endorsements": "2"
+            },
+            {
+                "name": "Painting",
+                "endorsements": "2"
+            },
+            {
+                "name": "Photography",
+                "endorsements": "1"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "7"
+            },
+            {
+                "name": "Statistics",
+                "endorsements": "0"
+            },
+            {
+                "name": "Machine Learning",
+                "endorsements": "0"
+            },
+            {
+                "name": "Microsoft Excel",
+                "endorsements": "3"
+            },
+            {
+                "name": "C",
+                "endorsements": "8"
+            },
+            {
+                "name": "Visual Basic",
+                "endorsements": "3"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "4"
+            },
+            {
+                "name": "XHTML",
+                "endorsements": "2"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "3"
+            },
+            {
+                "name": "Java",
+                "endorsements": "9"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "5"
+            },
+            {
+                "name": "Lightroom",
+                "endorsements": "1"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "5"
+            },
+            {
+                "name": "Arduino",
+                "endorsements": "3"
+            },
+            {
+                "name": "SketchUp",
+                "endorsements": "3"
+            },
+            {
+                "name": "Laravel",
+                "endorsements": "4"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "4"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "6"
+            },
+            {
+                "name": "Databases",
+                "endorsements": "2"
+            },
+            {
+                "name": "MongoDB",
+                "endorsements": "2"
+            },
+            {
+                "name": "Node.js",
+                "endorsements": "1"
+            },
+            {
+                "name": "Scala",
+                "endorsements": "0"
+            },
+            {
+                "name": "Python (Programming Language)",
+                "endorsements": "0"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "5"
+            },
+            {
+                "name": "Management",
+                "endorsements": "5"
+            },
+            {
+                "name": "Team Management",
+                "endorsements": "3"
+            },
+            {
+                "name": "Presentation Skills",
+                "endorsements": "3"
+            },
+            {
+                "name": "MPLAB",
+                "endorsements": "2"
+            },
+            {
+                "name": "MikroC",
+                "endorsements": "2"
+            },
+            {
+                "name": "PHP Frameworks",
+                "endorsements": "4"
+            },
+            {
+                "name": "Scouting",
+                "endorsements": "1"
+            },
+            {
+                "name": "Prolog",
+                "endorsements": "0"
+            },
+            {
+                "name": "Apache Spark",
+                "endorsements": "0"
+            },
+            {
+                "name": "Amazon Dynamodb",
+                "endorsements": "0"
+            },
+            {
+                "name": "TypeScript",
+                "endorsements": "0"
+            },
+            {
+                "name": "Natural Language Processing (NLP)",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "Information Technology, Management Accounting, Microsoft Office, Project Management, Web Design, Graphic Design, Computer Science, Video Editing, Accounting, GPS, Painting, Photography, Web Development, Statistics, Machine Learning, Microsoft Excel, C, Visual Basic, MySQL, XHTML, CSS, Java, JavaScript, Lightroom, Cascading Style Sheets (CSS), Arduino, SketchUp, Laravel, AngularJS, HTML, Databases, MongoDB, Node.js, Scala, Python (Programming Language), Leadership, Management, Team Management, Presentation Skills, MPLAB, MikroC, PHP Frameworks, Scouting, Prolog, Apache Spark, Amazon Dynamodb, TypeScript, Natural Language Processing (NLP)"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQGGJonu59zAyQ/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=rDbOJT05-CYpVjVQJyqJdojlbAb7yBE2rlc7maSqf_I",
+            "fullName": "Kavinda Senarathne",
+            "headline": "Software Engineer Intern at 99X Technology",
+            "company": "99X Technology",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/kavindasenarathne1994/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAACBdsJ4BFpSH6Bm5QSLKT1VRFByne69agyk",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAACBdsJ4BFpSH6Bm5QSLKT1VRFByne69agyk,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAACBdsJ4BFpSH6Bm5QSLKT1VRFByne69agyk%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I'm a passionate IT undergraduate with proven leadership skills with a friendly personality",
+            "firstName": "Kavinda",
+            "lastName": "Senarathne"
+        },
+        "jobs": [
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Software Engineer Intern",
+                "dateRange": "Sep 2018 – Present",
+                "location": "Colombo 3",
+                "description": null
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Undergraduate",
+                "dateRange": "Jan 2016 – Present",
+                "location": "Sri Lanka",
+                "description": "I am a 3rd year IT undergraduate at Faculty of Information Technology - University of\n      \n      Moratuwa"
+            },
+            {
+                "companyName": "Technix",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Technix",
+                "jobTitle": "Tech Blogger",
+                "dateRange": "Jan 2018 – Present",
+                "location": "Colombo",
+                "description": null
+            },
+            {
+                "companyName": "FIT Chronicles",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=FIT%20Chronicles%20",
+                "jobTitle": "Managing Editor",
+                "dateRange": "Oct 2018 – Present",
+                "location": "Moratuwa",
+                "description": "It is a publication about the activities, knowledge, experiences , successful stories and\n      \n      events of Faculty of Information Technology."
+            },
+            {
+                "companyName": "Rotaract Club of University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/1840204/",
+                "jobTitle": "Hand in Hand - Committee member",
+                "dateRange": "Feb 2016 – Present",
+                "location": "Sri Lanka",
+                "description": "Hand In Hand, a community service project by Rotaract Club of University of Moratuwa wants you to join hands with us to remind the children under treatment at Maharagama Apeksha Hospital that they're not alone. We will print and sell greeting cards with drawings of these kids and the proceedings will be donated to develop the facilities of the hospital."
+            },
+            {
+                "companyName": "Rotaract Club of University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/1840204/",
+                "jobTitle": "Are you Ready? – The Flagship Day  - Company coordinator",
+                "dateRange": "Dec 2017 – Dec 2017",
+                "location": "Moratuwa",
+                "description": "'The Flagship Day’, the ideal platform for the skillful final year undergraduates to gain\n      their own experience of facing a real interview and valuable corporate exposure and\n      for the prospective employers to find the perfect employee who suits for the job that\n      \n      they are to offer."
+            },
+            {
+                "companyName": "Rotaract Club of University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/1840204/",
+                "jobTitle": "Are you Ready?  The Résumé  - Floor Manager",
+                "dateRange": "Oct 2017 – Nov 2017",
+                "location": null,
+                "description": "Résumé is the first approach of a university undergraduate to the corporate world. Are\n      You Ready? 2017 presents \"The Résumé\" to provide the participants with an insight\n      into the preparation of a proper Curriculum Vitae, which is the most important\n      \n      document for a job seeker.\n\n... See more"
+            },
+            {
+                "companyName": "Rotaract Club of University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/1840204/",
+                "jobTitle": "Colours - Committee member",
+                "dateRange": "Feb 2016 – Jul 2017",
+                "location": "Moratuwa",
+                "description": "The little fighters showcased their creative and artistic skills through drawings on the\n      theme ‘Vesak’ and ‘Christmas’, with the help of many kind-hearted Rotaractors. The\n      smiles of the little ones reflected their hope and strength to win the battle they are\n      \n      fighting.\n\n... See more"
+            },
+            {
+                "companyName": "FIT Chronicles",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=FIT%20Chronicles%20",
+                "jobTitle": "Editor",
+                "dateRange": "Aug 2017 – Aug 2018",
+                "location": "Moratuwa",
+                "description": "It is a publication about the activities, knowledge, experiences , successful stories and\n      \n      events of Faculty of Information Technology."
+            },
+            {
+                "companyName": "AIESEC",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "LEAD CS 4.0 - Oraganizing Commitee Vice President (Delegates)",
+                "dateRange": "Sep 2017 – Feb 2018",
+                "location": "Sri Lanka",
+                "description": "Lead CS is the annual leadership development conference of AIESEC in University of Moratuwa. What is remarkable about Lead CS is that it is the only conference organized at the national level by an AIESEC Local Committee. First organized in 2014, Lead CS 1.0 – 3.0 was held at the Sanctuary House Negombo. The conference spans throughout 3 days and the delegates are provided with food and accommodation on all 3 days. Conference consists of various sessions, activities and events; few of which are Outbound Training, LEAD sessions, Gala Night, Award Ceremony and Parties. Redefining the standards set by stereotypical leadership development seminars and workshops, Lead CS has been able to provide life changing experiences to the delegates. The conference is often referred to as the turning point of AIESEC career of present and past AIESECers at University of Moratuwa."
+            },
+            {
+                "companyName": "AIESEC",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "AIESEC CS Sales Team - Manager",
+                "dateRange": "Jan 2017 – Jan 2018",
+                "location": null,
+                "description": "Sales team mainly builds with Global Talent Program and Global Entrepreneurs\n      Program which provides an opportunity foreign interns to work in Sri Lankan companies\n      \n      and start ups"
+            },
+            {
+                "companyName": "AIESEC",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "CorpHunt - Team Leader | Team member",
+                "dateRange": "Mar 2017 – Oct 2017",
+                "location": null,
+                "description": "“CorpHunt” is mainly based on building sales leads with the corporate sector of Sri\n      \n      Lanka. And it’s a competition with five teams based on the sales leads they make."
+            },
+            {
+                "companyName": "AIESEC",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "Mass Recruitement - Committee Member",
+                "dateRange": "Sep 2016 – Dec 2016",
+                "location": null,
+                "description": "Mass recruitment of Engineering faculty in University of Moratuwa. The objective of this\n      recruitment is to get together bunch of students who have the potential of being the\n      leaders of the next generation. So they can  use this opportunity to get to know about\n      \n      AIESEC and what you can get out of AIESEC as an AIESECer as soon as you \n\n... See more"
+            },
+            {
+                "companyName": "AIESEC",
+                "companyUrl": "https://www.linkedin.com/company/2034/",
+                "jobTitle": "Startup Challenge - Commitee member",
+                "dateRange": "Jul 2016 – Sep 2016",
+                "location": null,
+                "description": "This mainly focuses on providing opportunities for the foreign AIESECers to join with\n      the Sri Lankan Startups and do their internships in Sri Lanka. It assists to get a different\n      \n      kind of experience form them to build their startups in a different manner"
+            }
+        ],
+        "projects": [
+            {"description": "Projects\n\nProject nameCorpHunt 5.0\nProject descriptionCORP HUNT is an intense sales competition for Colombo South AIESECers.\n\nProject nameLevel 1 Hardware Project - Easy Book Cover Machine\nProject descriptionThis is an automated device for laying covers and applying glue for books within a given period of time. This is also a micro-controller based project"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Full working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+            {"description": "2"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "B.Sc. (Hons)  Information Technology",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2016 – 2019"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=National%20Institute%20of%20Business%20Management%20(NIBM)",
+                "schoolName": "National Institute of Business Management (NIBM)",
+                "degree": "Certificate Course in Computer Science",
+                "dateRange": "2013 – 2014"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=St.Peter%27s%20College%20-%20Colombo%204",
+                "schoolName": "St.Peter's College - Colombo 4",
+                "degreeSpec": "Advanced Level 2013 - Physical Science Stream",
+                "dateRange": "2005 – 2013"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/22497/?legacySchoolId=22497",
+                "schoolName": "The Chartered Institute of Management Accountants",
+                "degree": "CIMA Diploma in Management Accounting"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/kavindasenarathne1994",
+            "websites": "technix360.blogspot.com/",
+            "twitter": "kavindasenarat1",
+            "mail": "kavindasenarathne94@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "7"
+            },
+            {
+                "name": "C",
+                "endorsements": "4"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "3"
+            },
+            {
+                "name": "Project Management",
+                "endorsements": "1"
+            },
+            {
+                "name": "Strategic Planning",
+                "endorsements": "1"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "1"
+            },
+            {
+                "name": "Social Media",
+                "endorsements": "1"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "3"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "3"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "3"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "3"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "3"
+            },
+            {
+                "name": "Blogger",
+                "endorsements": "3"
+            },
+            {
+                "name": "Microsoft Word",
+                "endorsements": "2"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "2"
+            },
+            {
+                "name": "Node.js",
+                "endorsements": "2"
+            },
+            {
+                "name": "MongoDB",
+                "endorsements": "2"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "2"
+            },
+            {
+                "name": "Windows",
+                "endorsements": "2"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "2"
+            },
+            {
+                "name": "Microsoft Excel",
+                "endorsements": "1"
+            },
+            {
+                "name": "Microsoft PowerPoint",
+                "endorsements": "1"
+            },
+            {
+                "name": "Adobe Photoshop",
+                "endorsements": "1"
+            },
+            {
+                "name": "SketchUp",
+                "endorsements": "1"
+            },
+            {
+                "name": "Unity3D",
+                "endorsements": "1"
+            },
+            {
+                "name": "Team Management",
+                "endorsements": "3"
+            },
+            {
+                "name": "Team Building",
+                "endorsements": "2"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "2"
+            },
+            {
+                "name": "Management",
+                "endorsements": "2"
+            },
+            {
+                "name": "Teamwork",
+                "endorsements": "2"
+            },
+            {
+                "name": "Team Leadership",
+                "endorsements": "2"
+            },
+            {
+                "name": "Mean Stack",
+                "endorsements": "1"
+            },
+            {
+                "name": "Unity",
+                "endorsements": "1"
+            },
+            {
+                "name": "Augmented Reality",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "Java, C, Microsoft Office, Project Management, Strategic Planning, Programming, Social Media, HTML, CSS, JavaScript, MySQL, PHP, Blogger, Microsoft Word, AngularJS, Node.js, MongoDB, SQL, Windows, Linux, Microsoft Excel, Microsoft PowerPoint, Adobe Photoshop, SketchUp, Unity3D, Team Management, Team Building, Leadership, Management, Teamwork, Team Leadership, Mean Stack, Unity, Augmented Reality"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQEtzNrhZIuMNA/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=imbbdJn9u8_yBLgsvJbtLq82E6IXkzyu3fUNOz_Qwzc",
+            "fullName": "Thiruni Jayasiriwardena",
+            "headline": "Trainee Software Engineer  at 99X Technology",
+            "company": "99X Technology",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "286",
+            "profileUrl": "https://www.linkedin.com/in/thiruni-jayasiriwardena/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAACKT8pcBDQX-1_Z9W0jKqtNaGht_G571PWE",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAACKT8pcBDQX-1_Z9W0jKqtNaGht_G571PWE,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAACKT8pcBDQX-1_Z9W0jKqtNaGht_G571PWE%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "A responsible, self-motivated, skillful, well organized, dedicated undergraduate with team\n      spirit and leadership qualities who is willing to accept challenges and wish to explore new\n      \n      technologies in the field of Information Technology",
+            "firstName": "Thiruni",
+            "lastName": "Jayasiriwardena"
+        },
+        "jobs": [
+            {
+                "companyName": "99X Technology",
+                "companyUrl": "https://www.linkedin.com/company/54811/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Sep 2018 – Present",
+                "location": null,
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "Online Examination Management System\nJan 2018 – Present\n\nProject descriptionOEMS is an web based platform which is created to interconnect Administration staff, Lectures and students in to one plate form which facilitates students to face online examinations and to view their results, and allows lecturers to view students' individual results and average results, can add, delete or modify questions for the exams. Administration staff has the full authority to add a lecturer or a student in the institute to the system.\nProject nameConstrucrtionLK (Second year group project)\nJun 2017 – Feb 2018\n\nProject descriptionConstructionLk is a web based system for centralization of construction services, by using ASP.NET MVC framework with a content management system along with mobile applications to connect customers, all scale construction firms and freelancing contractors in the construction field in one platform which consist of all their details under the supervision of the government.\n\nOther creators\nNishan Chathuranga Malith Wijesekara Pasindu Munasinghe Yashodha Ranawaka\nSee project ConstrucrtionLK (Second year group project)See project\nProject nameMulti-Functional Wireless Measuring Unit (First year group project)\nFeb 2016 – Feb 2017\n\nProject descriptionA wireless device using embedded system (ATmega32a microprocessor)\nwhich is capable of collecting, storing physical measurements which outputs\nreal time data graphically on mobile application and desktop application.\n\nOther creators\nGayan Deegala Lasith Wickramasinghe Madara Premawardhana\nProject nameLibrary Management System (Individual Project)\nJan 2015 – Mar 2015\n\nProject descriptionA stand-alone library management system using .NET framework and MSSQL DB management system which is capable of controlling lending books, fine management and keeping user details."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Native or bilingual proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science in Information Technology (Hons.)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2015 – 2019",
+                "description": ""
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/163102/?legacySchoolId=163102",
+                "schoolName": "SLIIT",
+                "degree": "Certificate Program in IT Application  2015 (CPITA )",
+                "degreeSpec": "Computer Application",
+                "dateRange": "2015"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=St%20Anthony%27s%20Girls%27%20College%2C%20Kandy",
+                "schoolName": "St Anthony's Girls' College, Kandy",
+                "degreeSpec": "Physical Science Stream",
+                "dateRange": "2000 – 2013",
+                "description": ""
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Institute%20of%20Western%20Music%20and%20Speech%20Sri%20Lanka%20",
+                "schoolName": "Institute of Western Music and Speech Sri Lanka",
+                "degreeSpec": "Spoken English",
+                "dateRange": "2000 – 2008",
+                "description": "Successfully Completed Graded Examinations from Grade Preliminary to  Grade Five."
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/thiruni-jayasiriwardena",
+            "mail": "thirudilushi@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "C",
+                "endorsements": "7"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "12"
+            },
+            {
+                "name": "Java",
+                "endorsements": "8"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "6"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "6"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "3"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "6"
+            },
+            {
+                "name": "C#",
+                "endorsements": "5"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "1"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "3"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "2"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "3"
+            },
+            {
+                "name": "Customer Service",
+                "endorsements": "1"
+            },
+            {
+                "name": "English",
+                "endorsements": "3"
+            }
+        ],
+        "allSkills": "C, HTML, Java, Web Development, JavaScript, Cascading Style Sheets (CSS), ASP.NET MVC, C#, Microsoft Office, PHP, MySQL, Leadership, Customer Service, English"
+    }
+]
