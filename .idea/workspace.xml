@@ -190,9 +190,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="Sentiment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Starc - Recruiter" />
@@ -212,9 +209,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="paragraph_sentiment_service" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Starc - Recruiter" />
@@ -234,9 +228,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="Starc - Recruiter" type="Python.FlaskServer" factoryName="Flask server">
       <module name="Starc - Recruiter" />
@@ -254,7 +245,6 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Flask server.Starc - Recruiter" />
       <item itemvalue="Python.Retrieve_commits" />
       <item itemvalue="Python.Sentiment" />
       <item itemvalue="Python.paragraph_sentiment_service" />
