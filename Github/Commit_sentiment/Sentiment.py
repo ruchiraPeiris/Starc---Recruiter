@@ -149,4 +149,4 @@ def calEmotionalLevel(comment):
 
     return Slvl
 
-print ("Sentiment score: "+str((calEmotionalLevel('great'))))
+print (calEmotionalLevel('great'))

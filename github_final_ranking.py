@@ -3,15 +3,16 @@ import numpy as np
 import operator
 
 
-
 weights_per_feature = {
 'code_comment_percentage': 2,
 'code_quality': 2,
-'comment_sentiment': 5,
-'spelling': 4,
-'popularity': 6,
-'useof_popular_technologies': 3,
+'comment_sentiment': 4,
+'spelling': 3,
+'popularity': 5,
+'useof_popular_technologies': 1,
 }
+
+
 
 
 def se_list_github():
@@ -107,7 +108,7 @@ def sse_rank_github():
             sorted_list = sorted(dict_name_score.items(), key=operator.itemgetter(1),reverse=True)
 
             print('\n')
-            print('Senior Software Engineers: '+str(sorted_list))
+            print('Senior Software Engineers: '+str(dict_name_score))
             return sorted_list
     except Exception as ex:
         print('sse_rank_github: '+str(ex))
@@ -254,15 +255,11 @@ def se_rank_github_without_popularity():
     except Exception as ex:
         print(str(ex))
 
-
-
-
-
 se_rank_github()
 #sse_rank_github()
 #se_rank_github_without_sentiment()
 #se_rank_github_without_codecomment()
 
 #se_rank_github_without_codequality()
-#sse_rank_github()
+sse_rank_github()
 #print(se_rank_github())

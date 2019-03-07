@@ -13,11 +13,13 @@ incorrect_word_list = []
 
 def P(word, N=sum(WORDS.values())):
     "Probability of `word`."
+    print(N)
     return WORDS[word] / N
+print(P('a'))
 
-print (WORDS.most_common(10))
 
 def correction(word):
+    "Most probable spelling correction for word."
 
     most_probable_word = max(candidates(word), key=P)
     #print(P(word))
@@ -64,4 +66,4 @@ def edits2(word):
 
 
 
-print (correction('managment'))
+# print correction('pylint')
