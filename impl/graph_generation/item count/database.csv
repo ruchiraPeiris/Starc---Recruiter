@@ -1,0 +1,21 @@
+Neo4j,1572
+SQL Server,27293
+MySQL,38913
+PostgreSQL,21776
+Amazon RDS/Aurora,3388
+"Microsoft Azure (Tables|CosmosDB|SQL|etc)",5203
+Memcached,3615
+Redis,11944
+Oracle,7376
+IBM Db2,1677
+MongoDB,17183
+Google Cloud Storage,3634
+Amazon DynamoDB,3454
+Apache HBase,1107
+Apache Hive,1438
+Amazon Redshift,1464
+Elasticsearch,9312
+MariaDB,8853
+SQLite,13036
+Google BigQuery,1384
+Cassandra,2444

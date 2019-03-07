@@ -1,0 +1,1648 @@
+[
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4E03AQHxJHVLOgKSjA/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=jdz2orJV1zqj_jIERdsx21sfSGAeh-mSj2J_REvqA6I",
+            "fullName": "Pathithasan Rajakopal",
+            "headline": "Associate Software Engineer at Interblocks Ltd",
+            "company": "Interblocks Ltd",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/pathithasan/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAABOBq2kBLESwxV-HHvDHK5a88c77dsj3T1U",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABOBq2kBLESwxV-HHvDHK5a88c77dsj3T1U,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABOBq2kBLESwxV-HHvDHK5a88c77dsj3T1U%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "",
+            "firstName": "Pathithasan",
+            "lastName": "Rajakopal"
+        },
+        "jobs": [
+            {
+                "companyName": "Interblocks Ltd",
+                "companyUrl": "https://www.linkedin.com/company/64154/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Mar 2018 – Present",
+                "location": "240, Level 2, HighLevel Road,  Colombo 6, Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "University of Moratuwa",
+                "companyUrl": "https://www.linkedin.com/company/41423/",
+                "jobTitle": "Student",
+                "dateRange": "2013 – 2017",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Eyepax IT Consulting (Pvt) Ltd.",
+                "companyUrl": "https://www.linkedin.com/company/2718125/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Apr 2016 – Sep 2016",
+                "location": "Colombo",
+                "description": null
+            }
+        ],
+        "projects": [
+
+        ],
+        "languages": [
+
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bsc (IT) Hons",
+                "degreeSpec": "Under graduate",
+                "dateRange": "2013 – 2017"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Thurineelavanai%20Maha%20vidyalayam",
+                "schoolName": "Thurineelavanai Maha vidyalayam",
+                "dateRange": "2007 – 2011"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/pathithasan"
+        },
+        "skills": [
+            {
+                "name": "C#",
+                "endorsements": "10"
+            },
+            {
+                "name": "ASP.NET",
+                "endorsements": "6"
+            },
+            {
+                "name": "Entity Framework",
+                "endorsements": "3"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "6"
+            },
+            {
+                "name": "OOP",
+                "endorsements": "4"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "8"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "2"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "9"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "8"
+            },
+            {
+                "name": "ASP.NET MVC",
+                "endorsements": "2"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "2"
+            },
+            {
+                "name": "Visual Studio",
+                "endorsements": "2"
+            },
+            {
+                "name": "Java",
+                "endorsements": "12"
+            },
+            {
+                "name": "C",
+                "endorsements": "12"
+            },
+            {
+                "name": "C++",
+                "endorsements": "7"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "9"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "7"
+            },
+            {
+                "name": "Windows",
+                "endorsements": "7"
+            },
+            {
+                "name": "Microsoft Excel",
+                "endorsements": "6"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "5"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "4"
+            },
+            {
+                "name": "NetBeans",
+                "endorsements": "2"
+            },
+            {
+                "name": "Visual Basic",
+                "endorsements": "2"
+            },
+            {
+                "name": "Photoshop",
+                "endorsements": "2"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "2"
+            },
+            {
+                "name": "Adobe Photoshop",
+                "endorsements": "2"
+            },
+            {
+                "name": "Ubuntu",
+                "endorsements": "1"
+            },
+            {
+                "name": "Visio",
+                "endorsements": "1"
+            },
+            {
+                "name": "Unity Framework",
+                "endorsements": "0"
+            },
+            {
+                "name": "Karate",
+                "endorsements": "1"
+            },
+            {
+                "name": "XAMPP",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "C#, ASP.NET, Entity Framework, Programming, OOP, JavaScript, AngularJS, HTML, CSS, ASP.NET MVC, Microsoft SQL Server, Visual Studio, Java, C, C++, PHP, Microsoft Office, Windows, Microsoft Excel, SQL, MySQL, NetBeans, Visual Basic, Photoshop, Eclipse, Adobe Photoshop, Ubuntu, Visio, Unity Framework, Karate, XAMPP"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C4E03AQExhnW21FYXZQ/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=OmJTSidlqEMwCCtGNyEtR9IlL9DxpOxZJokt0cqFuTQ",
+            "fullName": "Lahiru madhusankha",
+            "headline": "Associate Software Engineer at Interblocks Ltd",
+            "company": "Interblocks Ltd",
+            "school": "Informatic Institute of Technology",
+            "location": "Sri Lanka",
+            "connections": "205",
+            "profileUrl": "https://www.linkedin.com/in/lahiru-madhusankha-221821a9/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAABcUmfkBHexTfvQ7wFRBtU-4p_c7zqco6IY",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABcUmfkBHexTfvQ7wFRBtU-4p_c7zqco6IY,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABcUmfkBHexTfvQ7wFRBtU-4p_c7zqco6IY%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I'm Lahiru Madhusankha. Currently I've completed BEng software engineering degree with\n      \n      2nd upper and completed my internship as a trainee software engineer at MAS Holdings.",
+            "firstName": "Lahiru",
+            "lastName": "madhusankha"
+        },
+        "jobs": [
+            {
+                "companyName": "Interblocks Ltd",
+                "companyUrl": "https://www.linkedin.com/company/64154/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Mar 2018 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "MAS Holdings",
+                "companyUrl": "https://www.linkedin.com/company/18236/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Sep 2015 – Aug 2016",
+                "location": null,
+                "description": "I have been involved with .net Development at MAS Holdings for almost 1 year. Worked\n      under Master data team which were developing .net web application solution. Also java\n      \n      and sap development were done other than .net development."
+            }
+        ],
+        "projects": [
+            {"description": "Angular 2 Application\nJan 2018\n\nProject descriptionThis is an application which was done using angular 2. Used routing, grids, css, and etc.\n\nSee project Angular 2 ApplicationSee project\nProject nameSpring Boot Rest Application\nJan 2018\n\nProject descriptionThis is simple application which was done using spring boot for implementing Rest api and database connection with MySQL. Database I have used is MySQLMaster Data Project - MAS Holdings\nJan 2016 – Aug 2016\n\nProject descriptionMaster data application is a .net project which act as an interface between SAP and User. Due to lack of functionalities and facilities provided by SAP, Master data project was created.\nThe main task of the application was creating and maintaining the data in SAP. As an example SAP contained data regarding products which MAS create, material they used, customers and vendors of the company and etc. Master data project contained sub projects like customer master and vendor master. Vendor master was done by me. There were several roles of users in the application like requester, 1st approver, 2nd approver and super user. When requester create a data set it should be approved by 1st approver and 2nd approver before sending them to SAP. Until it is send to SAP data were saved in SQL server. Each user is informed by email with relevant link.\nThis is a .net web application which used layered architecture (Client layer, WCF Service layer, Business logic layer and data access layer). Front-end development was done with angularjs because it provide much more functionalities for creating interface, validation and etc. client application layer contained with html files, JavaScript files, angular service and c# controllers. Business logic layer was accessed through WCF service layer. Entity framework and stored procedure were used in Data access layer to work with SQL server. Repository pattern with Generic classes was used for executing functions with database."
+            }
+        ],
+        "languages": [
+            {"language": "English"},
+            {"language": "Sinhalese"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Informatic%20Institute%20of%20Technology",
+                "schoolName": "Informatic Institute of Technology",
+                "degree": "Bachelor of Engineering (BEng)",
+                "degreeSpec": "Computer Software Engineering",
+                "dateRange": "2013 – 2017",
+                "description": "I've completed software engineering degree at informatic institute of technology(IIT) which offers degree from university of Westminster,UK.I had been learning in IIT for four years.I'm aware of handling both java and C# languages and also php,html,css. When participating to the imagine cup compitition of microsoft(smart jacket,team BlackWolf) i did cording to arduino board and other circuit works. Also as my as my final year project i did landslide predicting application which is able to give prediction about future landslides."
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Nalanda%20college%20colombo",
+                "schoolName": "Nalanda college colombo",
+                "degreeSpec": "Biology(G.C.E A/L)",
+                "dateRange": "2004 – 2012",
+                "description": "I have been learning in Nalanda college for 8 years after facing my grade 5 scholarship exam. I did my G.C.E.  O/L and G.C.E A/L at Nalanda College. I got 8 A and 1 B for G.C.E.  O/L and 1 B and 2 S for my G.C.E A/L in first attempt and 2 C and 1 S for second attempt."
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/lahiru-madhusankha-221821a9"
+        },
+        "skills": [
+            {
+                "name": "C#",
+                "endorsements": "9"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "6"
+            },
+            {
+                "name": "Java",
+                "endorsements": "5"
+            },
+            {
+                "name": "Android Development",
+                "endorsements": "0"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "5"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "5"
+            },
+            {
+                "name": "NetBeans",
+                "endorsements": "3"
+            },
+            {
+                "name": "Windows",
+                "endorsements": "3"
+            },
+            {
+                "name": "Photoshop",
+                "endorsements": "2"
+            },
+            {
+                "name": "Arduino",
+                "endorsements": "2"
+            },
+            {
+                "name": "Eclipse",
+                "endorsements": "2"
+            },
+            {
+                "name": ".NET Core",
+                "endorsements": "2"
+            },
+            {
+                "name": "SAP",
+                "endorsements": "1"
+            },
+            {
+                "name": "ABAP",
+                "endorsements": "1"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "1"
+            },
+            {
+                "name": "Spring Boot",
+                "endorsements": "1"
+            },
+            {
+                "name": "Entity Framework",
+                "endorsements": "1"
+            },
+            {
+                "name": "Windows Communication Foundation (WCF)",
+                "endorsements": "1"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "1"
+            },
+            {
+                "name": "angular 2",
+                "endorsements": "1"
+            },
+            {
+                "name": "Windows Presentation Foundation (WPF)",
+                "endorsements": "0"
+            },
+            {
+                "name": "Customer Service",
+                "endorsements": "3"
+            },
+            {
+                "name": "Stored Procedures",
+                "endorsements": "1"
+            },
+            {
+                "name": "Windows Workflow Foundation (WF)",
+                "endorsements": "1"
+            },
+            {
+                "name": "Workflow Management",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "C#, CSS, Java, Android Development, PHP, Microsoft Office, NetBeans, Windows, Photoshop, Arduino, Eclipse, .NET Core, SAP, ABAP, SQL, Spring Boot, Entity Framework, Windows Communication Foundation (WCF), AngularJS, angular 2, Windows Presentation Foundation (WPF), Customer Service, Stored Procedures, Windows Workflow Foundation (WF), Workflow Management"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQF8gRhUDeTgSw/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=d7HcvAVGLShTRVjyCaf0QBPFFz2m3XK5gIpSf3N2noI",
+            "fullName": "Erandaka Anupama Bandara",
+            "headline": "Associate Software Engineer at Epic Technology Group",
+            "company": "Epic Technology Group",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "326",
+            "profileUrl": "https://www.linkedin.com/in/erandakaanupama/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAB61rH0BxIQRr5-SrWrxsHFd_o6KntsPG-g",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAB61rH0BxIQRr5-SrWrxsHFd_o6KntsPG-g,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAB61rH0BxIQRr5-SrWrxsHFd_o6KntsPG-g%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I am a person who wants to make a  difference in my living society towards a better direction. I make short term goals and accomplish them with dedicating and hardworking.\nI am very much interested  in Spring, Java and a passionate learner of cutting edge  technologies.",
+            "firstName": "Erandaka",
+            "lastName": "Anupama Bandara"
+        },
+        "jobs": [
+            {
+                "companyName": "Epic Technology Group",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=Epic%20Technology%20Group",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Sep 2018 – Present",
+                "location": "Thalangama, Battaramulla , 10120, Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "pulztec",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=pulztec",
+                "jobTitle": "Software Engineering Trainee",
+                "dateRange": "Dec 2016 – Jun 2017",
+                "location": "Colombo 7",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "\nProjects\n\nProject nameMini CRM demo with Spring MVC\nJul 2018 – Present\n\nProject descriptionSpring MVC, Hibernate mini project to demo the basic CRUD features with MySQL.Mini CRM demo with Spring REST\nJul 2018 – Present\n\nProject descriptionREST service for basic CRUD features with Spring and Hibernate.Mobile Alert Notification system\nDec 2015 – Jul 2016\n\nProject descriptionA Group Project completed under the Course Module “Industry Based Project –Level 2”. The project was mentored by 99x Technology, PLC. \nMobile app which is monitoring a target system and notify the mobile users through push notifications when an alert generates.Users has the freedom to inform the alert details to other mobile users through sms,email or push notifications or the user can executes a given script back in the targeted system.\nIonic (open source mobile sdk for developing native and progressive web aps), angularjs, HTML/CSS used for developing front end of the mobile app while using python, flask, REST, JSON and MongoDB for the back end.Smart Article Locker\n2014\n\nProject descriptionA Group Project completed under the requirements for the Course Module “ICT\nProject – Level 1”.Smart Article Locker was designed to bank pawning section.\nProject was based on Microcontrollers, Fingerprint Recognition, Motor Controllers, IR\nSensors, SQL, C#"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Professional proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"1"}
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "B.Sc. (Hons)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2014 – 2018",
+                "description": "It was a great honour to select for the faculty of information technology for reading a degree programme in Information Technology. Faculty of IT consists with three departments including Information technology, Computational mathematics and Interdisciplinary Studies"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Kingswood%20College",
+                "schoolName": "Kingswood College",
+                "degree": "2010 A/L",
+                "degreeSpec": "Physical Science stream",
+                "dateRange": "2007 – 2010"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Anuruddha%20College%2CNawalapitiya",
+                "schoolName": "Anuruddha College,Nawalapitiya",
+                "dateRange": "1999 – 2007"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/erandakaanupama",
+            "websites": "github.com/erandakaanupama"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "17"
+            },
+            {
+                "name": "Spring MVC",
+                "endorsements": "2"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "2"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)",
+                "endorsements": "1"
+            },
+            {
+                "name": "Python",
+                "endorsements": "1"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "16"
+            },
+            {
+                "name": "HTML5",
+                "endorsements": "8"
+            },
+            {
+                "name": "Adobe Photoshop",
+                "endorsements": "9"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "17"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "1"
+            },
+            {
+                "name": "SQLite",
+                "endorsements": "1"
+            },
+            {
+                "name": "RESTful WebServices",
+                "endorsements": "1"
+            },
+            {
+                "name": "Git",
+                "endorsements": "1"
+            },
+            {
+                "name": "Public Speaking",
+                "endorsements": "7"
+            },
+            {
+                "name": "Spring Security",
+                "endorsements": "1"
+            },
+            {
+                "name": "Encryption",
+                "endorsements": "1"
+            },
+            {
+                "name": "Authentication",
+                "endorsements": "1"
+            },
+            {
+                "name": "Authorization",
+                "endorsements": "1"
+            },
+            {
+                "name": "Version Control",
+                "endorsements": "1"
+            },
+            {
+                "name": "Bitbucket",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "Java, Spring MVC, Hibernate, Object-Oriented Programming (OOP), Python, JavaScript, HTML5, Adobe Photoshop, SQL, MySQL, SQLite, RESTful WebServices, Git, Public Speaking, Spring Security, Encryption, Authentication, Authorization, Version Control, Bitbucket"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQGWf6GHqoYfBQ/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=K1k1TVlUsGBwqAUihNAiJSHQUp5KQUgvaIz0gTbJWPQ",
+            "fullName": "Ruchini Dissanayaka",
+            "headline": "Associate Software Engineer at Pearson",
+            "company": "Pearson",
+            "school": "Sri Lanka Institute of Information Technology",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/ruchini-dissanayaka-5a9995117/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAB0n2hEB3yXijFVemniBTYwoEFqLoeKyAzE",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAB0n2hEB3yXijFVemniBTYwoEFqLoeKyAzE,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAB0n2hEB3yXijFVemniBTYwoEFqLoeKyAzE%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Experienced developer with a demonstrated history of working in the Software Engineering\n      industry. Skilled in Java, Node.js, Angular 1,2, 3,4, C#, Javascript , Nodejs, python and C++.\n      \n      Strong engineering professional graduated from SLIIT.",
+            "firstName": "Ruchini",
+            "lastName": "Dissanayaka"
+        },
+        "jobs": [
+            {
+                "companyName": "Pearson",
+                "companyUrl": "https://www.linkedin.com/company/2137/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Jul 2018 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "CodeGen International",
+                "companyUrl": "https://www.linkedin.com/search/results/index/?keywords=CodeGen%20International",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Feb 2018 – May 2018",
+                "location": "Colombo",
+                "description": null
+            },
+            {
+                "companyName": "Pearson",
+                "companyUrl": "https://www.linkedin.com/company/2137/",
+                "jobTitle": "Software Engineering / DevOps Intern",
+                "dateRange": "Dec 2016 – Nov 2017",
+                "location": null,
+                "description": null
+            }
+        ],
+        "projects": [
+
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Full proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Sri%20Lanka%20Institute%20of%20Information%20Technology",
+                "schoolName": "Sri Lanka Institute of Information Technology"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/163102/?legacySchoolId=163102",
+                "schoolName": "SLIIT",
+                "dateRange": "2014 – 2017"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=De%20Mazenod%20College%20Kandana",
+                "schoolName": "De Mazenod College Kandana",
+                "degree": "High School",
+                "degreeSpec": "Biology - 2012 Batch",
+                "dateRange": "2009 – 2012"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=ACHE%20(American%20College%20of%20Higher%20Education)%20%E2%80%93%20Sri%20Lanka",
+                "schoolName": "ACHE (American College of Higher Education) – Sri Lanka",
+                "dateRange": "2012 – 2013"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/ruchini-dissanayaka-5a9995117"
+        },
+        "skills": [
+            {
+                "name": "Node.js",
+                "endorsements": "8"
+            },
+            {
+                "name": "Java",
+                "endorsements": "17"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "13"
+            },
+            {
+                "name": "Testing",
+                "endorsements": "4"
+            },
+            {
+                "name": "Android Development",
+                "endorsements": "2"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "6"
+            },
+            {
+                "name": "Python",
+                "endorsements": "6"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "11"
+            },
+            {
+                "name": "Ionic Framework",
+                "endorsements": "5"
+            },
+            {
+                "name": "C#",
+                "endorsements": "9"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "9"
+            },
+            {
+                "name": "C++",
+                "endorsements": "8"
+            },
+            {
+                "name": "HTML5",
+                "endorsements": "4"
+            },
+            {
+                "name": "PhpMyAdmin",
+                "endorsements": "3"
+            },
+            {
+                "name": "CSS3",
+                "endorsements": "3"
+            },
+            {
+                "name": "Hybrid Cloud",
+                "endorsements": "3"
+            },
+            {
+                "name": "Apache Cordova",
+                "endorsements": "3"
+            }
+        ],
+        "allSkills": "Node.js, Java, PHP, Testing, Android Development, AngularJS, Python, Microsoft SQL Server, Ionic Framework, C#, JavaScript, C++, HTML5, PhpMyAdmin, CSS3, Hybrid Cloud, Apache Cordova"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQF68D01IJS9Ig/profile-displayphoto-shrink_800_800/0?e=1551916800&v=beta&t=-3qAaHM-TSAxLm77Y6P9tqIgxIVyUdfSqjpwJNssK34",
+            "fullName": "Tharindu Dhananjaya",
+            "headline": "Associate Software Engineer at ARIMAC LANKA",
+            "company": "Arimac Lanka",
+            "school": "University Of Colombo School Of Computing",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/tharindudhananjaya/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAABkgfwkBFEEz4QRSVObCexuGgLDEbgikuf4",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABkgfwkBFEEz4QRSVObCexuGgLDEbgikuf4,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABkgfwkBFEEz4QRSVObCexuGgLDEbgikuf4%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "I am a joyful and positive minded person who would look at a problem as challenge and a\n      opportunity to improve myself. Also when it comes to team work, if a situation demands me\n      \n      to take an action I would not hesitate to be active and to be helpful to other team mates.",
+            "firstName": "Tharindu",
+            "lastName": "Dhananjaya"
+        },
+        "jobs": [
+            {
+                "companyName": "Arimac Lanka",
+                "companyUrl": "https://www.linkedin.com/company/2465766/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "May 2018 – Present",
+                "location": "colombo",
+                "description": null
+            },
+            {
+                "companyName": "SIYAPATHA FINANCE",
+                "companyUrl": "https://www.linkedin.com/company/6817556/",
+                "jobTitle": "Software Engineering Intern",
+                "dateRange": "Aug 2017 – Feb 2018",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "University of Colombo School of Computing",
+                "companyUrl": "https://www.linkedin.com/company/638346/",
+                "jobTitle": "Student",
+                "dateRange": "Feb 2015 – Dec 2017",
+                "location": null,
+                "description": null
+            }
+        ],
+        "projects": [
+
+        ],
+        "languages": [
+
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20Of%20Colombo%20School%20Of%20Computing",
+                "schoolName": "University Of Colombo School Of Computing",
+                "dateRange": "2015 – 2019"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Siridhamma%20college-Galle",
+                "schoolName": "Siridhamma college-Galle",
+                "dateRange": "2004 – 2012"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/tharindudhananjaya"
+        },
+        "skills": [
+            {
+                "name": "HTML",
+                "endorsements": "3"
+            },
+            {
+                "name": "Java",
+                "endorsements": "2"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "2"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "1"
+            },
+            {
+                "name": "Mobile Devices",
+                "endorsements": "1"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "2"
+            },
+            {
+                "name": "sql",
+                "endorsements": "2"
+            },
+            {
+                "name": "Windows",
+                "endorsements": "1"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "1"
+            },
+            {
+                "name": "Photoshop",
+                "endorsements": "1"
+            },
+            {
+                "name": "css",
+                "endorsements": "1"
+            },
+            {
+                "name": "Python",
+                "endorsements": "1"
+            },
+            {
+                "name": "C++",
+                "endorsements": "0"
+            },
+            {
+                "name": "C",
+                "endorsements": "0"
+            },
+            {
+                "name": "c#",
+                "endorsements": "0"
+            },
+            {
+                "name": "Teamwork",
+                "endorsements": "2"
+            },
+            {
+                "name": "Mobile Device Management",
+                "endorsements": "1"
+            },
+            {
+                "name": "Networking",
+                "endorsements": "0"
+            }
+        ],
+        "allSkills": "HTML, Java, SQL, Programming, Mobile Devices, Microsoft Office, sql, Windows, JavaScript, Photoshop, css, Python, C++, C, c#, Teamwork, Mobile Device Management, Networking"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQEuZyxjsJRxuw/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=Xr2KJxGDNYT5bypIaZhtkDRJsZLne7kYoC2x1k9kL74",
+            "fullName": "Ranidu Thiwanka",
+            "headline": "Associate Software Engineer",
+            "company": "SYNAPSYS LTD",
+            "school": "TEESSIDE UNIVERSITY",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/ranidu-thiwanka-0a8020106/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAABqzAoABthMWDmL_6urPWzTxPPoofl265Cg",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABqzAoABthMWDmL_6urPWzTxPPoofl265Cg,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABqzAoABthMWDmL_6urPWzTxPPoofl265Cg%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Passionate, responsible and committed engineer Specialized in Financial Services domain , with a get-it-done, on-time spirit, and more than a decade of experience designing, implementing and adapting technically sophisticated online web applications using Java C++,PHP , three tiered architecture and more. Proficient in J2EE infrastructure, language standards, object modeling technologies and Application Life Cycle management.",
+            "firstName": "Ranidu",
+            "lastName": "Thiwanka"
+        },
+        "jobs": [
+            {
+                "companyName": "SYNAPSYS LTD",
+                "companyUrl": "https://www.linkedin.com/company/13317786/",
+                "jobTitle": "Associate Software Engineer - JAVA",
+                "dateRange": "Mar 2016 – Present",
+                "location": "Synapsys Ltd, Rajagiriya,Colombo, Sri Lanka.",
+                "description": "Involved Projects:\n\n01) Facility Origination System for DFCC Bank.\nTools and technologies used:\nInubit work flow concept, ExtJS 4.0, Java, XML, JavaBeans, MySQL, Access data through ODBC, iReport Designer(JasperReports and JasperReports Server).\n\n02) PRM System for DFCC Bank.\nTools and technologies used:\nSpring Web MVC, Hibernate, Java EE, JSP, Servlets, JAX-WS, CSS, Bootstrap, JQuery, AJAX, OpenTok REST API, SOAP, MS-SQL Server 2014, Eclipse IDE, iReport Designer(JasperReports and JasperReports Server).\n\n03) DFCC MBANX Mobile-Teller Android App \nTools and technologies used:\nAndroid, SQLite, Android Studio\n\n04) Timesheet Internal Application for Synapsys Ltd\nTools and technologies used:\nPHP, Zend framework, CSS, Bootstrap, JQuery, Reports"
+            }
+        ],
+        "projects": [
+            {"description": "Blood Donation Management System(Individual)\nNov 2015\n\nProject descriptionThis is the Client Server Software.Using RMI(Remote Method Invocation) Technology in the System.\n\nProject nameHotel Room Reservation System(Individual)\nMay 2015 – Aug 2015\n\nProject descriptionThis System is Java SE Application.Functionalities of the System,\n1.Use MVC Architecture and various design patterns.\n2.Standard booking processes(Search and evaluation )\n3.Good UI Design in the System.\n4.View the Charts and Generate the Reports."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Full proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"},
+            {"language": "Tamil","proficiency":"Elementary proficiency"}
+        ],
+        "recommendations": [
+            {"number":""}
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/school/12727/?legacySchoolId=12727",
+                "schoolName": "TEESSIDE UNIVERSITY",
+                "degree": "Bsc(Hons) in Computing",
+                "degreeSpec": "2nd class upper division",
+                "dateRange": "2016 – 2018"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Institute%20of%20Java%20and%20Software%20Engineering",
+                "schoolName": "Institute of Java and Software Engineering",
+                "degree": "professional quarlification for IT",
+                "degreeSpec": "Computer Software Engineering",
+                "dateRange": "2014 – 2016",
+                "description": "Completed,Develop Standalone Application & Distributed Application.Completed,Development with Network programming & client server Apps Development.Completed,Web Developments Server Side Programming and latest Java EE Framework Base Web Develpoment."
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Sri%20Lanka%20Institute%20of%20Advanced%20Technological%20Education(SLIATE)",
+                "schoolName": "Sri Lanka Institute of Advanced Technological Education(SLIATE)",
+                "degree": "Higher National Diploma in Information Technology -(HNDIT)",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2014 – 2016",
+                "description": "The course conducted by the SLIATE (http://www.sliate.net/). Industrial trainings offered through NAITA (http://www.naita.slt.lk/)."
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/ranidu-thiwanka-0a8020106",
+            "mail": "kankanamgethivanka@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "21"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "16"
+            },
+            {
+                "name": "Java Enterprise Edition",
+                "endorsements": "10"
+            },
+            {
+                "name": "Design Patterns",
+                "endorsements": "1"
+            },
+            {
+                "name": "HTML5",
+                "endorsements": "8"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "7"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "6"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "6"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "5"
+            },
+            {
+                "name": "JavaSE",
+                "endorsements": "4"
+            },
+            {
+                "name": "Spring Framework",
+                "endorsements": "4"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "3"
+            },
+            {
+                "name": "Bootstrap",
+                "endorsements": "3"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "3"
+            },
+            {
+                "name": "Spring MVC",
+                "endorsements": "3"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "1"
+            },
+            {
+                "name": "C#",
+                "endorsements": "1"
+            },
+            {
+                "name": "Java Web Services",
+                "endorsements": "2"
+            }
+        ],
+        "allSkills": "Java, JavaScript, Java Enterprise Edition, Design Patterns, HTML5, CSS, PHP, Hibernate, Cascading Style Sheets (CSS), JavaSE, Spring Framework, jQuery, Bootstrap, JSP, Spring MVC, AJAX, C#, Java Web Services"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQEqm4ZXbP7h3A/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=3cjGn10YywEsqbw1o5rBeihvbv1mrMsi3OWcOr6o_34",
+            "fullName": "Hashan Sandeepa",
+            "headline": "Associate Software Engineer at Silverleap Technology Limited",
+            "company": "Silverleap Technology Limited",
+            "school": "SLIIT",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/hashan-sandeepa/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAABnlumUBwvi6MxyuAAMn3jGnv_Ye1jUXEYw",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAABnlumUBwvi6MxyuAAMn3jGnv_Ye1jUXEYw,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAABnlumUBwvi6MxyuAAMn3jGnv_Ye1jUXEYw%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in several programming languages, including Java, PHP, C, JQuery, JavaScript, HTML, and writing code to create systems that are reliable and user-friendly",
+            "firstName": "Hashan",
+            "lastName": "Sandeepa",
+            "savedImg": "https://phantombuster.s3.amazonaws.com/hoquzVrqa4s/A57rG42YrvJVpARbp2x67A/hashan-sandeepa.jpeg"
+        },
+        "jobs": [
+            {
+                "companyName": "Silverleap Technology Limited",
+                "companyUrl": "https://www.linkedin.com/company/6460383/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Aug 2017 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "Silverleap Technology Limited",
+                "companyUrl": "https://www.linkedin.com/company/6460383/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Feb 2017 – Aug 2017",
+                "location": "Sri Lanka",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "\nProjects\n\nProject nameLibrary Management System\nSep 2016 – Present\n\nProject descriptionTask - Manage all procedures of a library with E-books\nTechniques - J2EE,Spring,Hibernate\n\nProject nameMedicine Issuing System\nOct 2015 – Dec 2015\n\nProject descriptionTask - Manage pharmacy procedures\nTechniques - RMI and Socket Programming\n\nProject nameMedical Center Management System\nApr 2015 – Jun 2015\n\nProject descriptionTask - Maintain all procedures of medical center with reporting\nTechniques - Java SE"
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Limited working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+            {"description": "2"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/school/163102/?legacySchoolId=163102",
+                "schoolName": "SLIIT",
+                "degree": "BSc(Hons) Degree in Information Technology specializaing in Data Science",
+                "degreeSpec": "Computer Science",
+                "dateRange": "2018 – 2022"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Institute%20of%20Java%20%26%20Software%20Engineering",
+                "schoolName": "Institute of Java & Software Engineering",
+                "degree": "Diploma in Software Engineering",
+                "degreeSpec": "Computer Software Engineering",
+                "dateRange": "2015 – 2016",
+                "description": "Oracle Certified Professional Java Programmer (OCPJP)Oracle Certified Master Java Developer (OCMJD)Advanced Business Solution Developer (ABSD)"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=H%2FTangalle%20National%20Boys%20School",
+                "schoolName": "H/Tangalle National Boys School",
+                "degree": "General Certificate of Education (GCE) Advanced Level",
+                "degreeSpec": "Business/Commerce, General",
+                "dateRange": "2012 – 2014"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/hashan-sandeepa",
+            "mail": "hashans95@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "38"
+            },
+            {
+                "name": "Spring Framework",
+                "endorsements": "33"
+            },
+            {
+                "name": "Windows",
+                "endorsements": "30"
+            },
+            {
+                "name": "Object-Oriented Programming (OOP)",
+                "endorsements": "17"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "14"
+            },
+            {
+                "name": "Web Services",
+                "endorsements": "10"
+            },
+            {
+                "name": "Object Oriented Design",
+                "endorsements": "0"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "24"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "21"
+            },
+            {
+                "name": "JSON",
+                "endorsements": "21"
+            },
+            {
+                "name": "Java Database Connectivity (JDBC)",
+                "endorsements": "19"
+            },
+            {
+                "name": "Maven",
+                "endorsements": "18"
+            },
+            {
+                "name": "html",
+                "endorsements": "16"
+            },
+            {
+                "name": "J2EE",
+                "endorsements": "15"
+            },
+            {
+                "name": "Hibernate",
+                "endorsements": "13"
+            },
+            {
+                "name": "Oracle Database",
+                "endorsements": "13"
+            },
+            {
+                "name": "jQuery UI",
+                "endorsements": "12"
+            },
+            {
+                "name": "AJAX",
+                "endorsements": "12"
+            },
+            {
+                "name": "JavaServer Pages (JSP)",
+                "endorsements": "11"
+            },
+            {
+                "name": "NetBeans",
+                "endorsements": "10"
+            },
+            {
+                "name": "Unified Modeling Language (UML)",
+                "endorsements": "10"
+            },
+            {
+                "name": "Git",
+                "endorsements": "0"
+            },
+            {
+                "name": "Github",
+                "endorsements": "0"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "0"
+            },
+            {
+                "name": "C",
+                "endorsements": "0"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "0"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "0"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "0"
+            },
+            {
+                "name": "Core Java",
+                "endorsements": "0"
+            },
+            {
+                "name": "XML",
+                "endorsements": "0"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "0"
+            },
+            {
+                "name": "C++",
+                "endorsements": "0"
+            },
+            {
+                "name": "Tomcat",
+                "endorsements": "0"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "0"
+            },
+            {
+                "name": "Laravel",
+                "endorsements": "0"
+            },
+            {
+                "name": "Problem Solving",
+                "endorsements": "0"
+            },
+            {
+                "name": "IntelliJ IDEA",
+                "endorsements": "11"
+            },
+            {
+                "name": "J#",
+                "endorsements": "11"
+            },
+            {
+                "name": "Jasper Reports",
+                "endorsements": "11"
+            },
+            {
+                "name": "XAMPP",
+                "endorsements": "10"
+            },
+            {
+                "name": "Tomcat 5",
+                "endorsements": "10"
+            },
+            {
+                "name": "Navicat",
+                "endorsements": "10"
+            },
+            {
+                "name": "RESTful architecture",
+                "endorsements": "7"
+            },
+            {
+                "name": "Bitbucket",
+                "endorsements": "0"
+            },
+            {
+                "name": "Filezilla",
+                "endorsements": "0"
+            },
+            {
+                "name": "JQuery EasyUI",
+                "endorsements": "11"
+            },
+            {
+                "name": "Smart SVN",
+                "endorsements": "10"
+            }
+        ],
+        "allSkills": "Java, Spring Framework, Windows, Object-Oriented Programming (OOP), Software Development, Web Services, Object Oriented Design, JavaScript, MySQL, JSON, Java Database Connectivity (JDBC), Maven, html, J2EE, Hibernate, Oracle Database, jQuery UI, AJAX, JavaServer Pages (JSP), NetBeans, Unified Modeling Language (UML), Git, Github, jQuery, C, PHP, Microsoft SQL Server, Servlets, Core Java, XML, SQL, C++, Tomcat, Cascading Style Sheets (CSS), Laravel, Problem Solving, IntelliJ IDEA, J#, Jasper Reports, XAMPP, Tomcat 5, Navicat, RESTful architecture, Bitbucket, Filezilla, JQuery EasyUI, Smart SVN"
+    },
+  {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5103AQHz-FtEKZZ4eQ/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=pwkhbmjIyE1VvZRKnfQPuqs4AFt1KOf5TbD8QWUU4-c",
+            "fullName": "Sandupa Dalugoda",
+            "headline": "Former Associate Software Engineer at Fortunaglobal Private Limited | ISTQB® Certified Tester.",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/sandupa/",
+            "connectionDegree": "1st",
+            "vmid": "ACoAAAiFuAQBsf0iHhrfiep4_JggiBDJHRnespU",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAiFuAQBsf0iHhrfiep4_JggiBDJHRnespU,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAiFuAQBsf0iHhrfiep4_JggiBDJHRnespU%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "Final Year Undergraduate at the University of Moratuwa, Faculty of Information Technology.\n      Following Bachelor of Science in Information Technology and Management. Former\n      \n      Associate Software Engineer at Fortunaglobal Pvt. Ltd. ISTQB® Certified Tester.",
+            "firstName": "Sandupa",
+            "lastName": "Dalugoda"
+        },
+        "jobs": [
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Mar 2018 – Dec 2018",
+                "location": "Colombo",
+                "description": "With its roots extending well beyond 10 years and with the backbone of an\n      unparalleled team of experienced technologists, consultants, researchers and\n      designers with a resilient passion focused in treading beyond the norms of traditional\n      sales and marketing parameters, Fortunaglobal promises real-time knowledge of\n      customer behaviors and trends, delivering a state of the art experience in\n      \n      consumer-driven Digital banking through a Omni Channel Banking Suite."
+            },
+            {
+                "companyName": "Fortunaglobal Private Limited",
+                "companyUrl": "https://www.linkedin.com/company/377339/",
+                "jobTitle": "Software Engineering Intern",
+                "dateRange": "Sep 2017 – Feb 2018",
+                "location": "Colombo",
+                "description": null
+            }
+        ],
+        "projects": [
+            {"description": "Projects\n\nProject nameCargills E-Statement\nJul 2018 – Present\n\nProject descriptionCargills e-statement module generates the monthly credit card statements for the bank’s customers and e-mail the same to customer’s registered e-mail address with the bank. \n\nTools and Technologies : Angular 6\n\nOther creators\nMahesh Dissanayaka Lakshitha Nalindanath Danushka Dasanayaka Chinthaka Dinadasa Senuri Sucharitharathna\nProject nameDetection and Analysis of Hate Content in Sinhala Language\nMar 2018 – Present\n\nProject descriptionA Research Project that detects and analyzes hate speech content (both text and images) presented in Sinhala Language, ranks such content considering the amount of hate speech included in them and classifies the content according to the domains they belong.\nMy Contribution to the project is to design and develop the module that extract the Sinhala phrases from the image posts which are being posted in Facebook.\n\nOther creators\nMaheshi Nandathilaka Evangeli Silva Thanu Amarasinghe\nSee project Detection and Analysis of Hate Content in Sinhala Language See project\nProject nameSugah\nOct 2017 – Present\n\nProject description“Sugah” is mobile application-based platform which facilitates peer to peer lending. Both lenders and borrowers can use to offer and obtain short term financing. “Sugah” can be downloaded for all major smart phones. All funds need to be transferred electronically whereas this application is quick, responsive, intuitive and easy to use. \n\nTools and Technologies : React-Native, Spring-boot, MySQL\n\nProject nameGovipola\nDec 2017 – Mar 2018\n\nProject description\"Govipola\" is a platform for produce buyers and suppliers to connect with trust to trade safely and efficiently. By setting up your profile the app will let you know the products you would like to buy or advertise what you wish to sell. App enables to review your buyer or seller and contact them directly.\n\"Govipola\" expands your access to discover a wide range of reliable buyers and sellers providing you trustworthy and quality produce.\n\nTools and Technologies : React-Native, Spring-boot, MySQL\n\nOther creators\nMahesh Dissanayaka Himali Sigera Hashini Weerasekara Minoli Ranaweera Judith Shenali Welikala\nSee project GovipolaSee project\nProject nameEpolitician.lk\nNov 2017 – Jan 2018\n\nProject descriptionE-politician.lk is an inclusive trilingual database which offers centralized and systematized information about the Sri Lankan electoral system with comprehensive social and legal information. The website facilitates an active and productive exchange of information through a well clarified form between the voter and the candidate who plays the key major roles in an election.\n\nTools and Technologies : PHP, MySQL, HTML, CSS\n\nOther creator\nAkila Mahesh\nSee project Epolitician.lkSee project\nProject nameEventSpace.biz\nJan 2016 – Feb 2017\n\nProject descriptionEvent Space.biz is an online Event Management System where you can automate almost all the activities, processes in the field of Event Management, as well as to increase the ability to handle a greater capacity of events.\nThis is done as the 2nd Year Final Project of Faculty of Information Technology, University of Moratuwa. For VENUS IT Pvt. Ltd, Matara. This project contains Android Mobile Application, Frontend Web Application and Seperate Administrator Portal.\n\nTools and Technologies : Android, PHP, AngualrJS 1.x\n\nOther creators\nMaheshi Nandathilaka Thanuri Sasara Himasha Hansani\nSee project EventSpace.bizSee project\nProject nameVENUS Administration Support System\nJan 2012 – Apr 2013\n\nProject descriptionThis program was developed to fulfill the requirements of VENUS Computer Education Center, Matara. This application contain Student Registration and Inquiry module, Student Attendance module, Employee Records module, Student payment and transaction handling module. \n\nOnline Application : PHP, MySQL, HTML, CSS, Javascript\nDesktop Application: Visual Basic 6.0, MySQL\n\nProject nameAutomatic Broadcasting System\nJun 2011 – Dec 2011\n\nProject descriptionA application to handle the Broadcasting System of the Media Unit, It controls all main functionalities automatically, including the periodic belling system. This Application Developed using Visual Basic 6.0 and Microsoft Access. This application allows to setup customized playlists and record all daily programs for future use."
+            }
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Limited working proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"},
+            {"language": "Hindi","proficiency":"Native or bilingual proficiency"}
+        ],
+        "recommendations": [
+            {"number":"5"}
+        ],
+        "certifications": [
+            {"description": "1"}
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor’s Degree",
+                "degreeSpec": "Information Technology and Management",
+                "dateRange": "2014 – 2018"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/school/43471/?legacySchoolId=43471",
+                "schoolName": "Rahula College - Matara",
+                "degree": "High School",
+                "degreeSpec": "Information Technology",
+                "dateRange": "2011 – 2013"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Matara%20Central%20College",
+                "schoolName": "Matara Central College",
+                "degree": "Ordinary Level",
+                "dateRange": "2005 – 2011",
+                "description": "Ordinary Level"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/sandupa",
+            "twitter": "sandupasanthush",
+            "mail": "sandupasanthusha@gmail.com"
+        },
+        "skills": [
+            {
+                "name": "Java",
+                "endorsements": "23"
+            },
+            {
+                "name": "JavaScript",
+                "endorsements": "27"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "31"
+            },
+            {
+                "name": "Software Development",
+                "endorsements": "8"
+            },
+            {
+                "name": "Web Development",
+                "endorsements": "19"
+            },
+            {
+                "name": "Test Automation",
+                "endorsements": "1"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "10"
+            },
+            {
+                "name": "Software Testing",
+                "endorsements": "1"
+            },
+            {
+                "name": "Software Quality Assurance",
+                "endorsements": "1"
+            },
+            {
+                "name": "AngularJS",
+                "endorsements": "8"
+            },
+            {
+                "name": "React-Native",
+                "endorsements": "3"
+            },
+            {
+                "name": "Android",
+                "endorsements": "10"
+            },
+            {
+                "name": "Spring Boot",
+                "endorsements": "3"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "29"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "18"
+            },
+            {
+                "name": "SQL",
+                "endorsements": "14"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "14"
+            },
+            {
+                "name": "Linux",
+                "endorsements": "11"
+            },
+            {
+                "name": "Cascading Style Sheets (CSS)",
+                "endorsements": "13"
+            },
+            {
+                "name": "jQuery",
+                "endorsements": "9"
+            },
+            {
+                "name": "HTML5",
+                "endorsements": "10"
+            },
+            {
+                "name": "Apache",
+                "endorsements": "7"
+            },
+            {
+                "name": "XML",
+                "endorsements": "7"
+            },
+            {
+                "name": "Databases",
+                "endorsements": "9"
+            },
+            {
+                "name": "Servlets",
+                "endorsements": "8"
+            },
+            {
+                "name": "JSP",
+                "endorsements": "8"
+            },
+            {
+                "name": "Laravel",
+                "endorsements": "1"
+            },
+            {
+                "name": "Selenium WebDriver",
+                "endorsements": "1"
+            },
+            {
+                "name": "TestNG",
+                "endorsements": "1"
+            },
+            {
+                "name": "Electron",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "Java, JavaScript, PHP, Software Development, Web Development, Test Automation, Programming, Software Testing, Software Quality Assurance, AngularJS, React-Native, Android, Spring Boot, HTML, MySQL, SQL, CSS, Linux, Cascading Style Sheets (CSS), jQuery, HTML5, Apache, XML, Databases, Servlets, JSP, Laravel, Selenium WebDriver, TestNG, Electron"
+    },
+      {
+        "general": {
+            "imgUrl": "https://media.licdn.com/dms/image/C5603AQHE2IFeHs8MHA/profile-displayphoto-shrink_800_800/0?e=1551312000&v=beta&t=QF-5pvcS7Q6QBw-Wi5aEpzLesd9Ak1pkfIuptCMEY6g",
+            "fullName": "Madushika Ranasinghe",
+            "headline": "Associate Software Engineer at eMarketingEye",
+            "company": "eMarketingEye",
+            "school": "University of Moratuwa",
+            "location": "Sri Lanka",
+            "connections": "500+",
+            "profileUrl": "https://www.linkedin.com/in/madushikaranasinghe/",
+            "connectionDegree": "2nd",
+            "vmid": "ACoAAAofEv4BMwA9AcDzc5JNhIgEfm37YSN0AP4",
+            "linkedinSalesNavigatorUrl": "https://www.linkedin.com/sales/people/ACoAAAofEv4BMwA9AcDzc5JNhIgEfm37YSN0AP4,name",
+            "mutualConnectionsUrl": "https://www.linkedin.com/search/results/people/?facetNetwork=%5B%22F%22%5D&facetConnectionOf=%5B%22ACoAAAofEv4BMwA9AcDzc5JNhIgEfm37YSN0AP4%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&RESULT_TYPE=PEOPLE",
+            "description": "",
+            "firstName": "Madushika",
+            "lastName": "Ranasinghe"
+        },
+        "jobs": [
+            {
+                "companyName": "eMarketingEye",
+                "companyUrl": "https://www.linkedin.com/company/233612/",
+                "jobTitle": "Associate Software Engineer",
+                "dateRange": "Aug 2017 – Present",
+                "location": "Sri Lanka",
+                "description": null
+            },
+            {
+                "companyName": "Dialog Axiata PLC",
+                "companyUrl": "https://www.linkedin.com/company/247121/",
+                "jobTitle": "Trainee Software Engineer",
+                "dateRange": "Mar 2016 – Sep 2016",
+                "location": null,
+                "description": null
+            },
+            {
+                "companyName": "Kumon",
+                "companyUrl": "https://www.linkedin.com/company/18690/",
+                "jobTitle": "instructor",
+                "dateRange": "2011 – 2012",
+                "location": null,
+                "description": null
+            }
+        ],
+        "projects": [
+
+        ],
+        "languages": [
+            {"language": "English","proficiency":"Full proficiency"},
+            {"language": "Sinhalese","proficiency":"Native or bilingual proficiency"},
+            {"language": "German","proficiency":"Elementary proficiency"}
+        ],
+        "recommendations": [
+
+        ],
+        "certifications": [
+
+        ],
+        "schools": [
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=University%20of%20Moratuwa",
+                "schoolName": "University of Moratuwa",
+                "degree": "Bachelor of Science (B.Sc.)",
+                "degreeSpec": "Information Technology & Management",
+                "dateRange": "2013 – 2016"
+            },
+            {
+                "schoolUrl": "https://www.linkedin.com/search/results/index/?keywords=Anula%20Vidyalaya%2CNugegoda.",
+                "schoolName": "Anula Vidyalaya,Nugegoda.",
+                "degreeSpec": "Mathamatics",
+                "dateRange": "2008 – 2010"
+            }
+        ],
+        "details": {
+            "linkedinProfile": "https://www.linkedin.com/in/madushikaranasinghe"
+        },
+        "skills": [
+            {
+                "name": "JavaScript",
+                "endorsements": "22"
+            },
+            {
+                "name": "Java",
+                "endorsements": "21"
+            },
+            {
+                "name": "MySQL",
+                "endorsements": "21"
+            },
+            {
+                "name": "Programming",
+                "endorsements": "9"
+            },
+            {
+                "name": "Mathematics",
+                "endorsements": "3"
+            },
+            {
+                "name": "Marketing",
+                "endorsements": "3"
+            },
+            {
+                "name": "Machine Learning",
+                "endorsements": "1"
+            },
+            {
+                "name": "HTML",
+                "endorsements": "16"
+            },
+            {
+                "name": "C",
+                "endorsements": "10"
+            },
+            {
+                "name": "Microsoft Office",
+                "endorsements": "8"
+            },
+            {
+                "name": "Microsoft Word",
+                "endorsements": "7"
+            },
+            {
+                "name": "PowerPoint",
+                "endorsements": "7"
+            },
+            {
+                "name": "PHP",
+                "endorsements": "7"
+            },
+            {
+                "name": "CSS",
+                "endorsements": "7"
+            },
+            {
+                "name": "Microsoft Excel",
+                "endorsements": "6"
+            },
+            {
+                "name": "HTML 5",
+                "endorsements": "4"
+            },
+            {
+                "name": "HTML5",
+                "endorsements": "4"
+            },
+            {
+                "name": "Access",
+                "endorsements": "3"
+            },
+            {
+                "name": "Microsoft SQL Server",
+                "endorsements": "3"
+            },
+            {
+                "name": "Python",
+                "endorsements": "2"
+            },
+            {
+                "name": "Customer Service",
+                "endorsements": "5"
+            },
+            {
+                "name": "Teaching",
+                "endorsements": "4"
+            },
+            {
+                "name": "Teamwork",
+                "endorsements": "4"
+            },
+            {
+                "name": "Management",
+                "endorsements": "3"
+            },
+            {
+                "name": "Leadership",
+                "endorsements": "3"
+            },
+            {
+                "name": "English",
+                "endorsements": "6"
+            },
+            {
+                "name": "Information Systems",
+                "endorsements": "1"
+            }
+        ],
+        "allSkills": "JavaScript, Java, MySQL, Programming, Mathematics, Marketing, Machine Learning, HTML, C, Microsoft Office, Microsoft Word, PowerPoint, PHP, CSS, Microsoft Excel, HTML 5, HTML5, Access, Microsoft SQL Server, Python, Customer Service, Teaching, Teamwork, Management, Leadership, English, Information Systems"
+    }
+]
